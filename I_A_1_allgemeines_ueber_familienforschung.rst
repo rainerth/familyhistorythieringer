@@ -182,7 +182,7 @@ g) Stammliste
 Inhaltlich dasselbe, wie die Stammtafel, nur in Listenform und daher in den Angaben ausführlicher. Wie bei der Nachfahrenliste (deren Abart sie ist), sind zwei Darstellungsarten möglich, die fortlaufende und die unterbrechende.
 
 
-h) :indeex:`Sippschaftstafel`
+h) :index:`Sippschaftstafel`
 =============================
 
 Sie ist eine Kombination  von Ahnentafel und. Nachfahrentafel. Sie wird für eine Zentralperson und ihre Geschwister aufgestellt und umfasst deren Eltern samt Geschwister der Eltern mit allen Nachkommen, ferner die Großeltern, ihre Geschwister und Nachkommen usw., kurz, die gesamte Sippe, Blutsverwandte und Angeheiratete. Sie wird also sehr umfangreich. (Ihre Bedeutung liegt auf dem Gebiet der Erb-Biologie).
