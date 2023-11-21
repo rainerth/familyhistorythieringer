@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Backup
+*~
+*.bak
+.~lock*
+~$*
+
+# IDE
+*.sublime-*
+*.code-workspace
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+**.mo
+**.pot
+
+# Sphinx documentation
+_build/
+_templates/
+
+# Sphinx dependables
+sphinxenv/
+.tx
+**/.doctrees/
+
+# Sphinx local tool chain
+node_modules/
+package-lock.json
+package.json
+cmd/srv04lx12/
+
+# Artefacts
+debug.log
+build-helpers
+
+venv/

@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+		"devonray.snippet",
+		"lextudio.restructuredtext-pack",
+		"lextudio.restructuredtext",
+		"trond-snekvik.simple-rst",
+		"mrorz.language-gettext",
+		"joaompinto.vscode-graphviz",
+		"streetsidesoftware.code-spell-checker-german",
+		"wengerk.highlight-bad-chars"
+	]
+}

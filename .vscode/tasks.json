@@ -1,0 +1,162 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+		{
+			"label": "build html",
+			"command": "make html",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "build pdf",
+			"command": "make latexpdf",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "build qthelp",
+			"command": "make qthelp",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "clean build directory",
+			"command": "make clean",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "to POEdit Translation Tool",
+			"command": "cmd\\to-poedit.bat",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "from POEdit Translation Tool",
+			"command": "cmd\\from-poedit.bat",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "to POEdit Translation Tool (Linux)",
+			"command": "cmd/to-poedit.sh",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "from POEdit Translation Tool (Linux)",
+			"command": "cmd/from-poedit.sh",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "to Transifex Translation Platform",
+			"command": "cmd\\to-transifex.bat",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "from Transifex Translation Platform",
+			"command": "cmd\\from-transifex.bat",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "to Transifex Translation Platform (Linux)",
+			"command": "cmd/to-transifex.sh",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "from Transifex Translation Platform (Linux)",
+			"command": "cmd/from-transifex.sh",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "open page (on Linux only)",
+			"command": "open `find _build/html -name ${fileBasenameNoExtension}.html`",
+			"type": "shell",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+  }
