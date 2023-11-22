@@ -20,7 +20,9 @@ Gottle
 Gülten
 Hechinger
 Hohenberg
+Krämerzunft
 Kronenwirt
+Laienzehnten
 Landenberger
 Lienhart
 Manneslehen
@@ -30,6 +32,7 @@ Muhme
 Nachfahrenfolge
 Nachfahrenliste
 Norganatische
+Pfeffingen
 Schwägerschaft
 Sippschaftstafel
 Spuria
@@ -39,12 +42,14 @@ Taumätterin
 Thieringen
 Thieringer
 Thieringern
+Tieringerin
 unebenbürtigen
 Weibesstamm
 Weitbrecht'sche
 Wernher
 Wernhers
 wohlachtbare
+zinst
 Zoller
 Zollern
 Zollernburg

@@ -201,6 +201,15 @@ j) :index:`Verwandtschaftsliste`
 Inhaltlich dasselbe wie die Verwandtschaftstafel, nur in Listenform. Die einzelnen Angaben können hier ausführlicher gehalten werden, weil mehr Raum zur Darstellung vorhanden ist.
 
 
+k) weitere Begiffe
+==================
+
+.. glossary::
+
+	Laienzehnten
+		Abgabe an den Pfarrer, die der Pfarrer von den Bauern erhielt, die nicht zum Adel gehörten.
+
+
 
 .. rubric:: Fußnoten
 

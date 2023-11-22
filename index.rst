@@ -8,7 +8,7 @@ Die schwäbischen Geschlechter aus dem Raum Balingen - Südwestalb
 
 Bearbeitet von Dipl. Ing Otto DIERINGER, 78713 Schramberg / Schwarzwald, 1958
 
-Bearbeitet von Dipl. Ing Rainer THIERINGER, 78662 Bösingen / Schwarzwald, 2023
+Digitalisiert von Dipl. Ing Rainer THIERINGER, 78662 Bösingen / Schwarzwald, 2023
 
 
 
