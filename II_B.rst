@@ -72,4 +72,4 @@ Im Sommer 1957 begegnete der Verfasser dem Namen Diringer zufällig auch im Elsa
 
 .. rubric:: Fußnoten
 
-.. [#] Hier sei auf den Ortsnamen Thüringen, zwischen Feldkirch und Bludenz gelegen ,hingewiesen Übrigens erwähnt auch Rechtsanwalt Werner Dieringer in Rottweil, dass die badischen Düringer wahrscheinlich einem Berner Patrizier-Geschlecht entstammen.
+.. [#] Hier sei auf den Ortsnamen Thüringen, zwischen Feldkirch und Bludenz gelegen, hingewiesen Übrigens erwähnt auch Rechtsanwalt Werner Dieringer in Rottweil, dass die badischen Düringer wahrscheinlich einem Berner Patrizier-Geschlecht entstammen.
