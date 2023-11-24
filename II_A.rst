@@ -163,13 +163,13 @@ Bürgerliche Geschlechtsnamen Tieringer, Dieringer, Thüringer
 		-	:index:`Bertold Dieringer`, Priester-Kaplan in :index:`Alt-Bulach` Kreis Calw
 
 	*	-	1481
-		-	:index:`Bertold Dieringer`, Pfarrer in :index:`Gechingen` Kreis Calw, als die dortige Kirche erbaut und zu Ehren des Hl. Martinus geweiht wurde. - Vergleiche die Gedenktafel über dem Kirchenportal zu :index:`Gechingen`.
+		-	:index:`Bertold Dieringer`, Pfarrer in :index:`Gechingen` Kreis Calw, als die dortige Kirche erbaut und zu Ehren des Hl. Martinus geweiht wurde.\ [#]_.
 
 	*	-	1509
 		-	:index:`Dietrich Dieringer`, Inhaber des :term:`Laienzehnten` in :index:`Heinstetten` (bei :index:`Nusplingen`, bad. Heuberg)
 
 	*	-	1519
-		-	:index:`Conrat Thyringer`, in :index:`Gruol` bei :index:`Haigerloch` (Vergleiche Lagerbuch des Klosters :index:`Kirchberg` O.A. Sulz; Fürstlich Hohenzollerisches Archiv Sigmaringen)
+		-	:index:`Conrat Thyringer`, in :index:`Gruol` bei :index:`Haigerloch`\ [#]_
 
 	*	-	1519
 		-	:index:`Balthas Tieringer` in :index:`Rangendingen` Kreis Hechingen (s. ebenda)
@@ -186,10 +186,10 @@ Bürgerliche Geschlechtsnamen Tieringer, Dieringer, Thüringer
 		-	ferner :index:`Jerg Tieringer` und :index:`Hans Tieringer` in :index:`Dürrwangen`
 
 	*	-	1521 und 1523
-		-	:index:`Hans Tieringer` in :index:`Weilheim unter Lochen` (nach Musterungsliste) bzw. :index:`Waldstetten` Kreis Balingen (im Württembergischen Staatsarchiv Stuttgart)
+		-	:index:`Hans Tieringer` in :index:`Weilheim unter Lochen` bzw. :index:`Waldstetten` Kreis Balingen (nach Musterungsliste im Württembergischen Staatsarchiv Stuttgart)
 
 	*	-	1544
-		-	:index:`Hans Diringer` und :index:`seine Kindt` - 1. . (nach Herdstätten- und Türkensteuerlisten, Württembergisches Staatsarchiv)
+		-	:index:`Hans Diringer`\ 'ige Kindt in :index:`Weilheim unter Lochen` bzw. :index:`Waldstetten` Kreis Balingen  (nach Herdstätten- und Türkensteuerlisten, Württembergisches Staatsarchiv)
 
 	*	-	1560
 		-	:index:`Martin Thieringer` :index:`Hans Thieringer` und :index:`Jerg Thieringer` in :index:`Dürrwangen` Kreis Balingen (s. Weltliches Lagerbuch, Württembergisches Staatsarchiv Stuttgart)
@@ -197,81 +197,58 @@ Bürgerliche Geschlechtsnamen Tieringer, Dieringer, Thüringer
 	*	-	1574
 		-	:index:`Martin Dieringer`, in :index:`Gechingen` Kreis Calw (s. Taufregister)
 
+Weitere Dieringer in den folgenden Jahrzehnten in :index:`Gechingen`
 
-.. list-table:: Im badischen Gebiet
+
+.. list-table:: Im badischen Gebiet\ [#]_
 	:align: left
 	:stub-columns: 1
 	:widths: 10 90
 
 
+	*	-	1347
+		-	der Toeringer, ansässig in Riegel am Kaiserstuhl (fraglich,ob Toeringer = Tieringer?)
 
-1308 - Albrecht und Markward die Dieringer, in Gösslingen Kr. Rottweil
-1311 - Markward der Tlieringer
-1347 - Anna,des Tieringer's Tochter in Flözlingen Kr,Rottweil
-1346 - Johann Dieringer
-1350 - Johann Tieringer, Pfarrer (Frühmesser) in Heilbronn
-1363 - Heinrich der Thieringer Bürger in Rottweil (Thefrau:Irmengarä)
-1441 - Peter Tieringer, Bürger in Rottweil (Angehöriger der Krämerzunft) -
-1441 - Johannes Tieringer,in Rottweil
-1443 - Bertold Dieringer, PRiester-Kaplan in ÄAlt-Bulach‘ Kr .Calw
-1481 - Bertold Dieringer,Pfarrer in Gechingen Kr,Calw,als die dortige
-Kirche erbaut und zu Ehren des Hl.Martinus zewsiht wurde,-Vergl.
-die Gedenktafel über dem Kirchenportal zu Gechingen.
-1509 - Dietrich Dieringer,Inhaber des Laienzehnten in Heinstetten
-(bei Nusplingen, bad. Hanbere)
-1519 - Conrat Thyringer, in Gruot. b,Haigerloch (ver, Lagerbuch des Klos-
-ters Kirchberg O.A.Sulz;Fürstl.Hohenzoll.Archiv Sigmaringen)
-1519 - Balthas Tieringer in Rangendingen Kr.Hechingen (s,ebenda)
-1521 - Balthas Tieringer in Dürrwangen Kr.Balingen (nach. Musterungsliste
-1560 - u.1566- Hans Tieringer in Dürrwangen | (im Württ „Staatsarchiv
-1597 - Jung Hans Thüringer,Martin Thüringer (Stuttgart)
-ferner Jerg und Hans Tieringer in Dürrwangen
-1521 und 1523 - Hans Tieringer in Weilheim u.Lochen (nach. Musterungsliste
-bzw.Waldstetten Kr.Balingen (im Württ,Staats-
-1558 und 1560 - Ballin Dieringer in Weilheim u.L. (archiv Stuttgart)
-1560 und 1566 - Martin Thieringer in Weilheim u.l. tn
-1525 -— Hans Martin Tieringer in Weilheim u,.L.-Waldstetten (nach Herdstät-
-1544 - Hans Diringer'ige Kindt - 1. . (ten-u,Türken-
-steuerlisten, Württ Staatsarchiv)
-1560 - Martin Thieringer Hans und Jerg Thieringer in Dürrwangen Kr. Balingen
-(s.Weltl,Lagerbuch ,‚Württ ‚Staatsarchiv Stuttgart)
-1574 -Martin Dieringer, in Gechingen Kr.Calw (s.Taufregister)
+	*	-	1405
+		-	:index:`Clara Tieringerin`, Besitzerin von Gülten in :index:`Bötzingen` (bei :index:`Freiburg`)
 
-Im badischen Gebiet:
+	*	-	1428
+		-	:index:`Peter Tieringer`, Ratsherr in :index:`Kenzingen` am Kaiserstuhl (vermutlich der Vater des 1474 verstorbenen Kaplans :index:`Peter Tieringer` zu :index:`Endingen`)
 
-(weitere Dieringer in den folg.Jahrzehnten in Gechingen)
+	*	-	1441
+		-	:index:`Peter Hainwiller` genannt Tieringer, in :index:`Endingen` am Kaiserstuhl (Urkunde der Bischöfe von Konstanz vom 10.12.1441 betreffs Schlichtung eines Streits zwischen :index:`Peter Tieringer` und Werner Tungen, Kirchherr, über den Marienaltar in der Pfarrkirche zu :index:`Endingen`)
 
-(vgl.Aufsatz von J.K,Brechennacher, 1940)
+	*	-	1469
+		-	:index:`Johann Tyeringer`, in :index:`Breisach` (1472: Johann Dieringer)
 
-1347 - der Toeringer, ansässig in Riegel am Kaiserstuhl (fraglich,ob
+	*	-	1479
+		-	:index:`Johann Tieringer`, in :index:`Steckborn`
 
-Toeränger = Tieringer ?)
+	*	-	1487
+		-	:index:`Klaus Tieringer`, Stadtrat in :index:`Kenzingen`, Schaffner des Zisterzienser-Klosters Wonnental bei :index:`Kenzingen`
 
-1405 - Trau Clara Tieringerin,desitzerin von Gülten in Bötzingen
+	*	-	1415
+		-	:index:`Hans Türing`, Frühmesser und Dekan zu :index:`Endingen` am Kaiserstuhl
 
-1428 - Peter Tieringer, Ratsherr in Kenzingen am Kaiserstuhl (vermutlich
-der Vater des 1474 verst.Kaplans Peter Tieringer zu Endingen)
+	*	-	1504
+		-	:index:`Afra Hauss geborene Tieringerin`, in :index:`Freiburg`
 
-1441 - Peter Hainwiller genannt Tieringer,in Endingen am Kaiserstuhl
-(Urkunde der Bischöfe von Konstanz v.10,.12, 1441 betr,Schlichtung
-eines Streits zwischen Peter Tieringer und Werner Eiagen Käfchheun,
-über den Marienaltar in d.Pfarrkirche zu Endingen)
+	*	-	1507
+		-	:index:`Jakob Tieringer`, Bürger in :index:`Breisach`
 
-1469 - Johann Tyeringer,in Breisach (1472:Johann BleHnger)
+	*	-	seit 1652 (mindestens)
+		-	gibt es :index:`Dieringer` in :index:`Kiechlinsbergen` am Kaiserstuhl
 
-1479 - Johann Tieringer, in Steckborn
+	*	-	1544
+		-	:index:`Magnus Thüringer`, Abt zu :index:`St.Peter` (siehe Inschrift unter einem der Abtsbilder: 39. Abt; geboren zu :index:`Allensbach` am Bodensee, erwählt 26.6.1544, gestorben 2.10.1553)
 
-1487 - Klaus Tieringer, Stadtrat in Kenzingen, Schaffner des Zisterzienser-
-Klosters Wonnental bei Kenzingen
 
-1415 - Hans Türing, Frühmesser und Dekan zu Endingän. am Kaiserstuhl
+.. rubric:: Fußnoten
 
-1507 - Jakob Tieringer, Bürger in Breisach
+.. [#] Vergleiche die Gedenktafel über dem Kirchenportal zu :index:`Gechingen`
 
-seit 1652 (mindestens) gibt es Dieringer in Kiechlinsbergen am Kaiserstuhl
 
-1544 - Magnus Thüringer,Abt zu St.Peter (s.Inschrift unter einem der Abts-
-bilder: 39.Abt;geboren zu Allensbach a.Bodensee,erwählt 26.6.1544,
-sest.2,.10.1553)
+.. [#] Vergleiche Lagerbuch des Klosters Kirchberg O.A.Sulz; Fürstlich Hohenzollernsches Staatsarchiv Sigmaringen.
 
-150% - Afra Hauss zeb.Tieringerin, in freiburg
+.. [#] Vergleich Aufsatz von J.K. :index:`Brechenmacher`, 1940
+
