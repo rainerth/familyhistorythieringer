@@ -17,12 +17,12 @@ Inhaltsverzeichnis
 
 .. toctree::
 	:maxdepth: 2
-	:caption: Contents:
 
 	vorwort
 	I_A_1_allgemeines_ueber_familienforschung
 	I_B_1_familienforschung_dieringer
 	II_A
+	II_B
 
 
 
@@ -42,4 +42,5 @@ Quellen:
 * http://www.thieringer.net/
 * https://www.compgen.de/recherchieren/
 * https://www.yumpu.com/de/document/view/5084726/hohenzollerische-heimat-hohenzollerischer-geschichtsverein-ev
+* https://www.digitale-sammlungen.de/de/
 

@@ -209,6 +209,45 @@ k) weitere Begiffe
 	Laienzehnten
 		Abgabe an den Pfarrer, die der Pfarrer von den Bauern erhielt, die nicht zum Adel gehörten.
 
+	Juchart
+		Die Juchart oder Jucharte war ein in der Schweiz bis ins frühe 20. Jahrhundert, in der landwirtschaftlichen Umgangssprache teilweise bis heute gebräuchliches Flächenmass. Es wird in anderen deutschsprachigen Gegenden Joch, Jochart, Jauchart, Jauch, Juck oder Juckert genannt und entspricht dem süddeutschen Tagewerk; im Verhältnis zum Morgen liegt es zwischen dessen "kleinen" und "grossen" Varianten.
+
+		Da Landmasse meist auf Schätzungen von Arbeitsprozessen beruhte, war eine Juchart nicht immer gleich gross. Es kam auf die Lage des zu messenden Landstücks an.
+
+		Ist eine Juchart aufgrund einer in einem Tag vollführten Arbeit definiert, so variiert sie je nach  Geländebeschaffenheit. Im Mittelland lag die Einheit für Ackerland zwischen 27 und 36 Aren, in Gebieten mit vorwiegend Getreidebau betrug eine Juchart zwischen 32 und 36 Aren, mit vorwiegend Wiesland 27 bis 34 Aren.
+
+		Je hügeliger und steiler das Land, desto kleiner die Juchart - im Rebbau mass sie nur zwischen drei und vier Aren.
+
+		Die Grösse einer Juchart hing aber auch stark vom lokalen Gebrauch ab. Schon auf wenige Kilometer Distanz konnten sich zwischen sonst ähnlich strukturierten Ortschaften signifikante Unterschiede ergeben. So mass beispielsweise in Kaiserstuhl eine Juchart 36,09 Aren, in Zurzach nur 32,41 Aren.
+
+		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Juchart>`_
+
+
+	Mannsmahd
+		Die Mannsmade, auch Mannsmad oder Mannsmahd, war ein Flächenmaß im Freistaat der Drei Bünde im St. Galler Rheintal und in Württemberg. Es wurde in der übrigen Schweiz verbreitet Mannwerk genannt und zunehmend mit der Juchart gleichgesetzt. Typologisch verwandt ist der Begriff des Tagewerks oder Tagwans.
+
+		Das Maß bezeichnete eine Wiesenfläche, die so groß ist, dass ein Mann sie in einem Tag mähen kann, also etwa 20 Aren (2000 m²).
+
+		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Mannsmade>`_
+
+
+	Herdstättensteuer
+		Die Herdstättensteuer wurde auf der Grundlage der Anzahl der Herdstätten oder Feuerstellen in einem Haushalt erhoben. Eine Herdstätte oder Feuerstelle war damals ein zentraler Punkt im Haus, meist eine offene Feuerstelle oder ein Kamin, der für Kochen und Heizen verwendet wurde.
+
+	Türkensteuerliste
+		Die "Türkensteuerliste" bezieht sich auf Aufzeichnungen oder Listen, die im Zusammenhang mit der Erhebung der Türkensteuer erstellt wurden. Die Türkensteuer war eine spezielle Steuer, die in verschiedenen europäischen Ländern, insbesondere im Heiligen Römischen Reich und in Teilen Italiens, während des 16. und 17. Jahrhunderts erhoben wurde. Der Hauptzweck dieser Steuer war es, Mittel für den Kampf gegen das Osmanische Reich zu beschaffen, das zu dieser Zeit eine bedeutende militärische Bedrohung für Europa darstellte.
+
+	Gerichtsverwandter
+		Im 17. Jahrhundert bezeichnete der Begriff "Gerichtsverwandter" eine Person, die Teil der lokalen Gerichtsbarkeit oder des Gerichtswesens war, insbesondere in ländlichen oder kleinstädtischen Gebieten im deutschsprachigen Raum. Diese Rolle war in der sozialen und rechtlichen Struktur der damaligen Zeit von Bedeutung.
+
+	Winkeladvokat
+		Der Ausdruck Winkeladvokat oder Winkelschreiber bezeichnet ursprünglich eine Person, die sich, ohne Rechtsanwalt (früher Advokat genannt) zu sein, berufsmäßig damit befasst, gegen Entgelt die Rechtsangelegenheiten anderer zu erledigen. Erst in heutiger Zeit ist der Ausdruck eine abwertende Bezeichnung für einen Rechtsanwalt, dem es an juristischen Kenntnissen mangelt und/oder der auf unlautere bzw. illegale Methoden zurückgreift.
+
+
+	Herren von Ow
+		Ow (auch Owa, Ouwe, Owe, Awa, Aw, Auw, Au und Ow und in allen Fällen Au(e) gesprochen) ist der Name eines alten schwäbischen Adelsgeschlechts mit seinem Stammhaus Ouwe bei Obernau (Landkreis Tübingen), das der schwäbischen Reichsritterschaft angehört. Die Herren zu Ow waren im 13. und 14. Jahrhundert eine der bedeutendsten Familien im Landkreis Tübingen. Sie waren Ministeriale der Grafen von Tübingen und der Herzöge von Teck. Die Familie ist 1356 ausgestorben.
+
+		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Ow_(Adelsgeschlecht)>`
 
 
 .. rubric:: Fußnoten

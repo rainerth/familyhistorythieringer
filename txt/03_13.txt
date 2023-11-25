@@ -39,7 +39,7 @@ rs ”
 “ +
 E4 SL
 ı
-um ,r
+um, r
 a x
 [22 “ ”,
 

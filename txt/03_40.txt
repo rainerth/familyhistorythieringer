@@ -9,12 +9,12 @@ Christian,Bauer ‚Wirt ‚Erzingen, 80
 Christian,Bauer,£rzingen, 81
 
 Christian, Erzingen, 82
-Christian,Schlosser ,‚£rzingen, 85
+Christian,Schlosser, ‚£rzingen, 85
 Christian,Bauer ‚Wirt ‚Öfterdingen, 83
 
 Christian, Ostdorf,83
 
-Christian Wilhelm, Meßstetten/Amerika ,84
+Christian Wilhelm, Meßstetten/Amerika, 84
 Gottlieb, Bauer, Erzingen, 85
 
 Hans, Dürrwangen, 77
@@ -22,51 +22,51 @@ Jakob,Richter,Eiirzingen, 78
 
 Jakob ‚Wagner,Erzingen,”?9
 
-Jakob,Bauer ,‚Ürzingen/Bronnhaupter Hof,81
+Jakob,Bauer, ‚Ürzingen/Bronnhaupter Hof,81
 Jakob, Bürger ‚Deufringen, 82
 Jakob,Schlosser ‚Esslingen a.N.,83
 
-Jakob ,‚Kaufinann,Balingen, 84
+Jakob, ‚Kaufinann,Balingen, 84
 
 Jerg, Dürrwangen, 76
 
 Jerg, Rothenburg 0.T.,76
 Jerg, Dürrwangen, 76
-Jerg, Bäcker ,‚Dürrwangen, 77
+Jerg, Bäcker, ‚Dürrwangen, 77
 Johannes, Dürrwangen, 76
 
 Johannes ‚Bauer, Erzingen, 78
-Johannes ‚Bauer ,Erzingen, 79
+Johannes ‚Bauer, Erzingen, 79
 
 Johannes ‚Wagner, Bürgermeister Richter, Erz.80
 Johannes ‚Richter, Erzingen, 50
-Johannes ‚Sauer ,‚Erzingen, S1
+Johannes ‚Sauer, ‚Erzingen, S1
 
 Johannes ‚Bauer,ürzingen, 81
 Johannes ‚Bauer, ürzingen, 32
 Johannes ‚Bauer ‚ündingen, 84
-Johannes ‚Bauer ,Östdorf,85
+Johannes ‚Bauer, Östdorf,85
 
-Johann Georg, Bauer ,‚Erzingen, 78
+Johann Georg, Bauer, ‚Erzingen, 78
 
 Johann Georg, Bauer, Ürzingen, 80
 
-Johann Georg,Bauer ‚Bürgermeister ,ürzingen, 84
+Johann Georg,Bauer ‚Bürgermeister, ürzingen, 84
 Johann Georg,Bauer,ärzingen,d2
 
 Johann Georg,Metzger, Tübingen, 84
 
 Johann Martin,Xrautschneider,Erzingen, 78
-Karl, Ravensburg , 834
-Karl,Dr.med. ,‚Arzt,Trossingen, 85
+Karl, Ravensburg,  834
+Karl,Dr.med., ‚Arzt,Trossingen, 85
 
 ludwig, Bauer,Östdorf,33
 
-Ludwig ,Bauer ,Baumwart ‚Ostdorf,35
+Ludwig, Bauer, Baumwart ‚Ostdorf,35
 
 Martin, Dürrwangen, 76
 
-Ludwig ,Vogt ‚Ärzingen, 77
+Ludwig, Vogt ‚Ärzingen, 77
 Martin, Bauer, Erzingen, 77
 Martin,Bauer,Ürzingen, 79
 Yalrtin,Hufschmied,Erzingen, 79

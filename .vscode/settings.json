@@ -19,10 +19,17 @@
 	},
 	"esbonio.sphinx.confDir": "${workspaceFolder}",
 	"esbonio.sphinx.srcDir": "${workspaceFolder}",
-	"restructuredtext.linter.name": "none",
-	"restructuredtext.linter.doc8.extraArgs": [
+	"restructuredtext.linter.disabledLinters":[ "rst-lint" ],
 
+	"restructuredtext.linter.doc8.extraArgs": [
 		"--ignore D000",
+		"--ignore D001",
+		"--ignore D002",
+		"--ignore D003",
+		"--ignore D004"
+	],
+	"restructuredtext.linter.rst-lint.extraArgs": [
+		"--ignore=D000",
 		"--ignore D001",
 		"--ignore D002",
 		"--ignore D003",

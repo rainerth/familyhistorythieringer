@@ -13,14 +13,14 @@ Augustin, Kaufmann, 59
 Balthas, Weilheim u.L.5J9
 Balthas, Tuttlingen‘, 75
 
-Emil,Schlosser, Ohmenhausen , 64
+Emil,Schlosser, Ohmenhausen,  64
 Ferdinand, (K)Zugmstr,Xottweil,61
 Franz Xaver (K),Kraftf.Rottwl,64
 Gottlieb,Bauer, Wirt ‚Weilhm u.L.56
 Gottlieb,Steingutdreher, 98
 Gottlieb,Bäcker, Weilheim u.L.,75
 Gottlob (K)Fabr.Arb, ‚Lauffen, 65
-Gottlob ,Schriftsetzer ,Stuttgt ,68
+Gottlob, Schriftsetzer, Stuttgt, 68
 Hans, Dürrwangen,Si
 Hans, Dürrwangen-Bitz,5i
 Heinrich,Kfm. ‚Schwenningen, 63
@@ -32,10 +32,10 @@ Jakob,Bauer, Bösingen, 957
 Jakob,Bauer,Bösingen, 39
 
 Jakob,Wirt ‚Metzger, Täbingen, 63
-Johannes,Tagl. ,Dürrwangen ‚SQ
-Johannes ‚Wirt ,Lauffen, 38
-Johannes ‚Bauer ,Schneider,Täbgn,59
-Johannes , Landwirt ‚Bösingen, 62
+Johannes,Tagl., Dürrwangen ‚SQ
+Johannes ‚Wirt, Lauffen, 38
+Johannes ‚Bauer, Schneider,Täbgn,59
+Johannes,  Landwirt ‚Bösingen, 62
 Johannes ‚Müller,Leidringen,6J3
 Johannes (K)Gemüsehdlr,Sulgen,63
 Johannes Evangelist,.
@@ -48,24 +48,24 @@ Josef, (K)Flsschner ‚Bösingen, 62
 Josef, (K)kraftf.,Sulgen,64
 Karl, (K)Bäcker,Wirt,Lauffen,61
 Kari,(K)Wirt,Lauffen,61
-Kaspar ,Bauer,Sulgen, 38
+Kaspar, Bauer,Sulgen, 38
 Konrad,Salp.s. ;Weilheim, 93
-Kurt ‚Pfarrer ,St.Georgen,62
+Kurt ‚Pfarrer, St.Georgen,62
 Matthäus, Dürrwangen,Si
-Matthäus ‚Weber ,‚Erzingen, 57
+Matthäus ‚Weber, ‚Erzingen, 57
 Matthäus ‚Weber ‚Erzingen, 68
 Martin, Dürrwangen,Si
 Martin,Bauer,Weilheim u.L. ‚51
 Martin,Bauer Weilheim u.L.,52
 Martin,Bauer, Erzingen ‚54
 Matthias,Schuhm. ‚Erzingen, 52
-Matthias ,‚Schuhn. ‚Erzingen,S4
-Matthias,Tagl. ,Erzingen, 55
+Matthias, ‚Schuhn. ‚Erzingen,S4
+Matthias,Tagl., Erzingen, 55
 Oskar, (K)Kfm. ‚Lauffen, 65
 Otto (KÄ)Lok.heizer,Rottweil,61
 Otto (K)Wirt ‚Schramberg,65
 
-Robert, (K)Steinhauer ,‚Str.wart ,‚Sulg.6
+Robert, (K)Steinhauer, ‚Str.wart, ‚Sulg.6
 Stefan (K)Bäcker ‚Denkingen, 64
 Wilhelm (K)Kaufm,.,Ohmenhausen, 60
 Wilhelm, Bauer Täbingen, 63
@@ -75,10 +75,10 @@ Wunibald (K),Tagl.,Mariazell,60
 Dieringer:
 Andreas (K)O.kellner,San Francisco,6!
 
-Andreas (K)R.B.Schaffner ,‚Stuttgt ,73
+Andreas (K)R.B.Schaffner, ‚Stuttgt, 73
 Alfons, (K)O.Lehrer,Ballrechten, 73
-Alfons, (K)Rektor ,Sulgen, 74
-Anton,Landwirt ,‚Weilen u.R.,72
+Alfons, (K)Rektor, Sulgen, 74
+Anton,Landwirt, ‚Weilen u.R.,72
 
 Anton Ignaz (K)Weber ‚Gunningen, 67
 Augustin, (K)Postbote,Gunningen, 69
@@ -91,16 +91,16 @@ Jakob, (K)Lehrer ‚Nendingen,67
 Jakob, (K)Weber ‚Gunningen, ?O
 Johannes, (K) Weilen u.R.,56
 Johannes, Schreiner,Weilen, 656
-Johannes, (K)Weber ,Postbote ,Gunngn, 67
+Johannes, (K)Weber, Postbote, Gunngn, 67
 Johannes, (X)Kaufm, ‚Ravensburg, 71
 Johannes, (K)Fabr.Arb. ‚Tuttlingen, 72
 Johannes, (K)Landwt ‚Tagl. ‚Gunningen, 72
-Johannes, (K)R.B.Insp. ‚Stuttgart ,73
+Johannes, (K)R.B.Insp. ‚Stuttgart, 73
 Johann Georg,Maurer,Str.wt,Weilen,69
-Josef, (K)Bauer ,Salp.s. ,Weilen u.R.58
+Josef, (K)Bauer, Salp.s., Weilen u.R.58
 Josef, (K)Gipser, Ldwt ‚Weilen uR,,7e
 Josef, _Gipser,Weilen u.R,,72
-Konrad,Salp.s. ,‚Denkingen,54.
+Konrad,Salp.s., ‚Denkingen,54.
 
 Konrad, (K)Salp.s. ‚Gunningen, 56
 Konrad, (K)Weber ‚Komniss. ‚Tuttlen,69

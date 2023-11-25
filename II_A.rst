@@ -80,7 +80,7 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 		-	:index:`Diethelm der Tieringer`
 
 	*	-	1423
-		-	:index:`Wernher Tyringer`, im Dienste der Herren von Ow in ihrem von :index:`Bernhard von Baden` belagerten Schloss :index:`Bodelshausen`. Er ist nach 3 Edelknechten (Adeligen) der erste von 11 Knechten (Soldaten) und hat kein eigenes Siegel.
+		-	:index:`Wernher Tyringer`, im Dienste der :term:`Herren von Ow` in ihrem von :index:`Bernhard von Baden` belagerten Schloss :index:`Bodelshausen`. Er ist nach 3 Edelknechten (Adeligen) der erste von 11 Knechten (Soldaten) und hat kein eigenes Siegel.
 
 	*	-	1425
 		-	:index:`Hans von Thieringen`, nebst anderen Helden, Überlebender der fast einjährigen Belagerung und des Sturms der schwäbischen Reichsstädte auf die :index:`Burg Hohenzollern` am 15.5.1423. (Siehe Gedenktafel in der St. Michaels-Kapelle der Burg Hohenzollern.)
