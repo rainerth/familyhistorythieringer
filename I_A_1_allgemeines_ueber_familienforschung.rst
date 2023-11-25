@@ -247,7 +247,6 @@ k) weitere Begiffe
 	Herren von Ow
 		Ow (auch Owa, Ouwe, Owe, Awa, Aw, Auw, Au und Ow und in allen Fällen Au(e) gesprochen) ist der Name eines alten schwäbischen Adelsgeschlechts mit seinem Stammhaus Ouwe bei Obernau (Landkreis Tübingen), das der schwäbischen Reichsritterschaft angehört. Die Herren zu Ow waren im 13. und 14. Jahrhundert eine der bedeutendsten Familien im Landkreis Tübingen. Sie waren Ministeriale der Grafen von Tübingen und der Herzöge von Teck. Die Familie ist 1356 ausgestorben.
 
-	Herren von Ow
 		Quelle: `Wikipedia - Ow <https://de.wikipedia.org/wiki/Ow_(Adelsgeschlecht)>`
 
 

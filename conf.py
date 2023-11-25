@@ -316,10 +316,11 @@ if docscope == 'internal':
 	html_theme_options = {
 		"use_fullscreen_button" : True,
 		"use_download_button": True,
-		# "repository_url": "https://dev.azure.com/trumpf-laser/VisionLine%20Platform/_git/sphinx-doc",
-		# "use_issues_button": True,
-		# "use_edit_page_button": True,
+	    "repository_provider": "github",
+		"repository_url": "https://github.com/rainerth/familyhistorythieringer",
 		"repository_branch": "develop",
+		"use_issues_button": True,
+		"use_edit_page_button": True,
 		"extra_footer": "<p>{0}<br /><b>{1}</b></p>".format(
 			datetime.now().strftime(today_fmd),
 			releaselevelstring
