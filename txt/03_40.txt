@@ -5,12 +5,12 @@ Vornamensverzeichnis der verheirateten männlichen Namensträger,
 b) Zweite Dürrwanger Linie: Thieringer. (Zahlen geben die Seite an)
 
 Albert ‚Kaufmann, Balingen, 84 (ohne Dieringer !)
-Christian,Bauer ‚Wirt ‚Erzingen, 80
-Christian,Bauer,£rzingen, 81
+Christian, Bauer ‚Wirt ‚Erzingen, 80
+Christian, Bauer,£rzingen, 81
 
 Christian, Erzingen, 82
-Christian,Schlosser, ‚£rzingen, 85
-Christian,Bauer ‚Wirt ‚Öfterdingen, 83
+Christian, Schlosser, ‚£rzingen, 85
+Christian, Bauer ‚Wirt ‚Öfterdingen, 83
 
 Christian, Ostdorf,83
 
@@ -18,15 +18,15 @@ Christian Wilhelm, Meßstetten/Amerika, 84
 Gottlieb, Bauer, Erzingen, 85
 
 Hans, Dürrwangen, 77
-Jakob,Richter,Eiirzingen, 78
+Jakob, Richter, Eiirzingen, 78
 
-Jakob ‚Wagner,Erzingen,”?9
+Jakob ‚Wagner, Erzingen,”?9
 
-Jakob,Bauer, ‚Ürzingen/Bronnhaupter Hof,81
+Jakob, Bauer, ‚Ürzingen/Bronnhaupter Hof,81
 Jakob, Bürger ‚Deufringen, 82
-Jakob,Schlosser ‚Esslingen a.N.,83
+Jakob, Schlosser ‚Esslingen a.N.,83
 
-Jakob, ‚Kaufinann,Balingen, 84
+Jakob, ‚Kaufinann, Balingen, 84
 
 Jerg, Dürrwangen, 76
 
@@ -51,14 +51,14 @@ Johann Georg, Bauer, ‚Erzingen, 78
 
 Johann Georg, Bauer, Ürzingen, 80
 
-Johann Georg,Bauer ‚Bürgermeister, ürzingen, 84
-Johann Georg,Bauer,ärzingen,d2
+Johann Georg, Bauer ‚Bürgermeister, ürzingen, 84
+Johann Georg, Bauer,ärzingen, d2
 
-Johann Georg,Metzger, Tübingen, 84
+Johann Georg, Metzger, Tübingen, 84
 
-Johann Martin,Xrautschneider,Erzingen, 78
+Johann Martin, Xrautschneider, Erzingen, 78
 Karl, Ravensburg,  834
-Karl,Dr.med., ‚Arzt,Trossingen, 85
+Karl, Dr.med., ‚Arzt, Trossingen, 85
 
 ludwig, Bauer,Östdorf,33
 
@@ -68,7 +68,7 @@ Martin, Dürrwangen, 76
 
 Ludwig, Vogt ‚Ärzingen, 77
 Martin, Bauer, Erzingen, 77
-Martin,Bauer,Ürzingen, 79
-Yalrtin,Hufschmied,Erzingen, 79
+Martin, Bauer,Ürzingen, 79
+Yalrtin, Hufschmied, Erzingen, 79
 
 Nachträge: 8.5.98.

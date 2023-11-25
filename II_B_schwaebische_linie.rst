@@ -22,7 +22,7 @@ Somit bleiben als die zwei wichtigsten, vorläufig noch getrennten, Linien der D
 #. die :ref:`ref_erste_duerrwanger_linie` mit Stammvater :index:`Hans Thieringer`\ [#]_
 #. die :ref:`ref_zweite_duerrwanger_linie` mit Stammvater :index:`Jerg Thieringer`\ [#]_
 
-Die Darstellung dieser zwei Linien im Mannesstamm,von 1629 bis heute, bildet den eigentlichen Kern der vorliegenden Arbeit. (Vergl. Teil III: :ref:`ref_stammliste_duerrwanger_linien`)
+Die Darstellung dieser zwei Linien im Mannesstamm, von 1629 bis heute, bildet den eigentlichen Kern der vorliegenden Arbeit. (Vergl. Teil III: :ref:`ref_stammliste_duerrwanger_linien`)
 
 
 Vielleicht gelingt es später, auf Grund weiteren Quellenstudiums, vor allem an Hand der Akten des Staatsarchivs Stuttgart, das vorläufige Dunkel vor 1529 aufzuhellen und fehlende Zusammenhänge zu klären.
@@ -75,6 +75,7 @@ Die Thieringer lebten also schon über 100 Jahre früher in Dürrwangen, als die
 | 1558 |                  | Ballin Thieringer                  |
 +------+------------------+------------------------------------+
 | 1560 | Die erste Wahl   | Ballin Thieringer (1 Spieß)        |
++------+------------------+------------------------------------+
 |      | Die ander Wahl   | Martin Thieringer                  |
 +------+------------------+------------------------------------+
 | 1566 | Die ander Wahl   | Martin Thieringer (Spieß)          |
@@ -121,7 +122,7 @@ Der vierte Sohn, :index:`Johannes Thieringer` (1690-1743) heiratete 1716 in Dür
 * während der zweite Sohn, :index:`Hans Martin Thieringer` (geboren 1723) als Taglöhner wieder nach :index:`Weilheim unter Lochen` heiratet. Dessen Nachkommen sind unbekannt.
 * Endlich von 5. Sohn, :index:`Balthas Thieringer` (1695-1748) wissen wir weder Beruf noch Nachkommen.
 
-Verfolgen wir nun weiter das Schicksal des :index:`Martin Thieringer`, Bauern in :index:`Weilheim-Waldstetten` (1633-1762). Er wurde der Ahnherr von 7 Generationen, die sich in verschiedenen Zweigen in Südwürttemberg und Südbaden weiter verbreitet haben bis zum heutigen Tag. Wie sein Vater,hat er keine Töchter, dafür aber drei Söhne (V. Generation), die alle in :index:`Weilheim unter Lochen` geboren sind:
+Verfolgen wir nun weiter das Schicksal des :index:`Martin Thieringer`, Bauern in :index:`Weilheim-Waldstetten` (1633-1762). Er wurde der Ahnherr von 7 Generationen, die sich in verschiedenen Zweigen in Südwürttemberg und Südbaden weiter verbreitet haben bis zum heutigen Tag. Wie sein Vater, hat er keine Töchter, dafür aber drei Söhne (V. Generation), die alle in :index:`Weilheim unter Lochen` geboren sind:
 
 * :index:`Jakob Thieringer`, Wirt und Biersieder (1712-1776), von dessen Nachkommen die Spuren bald aufhören
 * :index:`Johann Martin Thieringer` (1719-1776), Salpetersieder, Taglöhner und Bürger in Weilheim, höchstwahrscheinlich der Vater von :index:`Josef Thieringer` (1749-1807), Schneider und Bürger in :index:`Weilheim` und :index:`Konrad Thieringer` (1727-1778), der als Salpetersieder 1750 in :index:`Weilheim unter Lochen` heiratete, später nach :index:`Denkingen` Kreis Tuttlingen verzog und in :index:`Hopfau` bei Sulz a.N. starb.
@@ -144,7 +145,7 @@ Johann Martin hatte aus 2 Ehen 17 Kinder, darunter die folgenden vier Söhne:
 Dem oben genannten :index:`Konrad Thieringer` (1727-1778), Salpetersieder
 in Weilheim bzw. :index:`Denkingen`, wurden ausser einer Tochter drei Söhne geboren (VI. Generation), von denen wir nur von Konrad (1755-1817) Näheres wissen:
 
-Er war wie sein Vater Salpetersieder, hatte also einen unsteten Beruf, der ihn durch verschiedene Ortschaften des Heubergs und der Baar führte. 1779 heiratete er in :index:`Ratshausen` Kreis Balingen und wird dort,ebenso wie alle seine Nachkommen, mit dem an sich falschen Namen :index:`Dieringer` geschrieben. (Der in den "Tuttlinger Heimatblätter" 1928/7 S. 62 genannte Salpetergraber :index:`Konrad Dieringer` von :index:`Deilingen` (1794) ist vielleicht derselbe).)
+Er war wie sein Vater Salpetersieder, hatte also einen unsteten Beruf, der ihn durch verschiedene Ortschaften des Heubergs und der Baar führte. 1779 heiratete er in :index:`Ratshausen` Kreis Balingen und wird dort, ebenso wie alle seine Nachkommen, mit dem an sich falschen Namen :index:`Dieringer` geschrieben. (Der in den "Tuttlinger Heimatblätter" 1928/7 S. 62 genannte Salpetergraber :index:`Konrad Dieringer` von :index:`Deilingen` (1794) ist vielleicht derselbe).)
 
 Von seinen 5 katholischen Kindern (VII. Generation) ist jedes an einem anderen Ort geboren:
 
@@ -203,7 +204,7 @@ Der Bruder Martin (1636-1681) hatte ebenfalls 2 Söhne (III. Generation): :index
 
 Jerg's Ehefrau war eine Tochter des Vogts von :index:`Dürrwangen`. Ihr Sohn :index:`Jerg Thieringer` (geboren 1716) war Bäcker in Dürrwangen. Von dessen Söhnen fehlen weitere Spuren.
 
-:index:`Ludwig Thieringer` (1675-1753) heiratete im Jahr 1700 nach :index:`Erzingen` Kreis Balingen, wurde dort Bürger und Vogt und zugleich der Begründer des fruchtbaren Erzinger Zweiges,der bis etwa 1870 dort sesshaft war.
+:index:`Ludwig Thieringer` (1675-1753) heiratete im Jahr 1700 nach :index:`Erzingen` Kreis Balingen, wurde dort Bürger und Vogt und zugleich der Begründer des fruchtbaren Erzinger Zweiges, der bis etwa 1870 dort sesshaft war.
 
 Aus 2 Ehen hatte er 13 Kinder, von denen 4 jung starben. Seine 4 Söhne (IV. Generation) waren Bauern und Bürger in Erzingen, einer davon ausserdem Richter und zwar :index:`Jakob Thieringer` (1720-1796).
 

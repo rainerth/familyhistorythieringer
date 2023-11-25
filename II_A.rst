@@ -87,7 +87,7 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 
 			1447 siegelt er eine Urkunde.
 
-			Am 31. Oktober 1459 wird sein Streit mit :index:`Lienhart Remen` aus Hechingen wegen des Erbes seines Bruders :index:`Wernher von Thieringen` (Vogt des Grafen :index:`Eitel Friedrich von Zollern` in Hechingen) durch den Grafen Sigmund von Hohenberg dahin entschieden, dass das meiste Gut Wernhers (besonders Güter zu Hechingen und im Elsass) an Graf Sigmund's Stiefsohn, den Grafen :index:`Jos Niklas von Zollern` fallen, die von dem Haus Osterreich zu Lehen rührenden Zehnten, Nutzen,Gülten und Güter zu Thieringen dem Dorf jedoch Hansen und seinen Erben eigentümlich zugehören sollen. (Siegel: geästeter Querbalken)
+			Am 31. Oktober 1459 wird sein Streit mit :index:`Lienhart Remen` aus Hechingen wegen des Erbes seines Bruders :index:`Wernher von Thieringen` (Vogt des Grafen :index:`Eitel Friedrich von Zollern` in Hechingen) durch den Grafen Sigmund von Hohenberg dahin entschieden, dass das meiste Gut Wernhers (besonders Güter zu Hechingen und im Elsass) an Graf Sigmund's Stiefsohn, den Grafen :index:`Jos Niklas von Zollern` fallen, die von dem Haus Osterreich zu Lehen rührenden Zehnten, Nutzen, Gülten und Güter zu Thieringen dem Dorf jedoch Hansen und seinen Erben eigentümlich zugehören sollen. (Siegel: geästeter Querbalken)
 
 	*	-	1412
 		-	:index:`Bengo von Thieringen`, Bürger von :index:`Rottweil`, 50 Jahre alt. (Rottweiler Heimatblätter, 1928, 6. Jahrgang, Nr. 22)
@@ -207,7 +207,7 @@ Weitere Dieringer in den folgenden Jahrzehnten in :index:`Gechingen`
 
 
 	*	-	1347
-		-	der Toeringer, ansässig in Riegel am Kaiserstuhl (fraglich,ob Toeringer = Tieringer?)
+		-	der Toeringer, ansässig in Riegel am Kaiserstuhl (fraglich, ob Toeringer = Tieringer?)
 
 	*	-	1405
 		-	:index:`Clara Tieringerin`, Besitzerin von Gülten in :index:`Bötzingen` (bei :index:`Freiburg`)

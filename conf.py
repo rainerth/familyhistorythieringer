@@ -87,8 +87,8 @@ today_fmd = '%d-%m-%Y'
 
 project = 'Familiengeschichte Thieringer und Dieringer'
 projectname = 'Familiengeschichte Thieringer und Dieringer'
-copyright = '2023, Rainer Thieringer | 1958, Otto Dieringer'
-author = 'Rainer Thieringer'
+copyright = '1958, Otto Dieringer | 2023, Rainer Thieringer'
+author = 'Otto Dieringer, Rainer Thieringer'
 
 
 
