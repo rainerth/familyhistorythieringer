@@ -1,3 +1,5 @@
+Alamannenstamm
+Alamannien
 Albrand
 Andelsbuch
 ander
@@ -31,9 +33,11 @@ Eidam
 Eidmann
 Erzingen
 Familiengeschichtlichen
+familienkundlichen
 Frommern
 geästeter
 Gemar
+Georgen
 Gerichtsverwandter
 Gerlingen
 Gette
@@ -58,6 +62,7 @@ Krämerzunft
 Kronenwirt
 Laienzehnten
 Landenberger
+Lehensmannengeschlecht
 Leibeigenenverzeichnis
 Lienhart
 Lortzings
@@ -75,12 +80,17 @@ Norganatische
 Ofterdingen
 Pfeffingen
 Ratshausen
+Römerherrschaft
 Rulfingen
 Salpetersieder
 Schwägerschaft
+Siebmacher'schen
 Sippschaftstafel
+Soldlisten
+Spangenhelm
 Spuria
 Spurius
+Starkfluß
 Steckborn
 Steinhofen
 Stolkerhofes
@@ -98,6 +108,7 @@ Türing
 Türkensteuerliste
 Tyringer
 Uhlbach
+unbelaubten
 unebenbürtigen
 unvordenklichen
 Waldstetten

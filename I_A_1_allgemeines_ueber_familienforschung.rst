@@ -222,6 +222,8 @@ k) weitere Begiffe
 
 		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Juchart>`_
 
+	OA
+		In historischen oder alten Texten, insbesondere in Bezug auf Ortschaften, kann die Abkürzung "OA" für "Oberamt" stehen. Ein Oberamt war eine Verwaltungseinheit oder ein Verwaltungsbezirk in verschiedenen deutschsprachigen Regionen, vor allem in Gebieten, die heute zu Deutschland gehören. Diese Bezeichnung war besonders in der frühen Neuzeit und bis ins 19. Jahrhundert hinein gebräuchlich.
 
 	Mannsmahd
 		Die Mannsmade, auch Mannsmad oder Mannsmahd, war ein Flächenmaß im Freistaat der Drei Bünde im St. Galler Rheintal und in Württemberg. Es wurde in der übrigen Schweiz verbreitet Mannwerk genannt und zunehmend mit der Juchart gleichgesetzt. Typologisch verwandt ist der Begriff des Tagewerks oder Tagwans.
@@ -248,6 +250,20 @@ k) weitere Begiffe
 		Ow (auch Owa, Ouwe, Owe, Awa, Aw, Auw, Au und Ow und in allen Fällen Au(e) gesprochen) ist der Name eines alten schwäbischen Adelsgeschlechts mit seinem Stammhaus Ouwe bei Obernau (Landkreis Tübingen), das der schwäbischen Reichsritterschaft angehört. Die Herren zu Ow waren im 13. und 14. Jahrhundert eine der bedeutendsten Familien im Landkreis Tübingen. Sie waren Ministeriale der Grafen von Tübingen und der Herzöge von Teck. Die Familie ist 1356 ausgestorben.
 
 		Quelle: `Wikipedia - Ow <https://de.wikipedia.org/wiki/Ow_(Adelsgeschlecht)>`_
+
+
+	Starkfluß
+		"Starkfluß" ist ein historischer Begriff aus der Medizin, der in der modernen Medizin nicht mehr gebräuchlich ist. Er wurde früher verwendet, um einen Zustand zu beschreiben, bei dem eine Person unter starkem Ausfluss oder Absonderungen litt. Dies konnte sich auf verschiedene Körperflüssigkeiten beziehen, wie Schleim, Eiter, Blut oder andere Sekrete, abhängig vom Kontext und der zugrunde liegenden Krankheit.
+
+		In der Vergangenheit, als das medizinische Verständnis noch nicht so fortgeschritten war wie heute, wurden viele Symptome oder Zustände mit allgemeinen Begriffen wie "Starkfluß" beschrieben, ohne eine spezifische Diagnose oder ein klares Verständnis der Ursache. Dieser Begriff könnte sich auf eine Reihe von Zuständen beziehen, darunter:
+
+		*	Infektionen: Bakterielle oder virale Infektionen, die zu starken Absonderungen führen, wie z.B. Bronchitis oder Sinusitis.
+
+		*	Entzündliche Erkrankungen: Zustände, die mit Entzündungen und daraus resultierenden Sekreten verbunden sind.
+
+		*	Blutungen: In einigen Fällen könnte "Starkfluß" auch starke oder ungewöhnliche Blutungen beschreiben.
+
+		Heute würde man für solche Zustände spezifischere medizinische Begriffe verwenden, basierend auf einer genauen Diagnose der Ursache der Symptome.
 
 
 .. rubric:: Fußnoten

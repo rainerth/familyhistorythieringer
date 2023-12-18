@@ -29,6 +29,9 @@ Inhaltsverzeichnis
 	I_B_1_familienforschung_dieringer
 	II_A
 	II_B
+	II_C
+	II_D
+	II_E
 	III_stammlisten
 	backlog
 	genindex
@@ -43,4 +46,4 @@ Quellen:
 * https://www.compgen.de/recherchieren/
 * https://www.yumpu.com/de/document/view/5084726/hohenzollerische-heimat-hohenzollerischer-geschichtsverein-ev
 * https://www.digitale-sammlungen.de/de/
-* 
+*
