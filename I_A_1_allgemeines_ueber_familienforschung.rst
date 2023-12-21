@@ -265,6 +265,9 @@ k) weitere Begiffe
 
 		Heute würde man für solche Zustände spezifischere medizinische Begriffe verwenden, basierend auf einer genauen Diagnose der Ursache der Symptome.
 
+	fl.
+		Florentiner oder Gulden. Der Florentiner (lateinisch Florenus, italienisch Fiorino d’oro, französisch Florin) war eine im Spätmittelalter in Europa weit verbreitete Währung. Er war eine von 1252 bis 1533 in Florenz geprägte Goldmünze.
+		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Florentiner_(Goldm%C3%BCnze)>`_
 
 .. rubric:: Fußnoten
 

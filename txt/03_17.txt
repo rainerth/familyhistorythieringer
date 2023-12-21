@@ -25,7 +25,7 @@ S)Josef, geb.7.7.47;gest.30.8.1850 (Diphiterie)
 13)Ludwig, geb“17.8.1861; gest.25.8.1861
 
 VIII.8.Leonhard Dieringer (Sohn von VII.3); Bauer in Weilen u.R.
-geb.12,.10.1815 Weilen u.R.;gest „50.10.1859 Weilen;
+geb.12,.10.1815 Weilen u.R.;gest "50.10.1859 Weilen;
 verm.Weilen usR.26.10,1841 Agatha Hauschel ({ geb.3.2, 1810
 gest.15.1.1879;T.d.Gottlieb Hauschel, Bauer in Schörzingen ‚u.
 
@@ -33,7 +33,7 @@ gest.15.1.1879;T.d.Gottlieb Hauschel, Bauer in Schörzingen ‚u.
 
 Kinder:(in Weilen u.R, geboren)
 
-1)Maria, geb.8.9.1843; gest „7.1.1918; (verm.Weilen 21.5.72
+1)Maria, geb.8.9.1843; gest "7.1.1918; (verm.Weilen 21.5.72
 
 | | /Matthäus Narr)
 

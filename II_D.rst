@@ -155,7 +155,7 @@ Andere (angebliche) Thieringer-Wappen:
 
 	Wenn auch dieses Wappen kunstvoll gemalt ist, so scheint es doch nur ein Phantasie-Erzeugnis zu sein, dem keine weitere Bedeutung zukommt.
 
-	Schon diese wenigen Beispiele zeigen, wie gross der Spielraum ist, und welche Vorsicht geboten ist, wenn von einem „Dieringer-Wappen' geredet wird. In Ganzen gesehen dürfte für uns das blau-weisse Wappen derer "von Thieringen" noch am meisten Recht haben.
+	Schon diese wenigen Beispiele zeigen, wie gross der Spielraum ist, und welche Vorsicht geboten ist, wenn von einem "Dieringer-Wappen' geredet wird. In Ganzen gesehen dürfte für uns das blau-weisse Wappen derer "von Thieringen" noch am meisten Recht haben.
 
 
 .. admonition:: Erläuterungen
