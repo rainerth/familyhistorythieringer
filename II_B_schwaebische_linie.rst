@@ -228,6 +228,9 @@ Im übrigen sind für künftige Familienforscher auch in der zweiten Dürrwanger
 
 .. rubric:: Fussnoten
 
+`Waldhof in Bösingen <https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/12232/Waldhof+-+Wohnplatz>`_
+
+
 .. [#] Tafel I - V
 .. [#] Tafel VI
 .. [#] Tafel I - V

@@ -220,7 +220,7 @@ k) weitere Begiffe
 
 		Die Grösse einer Juchart hing aber auch stark vom lokalen Gebrauch ab. Schon auf wenige Kilometer Distanz konnten sich zwischen sonst ähnlich strukturierten Ortschaften signifikante Unterschiede ergeben. So mass beispielsweise in Kaiserstuhl eine Juchart 36,09 Aren, in Zurzach nur 32,41 Aren.
 
-		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Juchart>`_
+		Quelle: `Wikipedia: Juchart <https://de.wikipedia.org/wiki/Juchart>`_
 
 	OA
 		In historischen oder alten Texten, insbesondere in Bezug auf Ortschaften, kann die Abkürzung "OA" für "Oberamt" stehen. Ein Oberamt war eine Verwaltungseinheit oder ein Verwaltungsbezirk in verschiedenen deutschsprachigen Regionen, vor allem in Gebieten, die heute zu Deutschland gehören. Diese Bezeichnung war besonders in der frühen Neuzeit und bis ins 19. Jahrhundert hinein gebräuchlich.
@@ -230,7 +230,7 @@ k) weitere Begiffe
 
 		Das Maß bezeichnete eine Wiesenfläche, die so groß ist, dass ein Mann sie in einem Tag mähen kann, also etwa 20 Aren (2000 m²).
 
-		Quelle: `Wikipedia - Mannsmahd <https://de.wikipedia.org/wiki/Mannsmade>`_
+		Quelle: `Wikipedia: Mannsmahd <https://de.wikipedia.org/wiki/Mannsmade>`_
 
 
 	Herdstättensteuer
@@ -249,7 +249,7 @@ k) weitere Begiffe
 	Herren von Ow
 		Ow (auch Owa, Ouwe, Owe, Awa, Aw, Auw, Au und Ow und in allen Fällen Au(e) gesprochen) ist der Name eines alten schwäbischen Adelsgeschlechts mit seinem Stammhaus Ouwe bei Obernau (Landkreis Tübingen), das der schwäbischen Reichsritterschaft angehört. Die Herren zu Ow waren im 13. und 14. Jahrhundert eine der bedeutendsten Familien im Landkreis Tübingen. Sie waren Ministeriale der Grafen von Tübingen und der Herzöge von Teck. Die Familie ist 1356 ausgestorben.
 
-		Quelle: `Wikipedia - Ow <https://de.wikipedia.org/wiki/Ow_(Adelsgeschlecht)>`_
+		Quelle: `Wikipedia: Ow <https://de.wikipedia.org/wiki/Ow_(Adelsgeschlecht)>`_
 
 
 	Starkfluß
@@ -267,7 +267,7 @@ k) weitere Begiffe
 
 	fl.
 		Florentiner oder Gulden. Der Florentiner (lateinisch Florenus, italienisch Fiorino d’oro, französisch Florin) war eine im Spätmittelalter in Europa weit verbreitete Währung. Er war eine von 1252 bis 1533 in Florenz geprägte Goldmünze.
-		Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Florentiner_(Goldm%C3%BCnze)>`_
+		Quelle: `Wikipedia Florentiner <https://de.wikipedia.org/wiki/Florentiner_(Goldm%C3%BCnze)>`_
 
 .. rubric:: Fußnoten
 
