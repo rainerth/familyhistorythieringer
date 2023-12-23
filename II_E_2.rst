@@ -21,6 +21,12 @@ Etwa 3 km nordwestlich von Tieringen lag früher wahrscheinlich der heute abgega
 
 Über die Geschichte des Orts :index:`Winzeln` und seines allmählichen Absinkens zu einem Hof ist nur wenig bekannt. Nach mehrfachem Besitzwechsel zerfiel der Hof gegen Ende des 16. Jahrhunderts. [#]_
 
+.. figure:: ./images/skizze-tieringen-otto-dieringer.*
+   :width: 80%
+   :align: center
+
+   Tieringen Kreis Balingen, Quelle: Otto Dieringer, 1958
+
 
 .. rubric:: Fußnoten
 
