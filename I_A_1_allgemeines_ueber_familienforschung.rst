@@ -269,6 +269,16 @@ k) weitere Begriffe
 		Florentiner oder Gulden. Der Florentiner (lateinisch Florenus, italienisch Fiorino d’oro, französisch Florin) war eine im Spätmittelalter in Europa weit verbreitete Währung. Er war eine von 1252 bis 1533 in Florenz geprägte Goldmünze.
 		Quelle: `Wikipedia Florentiner <https://de.wikipedia.org/wiki/Florentiner_(Goldm%C3%BCnze)>`_
 
+
+	Salniter
+	Saliter
+		Der alte und nicht mehr gebräuchliche Name für Salpeterer ist entstanden aus sal und nitrum, zu finden im `Deutschen Wörterbuch von Jacob Grimm und Wilhelm Grimm, Erstbearbeitung (1854–1960), digitalisierte Version im Digitalen Wörterbuch der deutschen Sprache <https://www.dwds.de/wb/dwb/salniter>`_
+
+	Butte
+		Die Butte (etymologisch verwandt mit dem Bottich) ist ein großes Gefäß von runder oder ovaler Form ohne Deckel. In der Regel sind diese Gefäße breiter als hoch. Butten werden aus Holz, Stein, Ton, Metall oder Kunststoff hergestellt. `Wikipedia: Butte <https://de.wikipedia.org/wiki/B%C3%BCtte>`_
+
+
+
 .. rubric:: Fußnoten
 
 .. [#] Quellen:

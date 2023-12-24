@@ -1,0 +1,125 @@
+############################
+Aus dem Leben unserer Ahnen
+############################
+
+Das Ende des Edelgeschlechts der Ritter von Thieringen
+======================================================
+
+Wie schon erwähnt, enthält das Urkundenbuch zur Geschichte der Grafen von Zollern-Hohenberg, "Monumenta Hohenbergica", von L. Schmid (Stuttgart, 1862) in Band II unter Nr. 863 eine wichtige Urkunde vom 31. Oktober 1459 über einen :index:`Hans von Thieringen` (fälschlicherweise einem :index:`Hans von Thierberg` zugeschrieben), die hier näher beleuchtet werden soll.
+
+Der Inhalt ist folgender: Graf :index:`Sigmund von Hohenberg` schlichtet im Beisein und zu Gunsten seine Sohnes, des Grafen Jos Niclausen von Zollern, die Erbstreitigkeiten zwischen Hans von Thieringen (wohl derselbe, der als Überlebender bei der Belagerung der Burg Zollern 1423 genannt wird) und :index:`Lienhart Remen` zu Hechingen, und zwar betreffend die Hinterlassenschaft von Hansen's Bruder :index:`Werner von Tieringen`, der Vogt des Zollerngrafen in Hechingen war. Das Erbe wurde folgendermaßen verteilt:
+
+.. epigraph::
+
+	Hans von Thieringen verzichtet für sich und seine Erben für ewige Zeiten zu Gunsten des Grafen :index:`Jos Niklaus von Zollern` und seinen Erben, mit Wissen und Willen aller, auf alles Gut, welches der genannte Werner selig von Thieringen in seinem Leben gehabt hat und nach seinem Tod hinterließ, es sei zu Hechingen oder anderswo oder im Elsass, liegendes oder fahrendes Lehen und eigenen Hausrat, Bettzeug, Vieh, Schulden, Barschaften und anderes mit allen ihren Rechten, Zinsen, Gülten, Nutzen und Gütern, mit Häusern, Scheuern, Gärten, Äckern, Wiesen, Holz, Feld, Wasser, Wann und Heide, mit allem was dazu gehört, zu freier Nutzung,.
+
+	Jos Niklaus von Zollern soll Lienhart Remen und seine Hausfrau Gret Ernstin für das ihnen im Testament des Werner von Thieringen vermachte Gut abfinden, sodass sie und ihre Nachkommen keinerlei Ansprüche mehr an Hans von Thieringen und seine Nachkommen erheben können.
+
+	Jos Niklaus von Zollern soll Hans von Thieringen sein Lebtag lang "*und nit lenger*" 25 gute Rheinische Gulden jährlich auf den Martinstag, beginnend mit dem nächsten Jahr, als "*lipgeding richten*", Nach dessen Tode, "*da Gott lang vor sin wolle*",  sollen dessen Erben keinen Anspruch mehr darauf haben.
+
+	Dem Hans von Thieringen und seinen Erben sollen die Zehnten, Nutzungen, Gülten und Güter, die sein Bruder selig zu Thieringen dem Dorf besessen und hinterlassen hat und von dem Haus Österreich zu Lehen rühren, erblich zu eigen gehören und er soll frei darüber verfügen können. Auch soll er die anderen Gülten und Güter, die sein Bruder selig zu Thieringen hinterlassen hat, sein Lebtag lang nutzen und nießen, doch sollen diese nach seinen Tod ebenfalls den Zollern zufallen.
+
+	Ferner soll Hans von Thieringen von allem, was in des Verstorbenen Haus zu Hechingen vorhanden ist, "*von win, korn oder anderem*", einen Teil bekommen, doch nicht mehr als 8 Malter Vesen; was darüber, gehört den Grafen von Zollern.
+
+	Außerdem soll Hans von Thieringen gehören: ein "*usberedte Betstatt*" mit 2 Betten, 1 Pfühl, 2 Kissen, 3 Paar Betttücher und 2 Decken, die er sich nach Belieben aussuchen kann; weiterhin 1 Ballen Leinentuch, der beste Harnisch der da ist, 1 Becken und 1 großes Faß, das Zinngeschirr und das Küchengeschirr, das über das Feuer gehört; ferner 2 leere Tröge im Hause und den leeren Trog zu Balingen. Der Inhalt der 3 Tröge soll jedoch dem Grafen von Zollern gehören. Hans von Thieringen bekommt ferner den leeren Schreibtisch und 2 "*tischlachen*", dazu das Pferd, 5 Kühe und die 2 Schweine, die im Hause sind.
+
+	Alles Andere soll dem Grafen von Zollern zufallen. Auch die 90 Gulden, die Werner von Thieringen der der :index:`Margret Stuppf` und ihren Erben schuldig ist, zur Hälfte auf nächsten Martinstag, zur anderen Hälfte auf den folgenden Johannistag, soll Jos Niclaus auf Grund der vorhandenen "*tedingsbrieve*" bezahlen. Das Erb und Gut, das auf Grund dieser Briefe von dem seligen :index:`Fritz von Thieringen` auf die beiden Brüder Werner und Hans von Thieringen gekommen ist, soll hierin inbegriffen sein, sodass es dem Grafen von Zollern zufallen soll.
+
+	Auch alle anderen Schulden des verstorbenen Werner von Thieringen, die bekannt und noch nicht bezahlt sind, werden ohne Nachteil für Hans von Thieringen und seine Erben von Jos Niclaus von Zollern bezahlt. Desgleichen 1 Pfund 1 Schilling "*ewigs gelts*" für einen Jahrtag nach Hechingen, 10 Schilling an die armen Kranken daselbst "*in das hüslin*", auch 15 Schilling "*jerlichs gelts*" für einen Jahrtag nach Balingen, die der selige Werner von Thieringen in seinem Testament vermacht hat.
+
+	Dafür soll Hans von Thieringen dem Grafen von Zollern alle Briefe, Rödel und Register, die er bezüglich der oben genannten Güter hat, dem Grafen Jos Niclaus übergeben und sich bereit erklären, diesen notfalls in der Wahrung ihrer erworbenen Rechte nach bestem Können zu unterstützen, jedoch auf Kosten derer von Zollern.
+
+Soweit die Urkunde, die gesiegelt wurde von Graf :index:`Sigmund von Hohenberg` und Jos Niclaus von Zollern als der einen Partei, von :index:`Caspar von Ow` und :index:`Hans von Stauffenberg` als Zeugen der anderen Partei. Das Original der Urkunde befindet sich im Staatsarchiv zu Stuttgart.
+
+So interessant diese Hohenberger Urkunde ist, so beweist sie nach dem Urteil des Historikers (Pfarrer Adam Kraus) gar nichts. Er schreibt darüber im November 1938:
+
+.. epigraph::
+	"... Irgendwelche Schlüsse auf die Vermögensverhältnisse des Hans von Thieringen lassen sich aus der Urkunde deswegen nicht ziehen, weil wir nicht wissen, wie groß diejenigen Güter waren, die österreichische Lehen waren und nicht an den Zollerngrafen kamen.
+
+	Mir scheint, Hans muss schon älter gewesen sein und hat sich, des Sorgens müde, eben durch eine Rente für das Alter gesichert. Tatsächlich scheint nit ihm das Edelgeschlecht ausgestorben, denn Alberti's Württembergisches Wappenbuch führt dieses Jahr 1459 als letztes der Familie an.
+
+	Die Theorie der Verarmung ist also zu verwerfen, ganz abgesehen davon, dass sie noch keine Leibeigenschaft bedeutet ..."
+
+Wir wissen also keineswegs sicher, ob dieser dem Hause Hohenzollern zugute gekommene Aderlass zu einer solchen Verarmung der Herren von Thieringen führte, dass sie sich davon nicht mehr erholen konnten und im Lauf der späteren Jahrzehnte Rang und Adelsbezeichnung ablegten. Andererseits bleibt vorläufig in Dunkel gehüllt, was aus den Nachkommen des Jans von Thieringen geworden ist; die Urkunde spricht ja von seinen Erben. Es könnte ein Zusammenhang mit den
+Ihieringern in Dürrwangen, Weilheim und Rangendingen bestehen; der Nachweis ist aber sehr schwierig, und für uns Heutige auch ziemlich gleichgültig.
+
+Pfarrer Kraus schreibt dazu noch:
+
+.. epigraph::
+	"Von Rottweil sind die Urkunden bereits veröffentlicht (Württembergische Geschichtsquellen Band III), scheinen aber nicht alles über Thieringer zu enthalten.
+
+	Betreffend die :term:`Herren von Ow` wäre auch ihre ausgezeichnete Familiengeschichte (bearbeitet von Theodor Schön) zu vergleichen. Sollte der Rangendinger Remerhof, den 1589 ein Thieringer hatte, doch mit jener Hohenberger Urkunde insofern zusammenhängen, als dort ein Lienhart Rem zu Hechingen vorkommt (Remerhof, Remenhof ?). Die Spur ist weiter zu verfolgen!"
+
+
+
+
+Vom Salpetersieden
+==================
+
+Der Beruf des Salpetersieders ist heute fast ganz in Vergessenheit geraten. Da er von einigen Thieringern früher ausgeübt worden ist, soll hier darüber einiges berichtet werden. Die Bedeutung des Salpeters lag darin begründet, dass man ihn zur Pulverherstellung be-
+nötigte.
+
+Das **Schwarzpulver**, der älteste Explosivstoff (um 1175 in China erfunden, seit Beginn des 14. Jahrhunderts in Europa bekannt) bis zur Erfindung des rauchlosen Pulvers kurzweg "**Schießpulver**" genannt ist ein Gemenge von Salpeter, Kohle und Schwefel: 75% Kalisalpeter oder Kaliumnitrat: starkes Oxydationsmittel; 15% Holzkohle; 10% Schwefel.
+
+Wie wurde nun der Salpeter gewonnen? Der Stickstoff (chemisches Zeichen N) ist bekanntlich einer der wichtigsten Grundstoffe in der Natur. Er findet sich frei in großer Menge in der Luft, gebunden in vielen organischen Stoffen, besonders in den tierischen und pflanzlichen Eiweißstoffen (Horn, Haare, Federn usw.).Es findet ein fortwährender Kreislauf statt: die Pflanze entnimmt die für ihr Wachstum unentbehrlichen Stickstoffverbindungen dem Boden. Im Tierkörper werden die Eiweißstoffe zersetzt, ausgeschieden (Harnstoff) und dem Boden als Dünger wieder zugeführt. Da der Stalldünger nicht ausreicht, verwendet man zusätzlich
+Salpeter (Ammoniakverbindungen) als "**Kunstdünger**"
+
+
+Verbindungen des Stickstoffs sind das Ammoniak (NH\ :sub:`3` - ein als Stallgeruch bekanntes stechend riechendes Gas) und die Salpetersäure (HNO\ :sub:`3` - eine stechend riechende Flüssigkeit, die fast alle Metalle außer Gold angreift, d.h. in die entsprechenden salpetersauren Salze oder Nitrate verwandelt). So ist Kalisalpeter die Verbindung mit dem Stoff Kalium (K).
+
+Über die Salpeterherstellung schreibt Herr Dr. Ing.Reinert (Ludwigstal) in den Tuttlinger Heimatblättern Nr. 7 (1928) Folgendes:
+
+.. epigraph::
+
+	"Überall landauf landab war in der sogenannten guten alten Zeit der Salpetersucher eine wenig beliebte Persönlichkeit, ganz besonders in den Bauernhöfen. Da er aber ein herrschaftlich privilegiertes Gewerbe ausübte, war gegen diesen unangenehmen Gast nicht viel zu machen, und es war das Klügste, wenn man sich gut mit ihm stellte.
+
+	Die Fabrikation des Schießpulvers war für jede Herrschaft und für jeden Staat von ganz besonderer Wichtigkeit und deshalb werden sich diese auch das Recht gesichert haben, die Gewinnung des dazu benötigten hauptsächlichsten Rohmaterials, des Salpeters, selbst auszuüben.
+
+	Es entsprach wohl einem Akt der Klugheit, dass diese die Untertanen so sehr belästigende Salpetergewinnung einen Unternehmer gegen entsprechende Entschädigung überlassen wurde.Dieser schickte dann seinen Salpeterer in jeden Stall und jedes Haus zum Aufsuchen des begehrten Minerals.
+
+	Es dürfte jedem aufmerksamen Beobachter schon aufgefallen sein, dass sich in Ställen an den Wänden weiße Salze niedergeschlagen haben. Dies ist der sogenannte Mauersalpeter, der überall entsteht, wo Luft mit Exkrementen oder anderen stickstoffhaltigen tierischen Stoffen und kalkhaltiger Erde, Mauerwerk usw. längere Zeit in Berührung kommt. Dies ist meist der Fall in Ställen, Abortgruben, Düngerhaufen, Kellern usw.. Dort suchte der Salpetergräber sein Rohmaterial und wenn er zu eifrig oder bösartig war, dann konnte er die Fundamente der Viehställe und der Keller so herrichten, dass eine weitere Benutzung derselben in Frage gestellt war.
+
+	Das ausgewitterte Salz wurde vom Mauerwerk abgekratzt, die salpeterhaltigen Böden und Dungreste ausgegraben und in die Salpeterhütte gebracht, wo dann das gesuchte Mineral mit Wasser ausgelaugt wurde.
+
+	Die Herrschaft Mühlheim der Freiherrn von Enzberg machte ebenfalls von ihrem Rechte Gebrauch und verpachtete 1781 das Salpetergraben in den zu dieser reichsunmittelbaren Herrschaft gehörenden Ortschaften Mühlheim mit Bronnen, Mahlstetten, Stetten, Nendingen, Irrendorf, Buchheim, Böttingen, und Königsheim an den K. K. :term:`Salniter` Entrepreneur Johann Stefan Werner von Riedlingen. ....(es folgt die Beschreibung des Pachtvertrags).
+
+	Der Salnitersieder Jakob Wolf, den der Unternehmer Werner mit den Arbeiten in der Herrschaft beauftragte, begann seine Arbeit ... im März 1781 in Mahlstetten, von wo sie nach Beendigung des Grabens im Juni 1782 nach Stetten verlegt wurde. Dort schien sich seine Arbeit noch länger hinausgezögert zu haben, da er von dort erst anfangs 1784 nach Nendingen eingewiesen wurde.
+
+	Dass es bei den damaligen verwickelten Rechtsverhältnissen nicht ohne Kompetenzstreitigkeiten abging, war klar."
+
+Werner ließ z.B. ohne Wissen der Herrschaft 1785 noch in Buchheim und Böttingen graben, gestützt auf  Auskünfte des Oberamts Stockach und des Obervogteiamts Spaichingen.
+
+Nachdem das Salpetergraben in der Herrschaft Mühlheim ab 1.4.1794 an Konrad Dieringer, Salpetergraber von Deilingen (muss wohl heißen: Denkingen! - vgl. VI. 3 in der Stammliste) verpachtet war, fragte Werner 1795 an, ob sein Salnitersieder Raimund Haffa in Buchheim nicht auch in dem Enzbergischen Herrschaftsanteil des Dorfes graben dürfe, da es sich für Dieringer nicht lohne, dies zu tun. Dies wurde erlaubt, wohl schon deshalb, weil die gnädige Herrschaft das Salpetergraben in allen Orten während des Kriegs als einen freiwilligen Beitrag zum K.K. Kriegsdienst offeriert hatte.
+
+.. epigraph::
+
+	Als der Bedarf an Salpeter immer größer wurde, ging man dazu über, Salpeter nebenher in sogenannten Salpeterplantagen künstlich herzustellen. Man schichtete ein Gemenge von kalkreicher Erde (Mergel, Bauschutt usw.) mit tierischen Abfallstoffen im Freien recht locker in flachen Lagen auf, übergoss die Haufen immer wieder mit Jauche und überließ sie einige Jahre der Oxydation. Von Zeit zu Zeit wurde die auswitternde Salpeterschicht weggenommen und in Wasser gelöst.
+
+	Zweckmäßigerweise wurde das Salpetersieden gleich mit dem Salpetergraben ausgeübt. Der Salpetersieder hatte die Aufgabe, die salpeterhaltigen Stoffe auszulaugen, und durch Zugabe von Holzasche oder auch Pottasche den Mauersalpeter (meist Calcium- und Magnesiumnitrat)in den zur Schießpulverfabrikation allein verwendbaren Kalisalpeter (Kaliumnitrat) umzuwandeln. ... Das Salpetersieden geschah in der Salpeterhütte, die wegen Feuersgefahr meist etwas außerhalb der Ortschaft vom Salpetersieder aufgeschlagen werden musste. Es war kein massiver Bau und bestand gewöhnlich nur aus Pflöcken und Brettern, da sie immer wieder abgebrochen und in einer anderen Ortschaft aufgeschlagen wurde. Die technische Einrichtung bestand aus einer ganzen Anzahl Fässer und Bütten, einer Feuerungseinrichtung und verschiedenen Kesseln oder Schalen meist aus Kupfer und Holz. Die Arbeit in der Salpeterhütte zerfiel in 3 Abschnitte:
+
+	#. das Auslaugen des Salpeters: das Rohmaterial kam in Fässer, die am Boden ein Loch hatten, fügte Holzasche bzw. Pottasche hinzu, und füllte mit Wasser, das nach einem Tag abgelassen und in einer :term:`Butte` gesammelt wurde. (Anm. rth: Dieses Wasser wurde wieder in die Fässer gegossen und so lange wiederholt, bis das Wasser nicht mehr salpeterhaltig war. Dann wurde das Salz in die Butte geschüttet und mit Wasser bedeckt. Nach einigen Tagen war das Salz aufgelöst und die Flüssigkeit wurde in die Siedepfanne gegossen.)
+
+	#. das Abrauchen der Salpeterlauge: Hatten sich die Unreinigkeiten gesetzt, wurde die klare Lauge in flache Kessel gegossen und über starkem Feuer ständig gekocht.Dabei schieden sich die schwerer löslichen Salze ab und der Salpeter blieb allein gelöst zurück; die abgeschiedenen Salze wurden von Zeit zu Zeit mit der Schaumkelle abgeschöpft. Dann goss man die Lauge in flache kupferne oder hölzerne Gefäße und ließ ihr 5-4 Tage Zeit zum Auskristallisieren - das gab den Salpeter vom ersten Sud.
+
+	#. das Raffinieren des Salpeters (das war die Kunst, den Salpeter des ersten Suds zu reinigen und zur Bereitung von Schießpulver tauglich zu machen): der rohe Salpeter wurde in Wasser ausgewaschen, noch mehrmals gekocht und durch Tücher in Schalen geseiht. Beim Erkalten kristallisierte der Salpeter aus und wurde in Filtriersäcken an warmen Orten aufgehängt; in trockenem Zustand war er dann für die Herstellung des Schießpulvers brauchbar.
+
+	Der Salpeterer musste sein Handwerk schon verstehen, wenn er einen zur Schießpulverfabrikation brauchbaren Salpeter liefern wollte. ... Bei dem um die Mitte des 19. Jahrhunderts immer größer werdenden Bedarf an Schießpulver konnte die gewiss mühsame Herstellung des Kalisalpeters durch Salpetergraben und -sieden nicht mehr genügen. Es müssten die großen chilenischen Salpeterlager (Natriumnitrat) mit dem in Straßfurt gewonnenen Kalisalz (Chlorkalium) als Ausgangsmaterialien zur künstlichen Herstellung dienen. Damit verschwanden die wenig beliebten Salpeterer, und die Bauern waren wieder einen Plaggeist los."
+
+	--- Soweit Dr. Reinert über die Salpetergraber und Salpetersieder.
+
+
+Dem freundlichen Entgegenkommen von Bürgermeister Koch in Weilen unter den Rinnen, Kreis Balingen, verdanken wir die Abschrift eines **Salpeter-Pachtvertrags** vom 20.3.1817 aus Weilen u. R., der über die Bedingungen in 21 Punkten Aufschluss gibt, wie auch über die gegenseitige Steigerung der 3 Pachtliebhaber :index:`Josef Dieringer` (vgl. Stammliste VII.), Christian Klaiber und Michael Haller von Hausen - von anfänglich 12 :term:`fl.` (Gulden) bis auf 40 Gulden, womit dem Thieringer der Pacht auf jährlich 40 :term:`fl.` 6 Jahre lang verblieb. - Aus den Bedingungen sei erwähnt: Der Pächter darf während dieser 6 Jahre in keinen Ort öfters als zwei mal nach Salpeter graben in; herrschaftlichen Häusern hat er kein Recht zu graben. Schwellen darf er nicht heben, Mauern nicht beschädigen; er hat dem Hauseigentümer alles wieder so herzustellen, wie es war und Schäden zu vergüten. Die Stande darf er nicht in Ställe stellen, muß sie bedecken, damit kein Unglück geschieht; handelt er oder einer seiner Arbeiter fahrlässig, so haftet er für den Schaden und wird noch bestraft. Er darf an die Gemeinde keine Ansprüche wegen Holz, Fronen usw. machen.
+
+Die Hütte hat er an einem solchen Platz. zu errichten, wo sie nicht feuergefährlich ist; Allmendplatz bekommt er unentgeltlich; notfalls muß er einen privaten Platz auf seine Kosten mieten. Er und seine Arbeiter unterstehen der Aufsicht des Ortsschultheißen, der ihn bei Anzeige ordnungswidriger Handlungen rügt und unter Umständen dem Oberamt meldet; bei ihm muss er sich vor Verlassen des Orts melden und nachweisen, dass niemand im Ort eine Klage gegen ihn hat.
+
+Hat er an einem Ort angefangen zu graben, muß er damit fortfahren, bis er fertig ist. Er darf keinen Hauseigentümer. begünstigen, indem er etwa gegen eine Abfindungssumme dessen Gebäude meidet, sonst verfällt die Summe der Gemeinde und beide werden bestraft. Endlich hat er einen tüchtigen Bürgen aus dem Oberamt zu bestellen.
+
+Man sieht also, dass die Sache des Salpetergrabens und Salpetersiedens für beide Seiten nicht angenehm war. Und doch muß sie ihren Mann ernährt haben, sonst hätte nicht der Sohn :index:`Josef Dieringer` dasselbe: Handwerk ausgeübt wie schon sein Vater :index:`Konrad Dieringer`. War es der lockende Verdienst oder die Not, was zu diesem ungemütlichen Handwerk
+reizte, wir wissen es nicht. Es wäre interessant, über den Erlös für den fertigen Salpeter, der vielleicht in die Rottweiler Pulverfabrik oder auch an österreichische Behörden wanderte, etwas zu erfahren.
+
+.. admonition:: Anmerkung
+	:class: note
+
+	Die "Salpeterer-Bewegung" im Hotzenwald im 18. und 19. Jahrhundert, ein Kampf des Volkes um seine Rechte, wurde von dem Salpetersieder :index:`Albiez` angeführt. Näheres in "Badische Heimat", 1952, Hochrhein und Hotzenwald.
+
+

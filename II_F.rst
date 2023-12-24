@@ -16,11 +16,11 @@ Dem Sippenoberhaupt des Dorfes oblag die Leitung der gemeinsamen Wirtschaft der 
 
 .. index:: Allmende, Zelgen, Öschen, Bann
 
-All das, was nur zur Weide benutzt und zum allgemeinen Nutzen gebraucht wurde, blieb Allgemeingut, sogenannte **Allmende**. Sie lag, wie Ödland und Wald mehr am Rand der Markung, die Ackerfelder mehr um das Dorf. Jede Familie sorgte dafür, daß sie mit der Zeit immer denselben Grund und Boden in den einzelnen Ackerfluren (**Zelgen**, **Öschen**) bewirtschaften konnten. Es entstand Sondereigentum.
+All das, was nur zur Weide benutzt und zum allgemeinen Nutzen gebraucht wurde, blieb Allgemeingut, sogenannte **Allmende**. Sie lag, wie Ödland und Wald mehr am Rand der Markung, die Ackerfelder mehr um das Dorf. Jede Familie sorgte dafür, dass sie mit der Zeit immer denselben Grund und Boden in den einzelnen Ackerfluren (**Zelgen**, **Öschen**) bewirtschaften konnten. Es entstand Sondereigentum.
 
 .. index:: Zwing und Bann, Markung, Bann, Bannwart, Babart, Öschen, Maier, Maierhof
 
-Auf jeder Markung gab es den **Zwing und Bann**, d.h.eine genaue Vorschrift für die Art der Nutzung. Das Wort "**Bann**" deckte sich später oft mit der **Markung**. Der Feldhüter war der **Bannwart**, dessen Namen in der Tuttlinger Mundart als "**Babart**" noch erhalten ist. Er hatte dafür zu sorgen, daß die Grundstücke in den Zelgen oder Eschen (Öschen), die regelmäßig bebaut wurden, gebannt waren, d.h. man durfte dort nicht weiden lassen.
+Auf jeder Markung gab es den **Zwing und Bann**, d.h.eine genaue Vorschrift für die Art der Nutzung. Das Wort "**Bann**" deckte sich später oft mit der **Markung**. Der Feldhüter war der **Bannwart**, dessen Namen in der Tuttlinger Mundart als "**Babart**" noch erhalten ist. Er hatte dafür zu sorgen, dass die Grundstücke in den Zelgen oder Eschen (Öschen), die regelmäßig bebaut wurden, gebannt waren, d.h. man durfte dort nicht weiden lassen.
 
 Auch der Wald musste vor unbefugtem Holzschlagen oder Zerbiß durch Wild geschützt werden. (In Tuttlingen gibt es im Koppenland noch die Flurnamen "Oberer Bann", "Unterer Bann", "Im Bändle"). Auch das Recht für Wirtschaft, Mühle, Schmiede, Backhaus und Badstube war durch Bann geregelt.
 
@@ -31,7 +31,7 @@ Die Bedürfnisse des Ackerbaues und der Weide mussten miteinander ausgeglichen w
 
 .. index:: Maier, Maierhof, Faselvieh
 
-Die Zwing und Bann als Machtbefugnis stand ursprünglich dem Sippenoberhaupt zu. Sein Nachfolger war dann immer der älteste Sohn. Er bekommt in der fränkischen Zeit den Namen "**Maier**". Als Träger der sogenannten "niederen Gerichtsbarkeit" hat er all die kleinen Streitigkeiten im Dorf zu regeln. Ihm obliegt die Aufsicht über Hirten und Bannwarte, die Sorge für Wasser, Wege und Stege. Er ordnet an, daß im Rahmen der vorhandenen **Dreifelderwirtschaft** die Ösche zur rechten Zeit gewechselt werden (Sommerfrucht, Winterfrucht, Brache - später Hackfrüchte), und er hat das **Faselvieh** zu halten (Farren, Bock, Eber). Er hat auch größere Rechte: darf mehr Vieh zur Weide treiben, und hat das Vorrecht beim Fischen und Jagen. Außerdem liegen seine Felder abgerundet um seinen Hof, den sog. "**Maierhof**". Solche Maierhöfe sind in vielen Gemeinden nachgewiesen, z.B. in Trossingen,
+Die Zwing und Bann als Machtbefugnis stand ursprünglich dem Sippenoberhaupt zu. Sein Nachfolger war dann immer der älteste Sohn. Er bekommt in der fränkischen Zeit den Namen "**Maier**". Als Träger der sogenannten "niederen Gerichtsbarkeit" hat er all die kleinen Streitigkeiten im Dorf zu regeln. Ihm obliegt die Aufsicht über Hirten und Bannwarte, die Sorge für Wasser, Wege und Stege. Er ordnet an, dass im Rahmen der vorhandenen **Dreifelderwirtschaft** die Ösche zur rechten Zeit gewechselt werden (Sommerfrucht, Winterfrucht, Brache - später Hackfrüchte), und er hat das **Faselvieh** zu halten (Farren, Bock, Eber). Er hat auch größere Rechte: darf mehr Vieh zur Weide treiben, und hat das Vorrecht beim Fischen und Jagen. Außerdem liegen seine Felder abgerundet um seinen Hof, den sog. "**Maierhof**". Solche Maierhöfe sind in vielen Gemeinden nachgewiesen, z.B. in Trossingen,
 
 
 .. index:: Fronen, Zehnter, Leibeigenschaft, Lehen, Erblehen, Gült, Hube, Schupflehen, Schuppose, Maierhof, Fronhof, Kelhof, Hart
@@ -69,7 +69,7 @@ Auch die Ausdrücke **Fronen** und **Zehnten** werden häufig zu Unrecht als Sch
 
 Während der Fronarbeit musste die Herrschaft die Arbeiter verköstigen (sogenanntes Fronbrot). Jeder Frondienst in irgend einer Form wurde genau so bewertet wie der abgegebene "**Zehnte**". So war z.B.die Abgabe der 10. Garbe nur der Zins für das "geliehene" Gut oder aber eine Steuer für die Allgemeinheit. In Ermangelung von Bargeld erhob man sie in Naturalien, gelegentliche Übergriffe liegen in der menschlichen Unzulänglichkeit begründet, haben aber mit der Sache selbst nichts zu tun. Zehntscheuern findet man noch im ganzen Land.
 
-**Zur Frage des Geldes**: Im Mittelalter war das Geld so rar, daß es im allgemeinen als Zahlungsmittel nicht in Betracht kam. Der reale Tausch galt als sicherer und wertvoller bei den kleinen Leuten. Nur wer mit den eingenommenen Naturalien nichts mehr anfangen konnte, legte den Hauptwert auf die geprägten Münzen. Das spätere Mittelalter kennt Münzsorten aller Art.
+**Zur Frage des Geldes**: Im Mittelalter war das Geld so rar, dass es im allgemeinen als Zahlungsmittel nicht in Betracht kam. Der reale Tausch galt als sicherer und wertvoller bei den kleinen Leuten. Nur wer mit den eingenommenen Naturalien nichts mehr anfangen konnte, legte den Hauptwert auf die geprägten Münzen. Das spätere Mittelalter kennt Münzsorten aller Art.
 
 Brakteaten
 	von bractea = Blech
@@ -100,7 +100,7 @@ Von den Burgen
 .. index:: Burgen, Burgstall, Burg, Schloss, Schlossberg, Schlosshalde, Schlosshaldenwe
 
 
-In einem Gasthaus westlich Schörzingen Kreis Rottweil hat ein einheimischer Burgenforscher (:index:`Konrad Albert Koch`)eine stattliche Anzahl von ehemaligen Burgen unserer engeren  Heimat (Heuberg, oberer Neckar) in Wandgemälden festgehalten. Darüber hinaus ist gerade der Bereich zwischen Schwarzwald, Alb und Bodensee so voller Burgruinen und alter Schlösser, daß man in diesem Zusammenhang die Frage nach ihrer Entstehung kurz berühren darf, denn sie gehören nun einmal zum Heimatbild.
+In einem Gasthaus westlich Schörzingen Kreis Rottweil hat ein einheimischer Burgenforscher (:index:`Konrad Albert Koch`)eine stattliche Anzahl von ehemaligen Burgen unserer engeren  Heimat (Heuberg, oberer Neckar) in Wandgemälden festgehalten. Darüber hinaus ist gerade der Bereich zwischen Schwarzwald, Alb und Bodensee so voller Burgruinen und alter Schlösser, dass man in diesem Zusammenhang die Frage nach ihrer Entstehung kurz berühren darf, denn sie gehören nun einmal zum Heimatbild.
 
 .. index:: Burg, Schloss, Schlossberg, Schlosshalde, Schlosshaldenweg, Burgstall
 

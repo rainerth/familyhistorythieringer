@@ -4,16 +4,15 @@ Beiträge zur Familiengeschichte Thieringer und Dieringer
 
 .. epigraph::
 
-	Dieses Buch ist eine Sammlung von Beiträgen zur Familiengeschichte Thieringer und Dieringer.
+	Dieses Dokument ist eine Sammlung von Beiträgen zur Familiengeschichte Thieringer und Dieringer.
 
-	--- Otto Dieringer, Schramberg-Sulgen 1958
-	--- Rainer Thieringer, Bösingen 2023
+	--- Otto Dieringer ✝, Rainer Thieringer
 
 
 Die schwäbischen Geschlechter aus dem Raum Balingen - Südwestalb
 ****************************************************************
 
-Bearbeitet von Dipl.-Ing. Otto DIERINGER, 78713 Schramberg, 1958
+Bearbeitet von Dipl.-Ing. Otto DIERINGER ✝, 78713 Schramberg, 1958
 
 Digitalisiert von Dipl.-Ing. Rainer THIERINGER, 78662 Bösingen, 2023
 

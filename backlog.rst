@@ -48,6 +48,6 @@ Herbert Weigel
 
 Zu den Dieringer / Thieringer aus Rangendingen (Hohenzollern) gibt es im Heimatbuch 1200 Jahre Rangendingen (Gemeinde Rangendingen, 1995) ein Kapitel "Die Auswanderung“ geschrieben von Hermann Waldenpuhl. (S. 122 ff). Dort werden im Unterkapitel "Der Zug nach Ungarn" in den Jahren 1691 bis 1787 zwei namensträger Dieringer genannt. 1751 Catharina Dieringer und 1769 Anna Maria Dieringer.
 
-Waldenpuhl schreibt weiter: "Es mag sein, daß Verwandte und Bekannte nachzogen, nachdem gute Nachrichten aus der Fremde eingetroffen waren".
+Waldenpuhl schreibt weiter: "Es mag sein, dass Verwandte und Bekannte nachzogen, nachdem gute Nachrichten aus der Fremde eingetroffen waren".
 Es ist also nicht unwahrscheinlich, dass Dieringer / Thieringer-Auswanderer in Westungarn oder im Burgenland gelandet sind.
 
