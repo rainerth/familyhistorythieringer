@@ -46,6 +46,7 @@ Dominikus
 Dotternhausen
 Dreifaltigkeitsberg
 Dungreste
+durchzukosten
 Düring
 Düringer
 Dürring
@@ -64,6 +65,7 @@ Farren
 Faselvieh
 Filial
 Filtriersäcken
+Friedrichsordens
 Frommern
 Fronacker
 Fronbrot
@@ -77,6 +79,7 @@ Gerlingen
 Gesellenstand
 Gette
 Gevatterin
+goldtreuen
 Gotte
 Gottle
 Grosselfingen
@@ -87,10 +90,12 @@ Gülten
 gültenpflichtige
 Gültlingen
 Gunningen
+Gunninger
 Haffa
 Hechinger
 Herdstätten
 Herdstättensteuer
+Herzensboden
 Hewen
 Hilsbach
 Hirrlingen
@@ -112,6 +117,7 @@ Kauffmann
 Kelhof
 Kenzingen
 Kirchberger
+Kolbingen
 Krämerzunft
 Kronenwirt
 Laienzehnten
@@ -124,6 +130,7 @@ Leibeigenenverzeichnis
 leibhörig
 Lienhart
 Liptingen
+Lobmiller
 Lochenbergen
 Lochenhörnle
 Lochenpass
@@ -155,12 +162,21 @@ Nendingen
 Niclausen
 Niklaus
 Norganatische
+Nusplingen
+Obernheim
+Obernheimer
+Ochsenwirt
 Ofterdingen
 Ortsadeligen
 Ortsschultheißen
 Pestbazillus
 Pfeffingen
+pflichttreuen
+Plenarversammlungen
+Präparand
+Provisor
 Pulverfabrik
+Pulverfabrikation
 Pulverherstellung
 Ratshausen
 Remen
@@ -187,6 +203,7 @@ Salpeterschicht
 Salpetersieden
 Salpetersiedens
 Salpetersieder
+Salpetersiedergewerbe
 Salpetersieders
 Salpetersucher
 Schalksburg
@@ -206,6 +223,7 @@ Stalldünger
 Stallgeruch
 Starkfluß
 Steckborn
+Steidle
 Steinhofen
 Stolkerhofes
 Stotzingen
@@ -232,8 +250,10 @@ Uhlbach
 unbelaubten
 unebenbürtigen
 Unreinigkeiten
+Unterdigishein
 unvordenklichen
 vermarkt
+Wachter
 Waldstetten
 Wanderbursch
 Weibesstamm

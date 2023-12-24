@@ -87,7 +87,7 @@ today_fmd = '%d-%m-%Y'
 
 project = 'Familiengeschichte Thieringer und Dieringer'
 projectname = 'Familiengeschichte Thieringer und Dieringer'
-copyright = '1958, Otto Dieringer | 2023, Rainer Thieringer'
+copyright = '1958, Otto Dieringer | 2023, Rainer Thieringer | Creative Commons Lizenz 4.0 (BY-NC-SA 4.0)'
 author = 'Otto Dieringer, Rainer Thieringer'
 
 
@@ -309,7 +309,7 @@ if docscope == 'internal':
 	]
 	todo_include_todos = True
 
-	releaselevelstring = 'INTERNAL DRAFT!!!'
+	releaselevelstring =  project + ' !!! Ohne Gewähr und noch in Arbeit !!!'
 
 	# https://sphinx-book-theme.readthedocs.io/en/latest/customize/sidebar-primary.html
 

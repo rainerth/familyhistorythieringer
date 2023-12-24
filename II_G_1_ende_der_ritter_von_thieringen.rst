@@ -123,3 +123,41 @@ reizte, wir wissen es nicht. Es wäre interessant, über den Erlös für den fer
 	Die "Salpeterer-Bewegung" im Hotzenwald im 18. und 19. Jahrhundert, ein Kampf des Volkes um seine Rechte, wurde von dem Salpetersieder :index:`Albiez` angeführt. Näheres in "Badische Heimat", 1952, Hochrhein und Hotzenwald.
 
 
+Aus dem Leben von Lehrer Jakob Dieringer (1830-1906)
+====================================================
+
+Zum 100. Geburtstag des in weiten Kreisen des Tuttlinger Bezirks bekannten Mannes schrieb sein Enkel, Justizreferent Werner Dieringer, Rottweil, im "Gränz-Bote'" vom 10.5.1930 folgenden Aufsatz:
+
+.. epigraph::
+
+	"Ph. Jakob Dieringer ist am 1.5.1830 in Gunningen am Hohenkarpfen als Sohn des Salpetersieders Konrad Dieringer und seiner Frau Elisabeth geborene Bayer geboren worden. Sein Vater entstammte der etwa 80 Jahre früher aus dem Oberamt Balingen zugewanderten, ursprünglich evangelischen Familie Thieringer und hat, wie bereits sein Vater und Großvater, das heute in Vergessenheit geratene, in früheren Jahrhunderten aber sehr einträgliche und zur Pulverfabrikation so wichtige Salpetersiedergewerbe betrieben. Seinen Vater hat Jakob Dieringer jedoch schon in frühester Jugend verloren und ist nicht eben unter den günstigsten Verhältnissen aufgewachsen; von seinem 7. Lebensjahr an hat er im Sommer, während dessen in der damaligen Zeit die Schulen geschlossen waren, als Ackerbube bei Verwandten seiner Mutter arbeiten müssen. Nach seiner Schulentlassung aber hat sich sein Schicksal gewendet.
+
+	Im Jahre 1844 hat seine Mutter auf Veranlassung des damaligen Gunninger Pfarrers Brauch seinem Wunsch, Lehrer zu werden, nachgegeben. Nach Bestehen der Vorprüfung kam er als Präparand zu Lehrer :index:`Lobmiller` nach :index:`Wurmlingen` (und später nach :index:`Spaichingen`); 1847 hat er die Aufnahmeprüfung in das Lehrerseminar in Gmünd bestanden, in dem er dann die folgenden zwei Jahre zugebracht hat. Aus seiner Seminarzeit, in der - ein Schatten aus der Biedermeierzeit - der Zylinderhut noch zum Anzug gehört hat, und besonders über Sturm und Drang des Revolutionsjahres 1848 erzählt er in anschaulicher Weise in seinen Lebenserinnerungen. 1849 hat die Seminar- und damit die Ausbildungszeit ihr Ende gefunden.
+
+	Am 26. Oktober 1849 hat Jakob Dieringer als Provisor die Schule dar Irrendorf übernommen; er hat also trotz des damaligen Überschusses an Lehrkräften sehr rasch eine Anstellung gefunden. Noch im selben Jahre ist er als Provisor nach :index:`Kolbingen` versetzt worden. Sein Jahresgehalt betrug damals 120 Gulden, das macht 19 Kreuzer pro Tag. Im Winter 1855 hat sich Dieringer um die frei gewordene Schulstelle in :index:`Obernheim` beworben, die von dem freiherrlich von Ulm-Kallenberg'schen Patronat zu vergeben war. Im Schlitten hat ihn der Ochsenwirt Wachter von Kolbingen nach Überlingen am See gefahren, wo er sich dem Baron von Ulm vorstellen musste. Er hat die Obernheimer Schulstelle dann auch erhalten und ist im Frühjahr 1856 dort aufgezogen. In Obernheim hat sich Dieringer dann bald darauf, am 25.11.1856 mit :index:`Maria Ursula Schilling` aus Nendingen verheiratet.
+
+	In Obernheim wurden ihm seine 10 Kinder geboren, und als er nach 14 Jahren den Ort verließ, da war das ein stattlicher Haushalt, der auf drei Leiterwagen und einer Chaise vom Heuberg ins Donautal. Am 12.7.1870 nämlich hat Jakob Dieringer die Schulstelle in Nendingen von dem damaligen Patronatsherren, dem Freiherrn von Enzberg, verliehen erhalten. 27 Jahre lang hat Lehrer Dieringer die Schule in :index:`Nendingen` geleitet, 27 Jahrgänge hat er gelehrt und erzogen. Im Jahre 1897 hat er sich dann, vom König mit der goldenen Verdienstmedaille des Friedrichsordens ausgezeichnet, in den Ruhestand versetzen lassen; er ist in Nendingen wohnen geblieben. Ob seiner Güte und Gerechtigkeit war der alte Lehrer im weißen Haar allseits geachtet; am 3.1.1906 ist er in Nendingen verschieden.
+
+	In den Kreisen der württembergische Lehrerschaft war Jakob Dieringer als Mitbegründer des in den 1860er Jahren entstandenen **Katholischen Lehrervereins** und als Redner bei verschiedenen Plenarversammlungen der katholischen Lehrerschaft Württembergs weithin bekannt. "Der Vereinsbote", Wochenschrift des Katholischen Lehrervereins, hat seiner denn auch in einer von Herrn Oberlehrer :index:`Schleicher`, Tübingen, geschriebenen Abhandlung anlässlich seines 100. Geburtstages gedacht und seine Verdienste aufs neue gewürdigt."
+
+Einem Nachruf von Rektor :index:`Schneiderhan`, erschienen in "Der Vereinsbote" 1906, Nr. 8, S. 200, entnehmen wir:
+
+.. epigraph::
+
+	Ihm, dem lieben Freunde mit dem goldtreuen Herzen, ihm, dem pflichttreuen Lehrer und Erzieher, der eine Zierde und Leuchte seines Standes war, ihm, dem liebevollen Gatten und Vater, dem aufrichtigen Berater seiner Mitbürger und Freunde, dem felsenfesten Charakter, dem Mann ohne Falsch und Hehl, ihm den eifrigen Mitglied des Katholischen Lehrervereins, zu dessen Mitbegründern er zählte, seien die folgenden Zeilen gewidmet als dankbares, das Grab überdauerndes Gedenken seiner Freunde.
+
+	... Die Jugendzeit mag seinen Herzensboden so zubereitet haben, dass er in späteren Jahren sehr empfänglich war für Mitfühlen fremden Leides und fruchtbar in Hilfsbereitschaft für des Nächsten Not.
+
+	Kleinere Episoden aus seinem 1. Schulleben (er kam schon mit 5 Jahren in die Schule) ... gaben Zeugnis von seinem kindlichen Eifer und zugleich von seiner schon in der Jugend betätigten dankbaren Gesinnung gegen seine Lehrer und seine Wohltäter, eine Gesinnung, die sich im Mannesalter zu einem hervorstechenden Moment seines Charakterlebens ausreifte.
+
+	Die Berufswahl bei seiner Schulentlassung beeinflusste der damalige Ortspfarrer seiner Heimat mit den Worten: *"Der Jakob muß studieren! Die 500 Gulden seines Vermögens werden und müssen reichen zum Lehrer werden!"* So kam er in den Lehrerberuf. ....
+
+	Wurden je dem Verstorbenen in jenen Jahren (1847-1849) die Ideen der Freiheit und Menschenwürde nach dem Rezept jener Zeit eingeimpft, so haben sie bei ihm höchstens eine immunisierende Wirkung gehabt, insofern er sein ganzes Leben gegen kühne, die Schranken des Gesetzlichen und Erlaubten durchbrechende Freiheitsbetätigung gefeit war, und in all seinem Tun und Lassen nur die Gesetze Gottes seine Wegweiser waren.
+
+	... Als Lehrgehilfe in Kolbingen hatte er das ganze Elend der damaligen ungenügenden Bezahlung durchzukosten (von 19 Kreuzern täglichem Verdienst blieben ihm nach Abzug der Kosten für Essen und Wohnung noch 7 Kreuzer täglich) - und doch schreibt er über jene Zeit: *"Es waren die schönsten Jahre meines Lebens"*. Fürwahr ein schönes Zeugnis idealen Sinnes und treuer Berufsliebe, die ... einen Teil seines eigenen Ichs bildeten. ... Oben auf des Heubergs Höhen schlang er auch Bande tiefer Freundschaft mit seinen Nachbarkollegen, namentlich mit den zwei Mitbegründern des Katholischen Lehrervereins, Oberlehrer Schnell Nusplingen und Steidle in Unterdigishein.
+
+	... Die Faktoren, die seinem ganzen Lebensbild sein scharf umrissenes Gepräge gaben, waren: sichere Ruhe, strenge Sachlichkeit, und ausgeprägter Gerechtigkeitssinn.
+
+	... Er lebte ein Leben der Pflicht und treuer Hingabe an seiner Schule und Familie. Was er der Letzteren war, kann hier nur angedeutet werden. Wenn wir uns vergegenwärtigen, dass er bei dem Einkommen eines Lehrers in früheren Jahren (wenn auch seine Schulstelle zu den besseren gehörte) 10 Kinder erzog und seine 6 Söhne alle in angesehene Stellungen brachte, und bei dieser Kinderzahl sein Familienleben so zu gestalten wusste, dass Eintracht und Liebe alle Glieder auf's Innigste vereinte, Frohsinn und Heiterkeit sich mit eifrigem Streben bei jedem verband, so müssen wir bekennen, Jakob Dieringer hat nicht nur in der Schulstube, sondern auch im eigenen Hause sich als trefflicher Pädagoge und kluger Haushalter mit der Gnade Gottes bewährt. Treu stand ihn seine Frau zur Seite ... Der verstorbene Freund war von seinen Schülern geliebt, von den Eltern geachtet, und von der ganzen Gemeinde geehrt. Einen Feind hatte er nicht. ... Wir scheiden mit dem Gefühl tiefster Wehmut ...
+
+	Der Herr gebe Dir eine fröhliche Auferstehung !
