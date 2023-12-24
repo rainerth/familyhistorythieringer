@@ -4,9 +4,10 @@ Beiträge zur Familiengeschichte Thieringer und Dieringer
 
 .. epigraph::
 
-	Dieses Buch ist eine Sammlung von Beiträgen zur Familiengeschichte Thieringer und Dieringer. Es ist eine Ergänzung zu dem Buch "Die Thieringer und Dieringer aus dem Wiesental" von Hans Thieringer, das 1983 erschienen ist.
+	Dieses Buch ist eine Sammlung von Beiträgen zur Familiengeschichte Thieringer und Dieringer.
 
 	--- Otto Dieringer, Schramberg-Sulgen 1958
+	--- Rainer Thieringer, Bösingen 2023
 
 
 Die schwäbischen Geschlechter aus dem Raum Balingen - Südwestalb
@@ -32,6 +33,7 @@ Inhaltsverzeichnis
 	II_C
 	II_D
 	II_E
+	II_F
 	III_stammlisten
 	backlog
 	genindex

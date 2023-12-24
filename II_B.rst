@@ -22,7 +22,7 @@ Dieringer in Augsburg (1), Basel (4), Braunschweig (1), Breslau (2), Dresden (2)
 
 ferner:
 
-Diringer in Frankfurt am Main (2), Freiburg im Breisgau (3), Halle / Saale (2), Hamburg (1), Heidelberg (1), Karlsruhe (2), Konstanz (4), Landau (1), Gerlingen (1), Korntal (1), Ludwigshafen am Rhein (10), Mannheim (1), Offenburg (1), Pforzheim (2), Trier (1), Wien (4), Berlin (3), München (1); ferner in Hohenzollern, wo der Name Diringer 85 mal vorkam, und zwar in Rangendingen (45), Hechingen (12), Grosselfingen (12), Bisingen (3),Haigerloch (3), Stein (3), Stetten (3), Steinhofen (2), Sigmaringen (1) und Rulfingen (1).
+Diringer in Frankfurt am Main (2), Freiburg im Breisgau (3), Halle / Saale (2), Hamburg (1), Heidelberg (1), Karlsruhe (2), Konstanz (4), Landau (1), Gerlingen (1), Korntal (1), Ludwigshafen am Rhein (10), Mannheim (1), Offenburg (1), Pforzheim (2), Trier (1), Wien (4), Berlin (3), München (1); ferner in Hohenzollern, wo der Name Diringer 85 mal vorkam, und zwar in Rangendingen (45), Hechingen (12), Grosselfingen (12), Bisingen (3), Haigerloch (3), Stein (3), Stetten (3), Steinhofen (2), Sigmaringen (1) und Rulfingen (1).
 
 Das Vorkommen der Namen Tieringer, Thieringer und Düringer wurde dabei nicht erforscht.
 
@@ -34,7 +34,7 @@ Im Ganzen gesehen liegt das Schwergewicht der Namensverbreitung Dieringer / Tier
 
 #. eine :index:`schwäbische Linie`, mit dem Ursprung im Raum Balingen (in der vorliegenden Arbeit, Teil III, eingehend dargestellt als 1. und 2. :index:`Dürrwanger Linie`): Sie hat sich vorwiegend nach Westen und Süden über die Kreise Rottweil und Tuttlingen verbreitet, später vereinzelt auch gegen Norden und Osten in den Raum Tübingen, Reutlingen, Stuttgart.
 
-#. Dann eine :index:`zollerische Linie` mit dem Ausgangspunkt :index:`Rangendingen` Kreis Hechingen. Ihr Ursprung liegt ebenfalls "Im Württembergischen",sodass man eine frühere Verbindung mit der :index:`schwäbischen Linie` wohl als sicher annehmen kann. Zum Unterschied von der schwäbischen Linie blieb die :index:`zollerische Linie` mit ihren Kern bis heute am Ursprungsort :index:`Rangendingen` sesshaft, während die :index:`schwäbische Linie` in :index:`Dürrwangen`, :index:`Weilheim unter Lochen` (heute :index:`Weilstetten`) und :index:`Erzingen` längst ausgestorben ist.
+#. Dann eine :index:`zollerische Linie` mit dem Ausgangspunkt :index:`Rangendingen` Kreis Hechingen. Ihr Ursprung liegt ebenfalls "Im Württembergischen", sodass man eine frühere Verbindung mit der :index:`schwäbischen Linie` wohl als sicher annehmen kann. Zum Unterschied von der schwäbischen Linie blieb die :index:`zollerische Linie` mit ihren Kern bis heute am Ursprungsort :index:`Rangendingen` sesshaft, während die :index:`schwäbische Linie` in :index:`Dürrwangen`, :index:`Weilheim unter Lochen` (heute :index:`Weilstetten`) und :index:`Erzingen` längst ausgestorben ist.
 
 Daneben wird man eine :index:`alemannisch-badische Linie` annehmen dürfen, welche vorwiegend auf den :index:`Breisgau` hinweist; deren Ursprung ist bis jetzt nicht bekannt. Mit der schwäbischen und zollerischen Linie hat sie, soweit bis jetzt bekannt, keinerlei Verbindung. Eher scheinen Spuren in die nahe Schweiz zu gehen.
 

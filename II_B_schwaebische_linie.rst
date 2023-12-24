@@ -109,7 +109,7 @@ Von seinen 6 Kindern (III. Generation) bleiben 3 Söhne (Hans, Martin und Matth�
 * :index:`Matthäus Thieringer` (1683-1725) lebte mit seiner Familie in :index:`Dürrwangen`, hatte jedoch keine männlichen Nachkommen; von seinen 13 Kindern starben 9 in den ersten Monaten oder Jahren.
 * :index:`Martin Thieringer` (1655-1717) heiratete mit 27 Jahren in :index:`Weilheim unter Lochen` (einer Filialgemeinde der evangelischen Pfarrei Frommern) und liess sich in Waldstetten als Bauer und Schneider nieder. Er hatte 5 Söhne (IV. Generation):
 
-:index:`Martin Thieringer`,der Älteste (1684-1762) scheint die elterliche Landwirtschaft in Waldstetten übernommen zu haben; von ihm wird später mehr berichtet.
+:index:`Martin Thieringer`, der Älteste (1684-1762) scheint die elterliche Landwirtschaft in Waldstetten übernommen zu haben; von ihm wird später mehr berichtet.
 
 
 * :index:`Georg Thieringer` (geboren 1684) wird Schneider wie sein Vater;
@@ -208,7 +208,7 @@ Jerg's Ehefrau war eine Tochter des Vogts von :index:`Dürrwangen`. Ihr Sohn :in
 
 Aus 2 Ehen hatte er 13 Kinder, von denen 4 jung starben. Seine 4 Söhne (IV. Generation) waren Bauern und Bürger in Erzingen, einer davon ausserdem Richter und zwar :index:`Jakob Thieringer` (1720-1796).
 
-Auch in den folgenden 3 Generationen treten die Thieringer in :index:`Erzingen` überwiegend als Bauern, vereinzelt auch als Handwerker (Wagner, Schlosser),und wiederholt als Richter auf.
+Auch in den folgenden 3 Generationen treten die Thieringer in :index:`Erzingen` überwiegend als Bauern, vereinzelt auch als Handwerker (Wagner, Schlosser), und wiederholt als Richter auf.
 Einer der letzten Vertreter war :index:`Johann Georg Thieringer` (1823-1872), Bauer und Bürgermeister in Erzingen.
 
 In der VII. Generation, d.h. etwa um 1850, beginnt von :index:`Erzingen` aus die Zerstreuung der Thieringer an andere Orte: so zieht ein

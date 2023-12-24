@@ -16,7 +16,7 @@ Die wechselvollen Schicksale des Raumes Balingen-Rottweil-Tuttlingen im Lauf der
 	*	-	724
 		-	Gründung des Benediktinerklosters Reichenau durch Pirmin.
 
-	*	-	924,926,937,954
+	*	-	924, 926, 937, 954
 		-	Ungarn-Einfälle (bis Oberschwaben), 955 endgültig zurückgeschlagen bei Augsburg.
 
 	*	-	Um 750
@@ -156,7 +156,7 @@ Die wechselvollen Schicksale des Raumes Balingen-Rottweil-Tuttlingen im Lauf der
 	*	-	1632
 		-	Schwedische Truppen plündern in der Gegend von Balingen (Bronnhaupter Hof und Geislingen).
 
-			Unter General Horn ziehen sie gegen Sigmaringen,überfallen kaiserliche Truppen, plündern die Stadt Sigmaringen, stecken das Schloss in Brand.
+			Unter General Horn ziehen sie gegen Sigmaringen, überfallen kaiserliche Truppen, plündern die Stadt Sigmaringen, stecken das Schloss in Brand.
 
 
 	*	-	6.6.1632
@@ -334,4 +334,6 @@ Die wechselvollen Schicksale des Raumes Balingen-Rottweil-Tuttlingen im Lauf der
 .. rubric:: Fußnoten
 
 
-..	[#] Die Pest war eine aus Asien oder Afrika eingeschleppte Krankheit, die durch Ratten und Flöhe übertragen wurde; am schlimmsten war die Lungenpest ("schwarzer Tod"). 1894 wurde der Pestbazillus entdeckt, der heute mit Antibiotika bekämpft werden kann. Die Pest ist heute in Europa ausgerottet.
+..	[#] Die Pest war eine aus Asien oder Afrika eingeschleppte Krankheit, die durch Ratten und Flöhe übertragen wurde. Am schlimmsten war die Lungenpest ("schwarzer Tod"). 1894 wurde der Pestbazillus entdeckt, der heute mit Antibiotika bekämpft werden kann. Die Pest ist heute in Europa ausgerottet.
+
+Die "Suppengasse" in Balingen und Rottweil erinnert noch an öffentliche Speisungen in den Hungersjahren.

@@ -20,9 +20,9 @@ Im grossen und ganzen fällt die Ortsnamensbildung auf **ingen** im deutschen S�
 Wenn eine Sippe sich niedergelassen hatte, so blieb ihr Name gewöhnlich an dem neuen Sitz haften. So darf mit Sicherheit angenommen werden, dass ein Mann mit Namen Thuring als Haupt einer Sippe anzusehen ist, welche einst den Ort Tieringen im heutigen württembergischen Kreis Balingen begründete.
 
 .. seealso::
-	* Karl Weller: Besiedlungsgeschichte Württenbergs von 300-1500 n.Chr. Kohlhammer, Stuttgart, 1938.
-	* ferner: Prof. Dr. Gössler: Württenbergische Studien, Verlag Silberburg, Stuttgart, 1926.
-	* ferner: J. Karlmann Brechenmacher: Wanderung und Wandlung eines sertänischen Stammesnamens: Die Düring, Dieringer, Thieringer, Deuring, Theuringer, Aufsatz im Stuttgarter NS-Kurier vom 4.5.1940.
+	* Karl Weller: Besiedlungsgeschichte Württembergs von 300-1500 n.Chr. Kohlhammer, Stuttgart, 1938.
+	* ferner: Prof. Dr. Gössler: Württembergische Studien, Verlag Silberburg, Stuttgart, 1926.
+	* ferner: J. Karlmann Brechenmacher: Wanderung und Wandlung eines germanischen Stammesnamens: Die Düring, Dieringer, Thieringer, Deuring, Theuringer, Aufsatz im Stuttgarter NS-Kurier vom 4.5.1940.
 
 Der Ortsadel von Thieringen (1280-1459)
 ***************************************
@@ -111,7 +111,7 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 
 .. seealso::
 
-	* Ludwig Schmid: "Monumenta Hohenbergica. Urkundenbuch zur Geschichte der Grafen von Zollern-Hohenberg." Stuttgart 1862. Seite 63,163,171,342,543,881).
+	* Ludwig Schmid: "Monumenta Hohenbergica. Urkundenbuch zur Geschichte der Grafen von Zollern-Hohenberg." Stuttgart 1862. Seite 63, 163, 171, 342, 543, 881).
 	* ferner: "Beschreibung des württembergischen Oberamts Balingen", herausgegeben vom Statistischen Landesamt, Stuttgart 1880, Seite 499 ff,
 	* ferner: "Das Königreich Württemberg, Eine Beschreibung nach Kreisen, Oberämtern und Gemeinden", herausgegeben vom Statistischen Landesamt, Stuttgart 1905.
 	* ferner: "Geschichte der Grafen von Zollern-Hohenberg", L. Schmid. Stuttgart 1862,
@@ -124,7 +124,6 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 
 Bürgerliche Geschlechtsnamen Tieringer, Dieringer, Thüringer
 ============================================================
-
 
 
 .. list-table:: Im Württembergischen Gebiet samt Hohenzollern
@@ -189,10 +188,10 @@ Bürgerliche Geschlechtsnamen Tieringer, Dieringer, Thüringer
 		-	:index:`Hans Tieringer` in :index:`Weilheim unter Lochen` bzw. :index:`Waldstetten` Kreis Balingen (nach Musterungsliste im Württembergischen Staatsarchiv Stuttgart)
 
 	*	-	1544
-		-	:index:`Hans Diringer`\ 'ige Kindt in :index:`Weilheim unter Lochen` bzw. :index:`Waldstetten` Kreis Balingen  (nach Herdstätten- und Türkensteuerlisten, Württembergisches Staatsarchiv)
+		-	:index:`Hans Diringer`\`ige Kindt in :index:`Weilheim unter Lochen` bzw. :index:`Waldstetten` Kreis Balingen  (nach Herdstätten- und Türkensteuerlisten, Württembergisches Staatsarchiv)
 
 	*	-	1560
-		-	:index:`Martin Thieringer` :index:`Hans Thieringer` und :index:`Jerg Thieringer` in :index:`Dürrwangen` Kreis Balingen (s. Weltliches Lagerbuch, Württembergisches Staatsarchiv Stuttgart)
+		-	:index:`Martin Thieringer` :index:`Hans Thieringer` und :index:`Jerg Thieringer` in :index:`Dürrwangen` Kreis Balingen (siehe Weltliches Lagerbuch, Württembergisches Staatsarchiv Stuttgart)
 
 	*	-	1574
 		-	:index:`Martin Dieringer`, in :index:`Gechingen` Kreis Calw (s. Taufregister)

@@ -2,7 +2,7 @@
 Quellen zur Familienforschung Thieringer
 ###########################################
 
-Wer Familienforschung betreibt, ist immer auf Quellen angewiesen,d.h. auf den zuverlässigen Nachweis genealogischer Tatsachen, vor allem über Leben und Betätigung der einzelnen Personen und Gruppen.
+Wer Familienforschung betreibt, ist immer auf Quellen angewiesen, d.h. auf den zuverlässigen Nachweis genealogischer Tatsachen, vor allem über Leben und Betätigung der einzelnen Personen und Gruppen.
 
 Einfachste und nächstliegende, wenn auch nicht immer zuverlässige
 Quellen sind die mündliche Überlieferung (z.B. Erzählungen von Familienmitgliedern), ferner die bauliche Überlieferung (z.B. Burgen und Häuser der adeligen Familien; Wappen, Fenster, Grabdenkmale und Votivtafeln in Kirchen und Klöstern; im bürgerlichen Bereich alte Hofnamen, Hausinschriften, Inschriften auf Truhen und sonstigem Hausgerät, Grabsteine). Die wichtigsten Quellen sind die schriftlichen Urkunden, und zwar die Kirchenbücher, Standesregister und die Archivdokumente.
@@ -25,7 +25,7 @@ Für die einzelnen Teile Deutschlands bestehen Verzeichnisse darüber, welche Ki
 
 
 .. csv-table::
-	:header: " " ,"Taufbuch", "Ehebuch", "Totenbuch"
+	:header: " " , "Taufbuch", "Ehebuch", "Totenbuch"
 	:delim: ;
 
 	"Dürrwangen (Kreis Balingen)"; "1623 .."; "1687 .."; "1784 .."
@@ -40,9 +40,9 @@ Für die einzelnen Teile Deutschlands bestehen Verzeichnisse darüber, welche Ki
 Standesregister
 ===============
 
-In neuerer Zeit hat auch der Staat die wichtigsten Lebensdaten seiner Untertanen verzeichnet, In Württemberg führten von 1808-75 die Pfarrämter in staatlichem Auftrage die Familienregister, welche für genealogische Forschungen besonders wertvoll sind. Seit 1.1.1976 werden in Deutschland allgemein beim Standesamt die Personenstandsregister geführt (über Geburt, Eheschliessung, Tod),die jedermann einsehen kann.
+In neuerer Zeit hat auch der Staat die wichtigsten Lebensdaten seiner Untertanen verzeichnet, In Württemberg führten von 1808-75 die Pfarrämter in staatlichem Auftrage die Familienregister, welche für genealogische Forschungen besonders wertvoll sind. Seit 1.1.1976 werden in Deutschland allgemein beim Standesamt die Personenstandsregister geführt (über Geburt, Eheschliessung, Tod), die jedermann einsehen kann.
 
-Mancherlei Hinweise bieten auch die Einwohnermelderegister (sie enthalten auch Geburtsort und Geburtstag),ferner die Adressbücher, Universitäts- und Schulmatrikel (= Verzeichnisse der Studierenden, mit Angaben über Name, Alter und Herkunftsort; z.B.für Tübingen seit 1477), Adelsmatrikel, Bürgerlisten (z.B. in Hamburg seit 1273, Frankfurt a.M. seit 1312), endlich militärische Soldlisten und Stammrollen.
+Mancherlei Hinweise bieten auch die Einwohnermelderegister (sie enthalten auch Geburtsort und Geburtstag), ferner die Adressbücher, Universitäts- und Schulmatrikel (= Verzeichnisse der Studierenden, mit Angaben über Name, Alter und Herkunftsort; z.B.für Tübingen seit 1477), Adelsmatrikel, Bürgerlisten (z.B. in Hamburg seit 1273, Frankfurt a.M. seit 1312), endlich militärische Soldlisten und Stammrollen.
 
 Ein grosser Teil dieser Quellen wird in den Archiven aufbewahrt.
 

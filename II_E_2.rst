@@ -19,7 +19,7 @@ Bis zur Einführung der Reformation war das auch später katholisch gebliebene :
 
 Etwa 3 km nordwestlich von Tieringen lag früher wahrscheinlich der heute abgegangene Ort Winzeln. Die freien Herren von Winzeln wohnten auf der `Burg Wenzelstein <https://de.wikipedia.org/wiki/Ruine_Wenzelstein_(Winzeln)>`_, deren Ruine zerfallen ist. Die Herrschaft scheint nicht sehr lange bestanden zu haben. Ihr Besitz (Leute und Güter in Thieringen, Hausen am Thann, Hossingen, Meßstetten und Böttingen) befand sich um 1300 schon in den Händen des Klosters :index:`Beuron`, weshalb schon vermutet wurde, der Stifter desselben könnte zu dieser Familie gezählt haben. (Beuron wurde 1075 gegründet).
 
-Über die Geschichte des Orts :index:`Winzeln` und seines allmählichen Absinkens zu einem Hof ist nur wenig bekannt. Nach mehrfachem Besitzwechsel zerfiel der Hof gegen Ende des 16. Jahrhunderts. [#]_
+Über die Geschichte des Orts :index:`Winzeln` und seines allmählichen Absinkens zu einem Hof ist nur wenig bekannt. Nach mehrfachem Besitzwechsel zerfiel der Hof gegen Ende des 16. Jahrhunderts.
 
 .. figure:: ./images/skizze-tieringen-otto-dieringer.*
    :width: 80%
@@ -28,9 +28,7 @@ Etwa 3 km nordwestlich von Tieringen lag früher wahrscheinlich der heute abgega
    Tieringen Kreis Balingen, Quelle: Otto Dieringer, 1958
 
 
-.. rubric:: Fußnoten
-
-..	[#] Literatur:
+.. seealso::
 
 	* "Beschreibung des Oberamts Balingen", Stuttgart 1880;
 	* "Das Königreich Württemberg", Beschreibung nach Kreisen, Oberämtern und Gemeinden. II. Band Schwarzwaldkreis. Stuttgart 1905.

@@ -19,13 +19,13 @@ erwandern und zu schauen vermögen.
 
 .. epigraph::
 
-	Nichts kann uns rauben Liebe und Glauben zu diesem Land,Es zu erhalten und zu gestalten sind wir gesandt.
+	Nichts kann uns rauben Liebe und Glauben zu diesem Land, Es zu erhalten und zu gestalten sind wir gesandt.
 
 Und die Menschen? Die Oberamtsbeschreibung von Balingen (1880) berichtet:
 
 .. epigraph::
 
-	"Die Bevölkerung des Bezirks ist ein kräftiger,ausdauernder und arbeitsamer Menschenschlag, einfach in seiner Lebensweise und genügsam in seiner Verköstigung. Die Hauptnahrung besteht in Kartoffeln, Sauerkraut, Brot, Milch und Speck. Getrunken wird fast nur Bier, Most und Branntwein, nur selten und wenig Wein. Dabei befinden sich die Leute im allgemeinen wohl, erfreuen sich durchschnittlich einer guten Gesundheit und erreichen vielfach ein hohes Alter. Die Männer sind kräftig und wohlgestaltet, nicht weniger die Frauen, unter welchen nicht selten schöne, oft edle Gesichtsbildung überrascht..."
+	"Die Bevölkerung des Bezirks ist ein kräftiger, ausdauernder und arbeitsamer Menschenschlag, einfach in seiner Lebensweise und genügsam in seiner Verköstigung. Die Hauptnahrung besteht in Kartoffeln, Sauerkraut, Brot, Milch und Speck. Getrunken wird fast nur Bier, Most und Branntwein, nur selten und wenig Wein. Dabei befinden sich die Leute im allgemeinen wohl, erfreuen sich durchschnittlich einer guten Gesundheit und erreichen vielfach ein hohes Alter. Die Männer sind kräftig und wohlgestaltet, nicht weniger die Frauen, unter welchen nicht selten schöne, oft edle Gesichtsbildung überrascht..."
 
 
 	"Unter 100 Gestorbenen befinden sich 45 Kinder unter 1 Jahr. Es dürfte diese hohe Kindersterblichkeit weniger darin ihren Grund haben, dass im Bezirk dem Säugungsgeschäft zu wenig Rechnung getragen wird, vielmehr liegt der Grund in dem Mangel an Pflege und Diät in kranken und gesunden Tagen, wobei Unverstand und Aberglaube noch ihre schönsten Blüten treiben. ... Im kirchlichen Leben wird festgehalten an der überlieferten Sitte. Der Sinn der Bewohner steht sektiererischen Bestrebungen entgegen. Der Kunstsinn ist wenig entwickelt."
@@ -85,25 +85,21 @@ Spitznamen
 * Erlaheimer= Erlemer Schnitzhäfa
 
 
-Literatur
----------
+.. seealso::
 
-* "Kohlraisle", mundartliche Gedichte von Matthias Koch (geb.in Tieringen)
-* Karl Hötzer: "Balingen vor hundert Jahren" (1949) - nach Aufzeichnungen des 1919 mit 81 Jahren verstorbenen Veterenärrats Deigendesch.
-* Sofie Schieker-Ebe: "Die Gasse im Dorf" zum Leben armer Bauern in Oberdigisheim
-* Benedikt Leute: "Alte Sitten und Gebräuche vom oberen Heuberg" (siehe Tuttlinger Heimatblätter Nr.20 und 21, von 1935).
-* August Dreher "Rings um den Dreifaltigkeitsberg" (1933)
-* P. Götze: "Trachten der Baar" (Trossingen, 1931).
-* August Lämmle:
-	* "Über das württembergische Volk"(Württembergische Studien, 1926)
-	* "Die Reise ins Schwabenland",
-	* u.s.w.
-* "Über die Mundart" : Tuttlinger Heimatblätter Nr.9
-* Dr. Schroth: "Mundartliche Besonderheiten" (Tuttlinger Heimatblätter Nr. 26, 1937)
-* "Redensarten aus dem Tuttlinger Sprachkreis" : Tuttlinger Heimatblätter Nr. 29
-* Prof.Friedrich Metz: "Ländergrenzen im Südwesten" (1951)
-* Neue Beschreibung des Kreises Balingen. (1958 in Bearbeitung)
-* "Franzosenlärm in Rietheim" (Tuttlinger Heimatblätter Nr. 16, 1933)
+	* "Kohlraisle", mundartliche Gedichte von Matthias Koch (geb.in Tieringen)
+	* Karl Hötzer: "Balingen vor hundert Jahren" (1949) - nach Aufzeichnungen des 1919 mit 81 Jahren verstorbenen Veterenärrats Deigendesch.
+	* Sofie Schieker-Ebe: "Die Gasse im Dorf" zum Leben armer Bauern in Oberdigisheim
+	* Benedikt Leute: "Alte Sitten und Gebräuche vom oberen Heuberg" (siehe Tuttlinger Heimatblätter Nr.20 und 21, von 1935).
+	* August Dreher "Rings um den Dreifaltigkeitsberg" (1933)
+	* P.\  Götze: "Trachten der Baar" (Trossingen, 1931).
+	* August Lämmle: "Über das württembergische Volk"(Württembergische Studien, 1926), "Die Reise ins Schwabenland", u.s.w.
+	* "Über die Mundart" : Tuttlinger Heimatblätter Nr.9
+	* Dr. Schroth: "Mundartliche Besonderheiten" (Tuttlinger Heimatblätter Nr. 26, 1937)
+	* "Redensarten aus dem Tuttlinger Sprachkreis" : Tuttlinger Heimatblätter Nr. 29
+	* Prof. Friedrich Metz: "Ländergrenzen im Südwesten" (1951)
+	* Neue Beschreibung des Kreises Balingen. (1958 in Bearbeitung)
+	* "Franzosenlärm in Rietheim" (Tuttlinger Heimatblätter Nr. 16, 1933)
 
 
 .. epigraph::

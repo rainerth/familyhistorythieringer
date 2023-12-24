@@ -2,7 +2,7 @@
 Wappen der Familien Thieringer - Dieringer
 ############################################
 
-Dass über ein Wappen der Familien Thieringer-Dieringer die Ansichten stark auseinander gehen, zeigt schon ein flüchtiger Blick auf das Vorhandene: Während in den führenden Wappenwerken (Siebmacher,Alberti) die Wappen des Thieringer Adelsgeschlechts in zwei ähnlichen Formen nachgewiesen sind, stiess der Verfasser im Verlauf seiner Forschungen noch auf drei weitere Wappen, die alle im Folgenden näher beschrieben und beurteilt werden sollen.
+Dass über ein Wappen der Familien Thieringer-Dieringer die Ansichten stark auseinander gehen, zeigt schon ein flüchtiger Blick auf das Vorhandene: Während in den führenden Wappenwerken (Siebmacher, Alberti) die Wappen des Thieringer Adelsgeschlechts in zwei ähnlichen Formen nachgewiesen sind, stiess der Verfasser im Verlauf seiner Forschungen noch auf drei weitere Wappen, die alle im Folgenden näher beschrieben und beurteilt werden sollen.
 
 Bis jetzt ist nicht bekannt, ob von einer der Familien (von den Rittern von Thieringen abgesehen) zu irgend einer Zeit ein Wappen, eine Hausmarke oder ein Siegel geführt wurde. Auch heute führt keine Familie ein Wappen. Da ein Zusammenhang unserer Ahnen mit der Thieringer Adelsfamilie des 13.-15. Jahrhundert kaum nachzuweisen ist, so sind die in der vorliegenden Schrift aufgeführten Familien nicht berechtigt, deren Wappen zu führen. Dazu wäre ein sogenannter "Wappenbrief" nötig, d.h. eine Urkunde, durch die etwa einem Familienverband die Wappenfähigkeit und das Recht zur Führung eines bestimmten Wappens verliehen wird.
 
@@ -35,7 +35,7 @@ Wappen des Ortsadels "von Thieringen"
 
 	Thieringen. Gräflich Hohenbergische Dienstmannen 1285-1459. O.A.
 
-	Beschr. Balingen S. 214, 342, 350, 363, 433, 499-500,501; neue O.A. Beschr. Rottenburg II, 297, 355; Rottweil 361 (?); Spaichingen 354; Kindler v. Knobloch: "Oberbadisches Geschlechterbuch" I, 224.
+	Beschr. Balingen S. 214, 342, 350, 363, 433, 499-500, 501; neue O.A. Beschr. Rottenburg II, 297, 355; Rottweil 361 (?); Spaichingen 354; Kindler v. Knobloch: "Oberbadisches Geschlechterbuch" I, 224.
 
 	.. _ref_siegel_walter_von_thieringen:
 
@@ -59,15 +59,15 @@ Wappen des Ortsadels "von Thieringen"
 	*	:index:`Friedrich von Thieringen` 1338.
 	*	:index:`Jäcklin`, 1338 Hohenberg'scher Diener, tot 1351; seine Söhne 1351: Dietrich, Walter, Jacob und Hugo.
 	*	:index:`Gertrud von Bubenhofen`, Jacob des Tieringer's Witwe, verzichtete 1344 auf einen Hof in Owingen an Kloster Alpirsbach.
-	*	:index:`Dietrich der Thieringer`, R.,1359.
+	*	:index:`Dietrich der Thieringer`, R., 1359.
 	*	Hans Ulrich von Thieringen 1365.
 	*	Dietrich Dieringer, Ek., 1366 Z. in :index:`Freiburg`, 1373 Bürge für den Grafen in Freiburg.
 	*	:index:`Konrad Tieringer`, 1382 des Gerichts in Freiburg.
 	*	:index:`Konrad von Tieringen`, Conventherr zu :index:`Alpirsbach`, und die minderjährigen Kinder seines + Bruders :index:`Dietrich von Tieringen`.
 	*	:index:`Fritz der Tieringer`, 1397.
 	*	Frau Clara Tieringerin besass 1405 Gülten in :index:`Bötzingen`.
-	*	:index:`Diethelm der Tieringer`, 1405,1427.
-	*	:index:`Werner von Tieringen`, Ek.,1426, führte im Schilde einen viermal sparrenweise gebrochenen Balken.
+	*	:index:`Diethelm der Tieringer`, 1405, 1427.
+	*	:index:`Werner von Tieringen`, Ek., 1426, führte im Schilde einen viermal sparrenweise gebrochenen Balken.
 	*	:index:`Peter Tieringer`, 1428 des Raths in :index:`Kenzingen`.
 	*	Werner von Tieringen, 1455 Vogt zu :index:`Hechingen`, Oheim des Peter Eminger.
 	*	Junker Rudolf von Tieringen 1446.

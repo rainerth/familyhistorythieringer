@@ -23,7 +23,7 @@ Genealogische Grundbegriffe\ [#]_
 
 
 	Generation
-		Geschlechterfolge, Ahnenstufe; ein Zeitraum yon durchschnittlich etwa 50 - 35 Jahren.
+		Geschlechterfolge, Ahnenstufe; ein Zeitraum von durchschnittlich etwa 50 - 35 Jahren.
 
 
 	Stammvater
@@ -201,8 +201,8 @@ j) :index:`Verwandtschaftsliste`
 Inhaltlich dasselbe wie die Verwandtschaftstafel, nur in Listenform. Die einzelnen Angaben können hier ausführlicher gehalten werden, weil mehr Raum zur Darstellung vorhanden ist.
 
 
-k) weitere Begiffe
-==================
+k) weitere Begriffe
+===================
 
 .. glossary::
 

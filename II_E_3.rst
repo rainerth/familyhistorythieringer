@@ -16,12 +16,12 @@ Kleineren Besitz in Dürrwangen hatten ferner die Grafen von Hohenberg, die 1347
 
 Eine Kapelle zum Heiligen Sebastian wird 1414-1531 erwähnt. In der zweiten Hälfte des 14. Jahrhunderts wurde hier eine Beguinen-Klause gegründet, die aber nur wenige Güter besass und 1468 aufgelöst wurde.
 
-Vor dem 50-jährigen Krieg zählte Dürrwangen ungefähr 60, unmittelbar nachher etwa noch 30 männliche Einwohner. [#]_
+Vor dem 50-jährigen Krieg zählte Dürrwangen ungefähr 60, unmittelbar nachher etwa noch 30 männliche Einwohner.
+
+.. seealso::
+
+	"Beschreibung des Oberamts Balingen", 1880; u.a.
 
 
 In den nahen Orten :index:`Frommern` und :index:`Laufen an der Eyach` war das :index:`Kloster St. Gallen` schon 793 begütert. Später gehören beide Orte zur Herrschaft Schalksburg und kommen mit dieser 1403 an Württemberg.
 
-.. rubric:: Fußnoten
-
-
-..	[#] Literatur: "Beschreibung des Oberamts Balingen", 1880; u.a.

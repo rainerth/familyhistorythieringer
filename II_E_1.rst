@@ -22,7 +22,16 @@ und :index:`Mahlstetten`.
 Im Lauf der Zeit wurden mit zunehmender Bevölkerung weitere Siedlungen notwendig; es entstanden vorwiegend die Orte :index:`Oberdigisheim` und :index:`Unterdigisheim`, :index:`Öbernheim`, :index:`Egesheim`, :index:`Gosheim`, :index:`Bubsheim`, :index:`Königsheim`, :index:`Balgheim`, :index:`Dürbheim`, :index:`Rietheim`, :index:`Weilheim` und :index:`Mühlheim`. Eine Anzahl dieser Heu-
 bergdörfer wird um 770-780 anlässlich von Streitigkeiten oder Schenkungen an Klöster erstmalig urkundlich erwähnt. Aus Bodenfunden und Grabbeigaben kann man sich ein ziemlich gutes Bild des frühen alamannischen Lebens rekonstruieren, wurden doch gerade in vielen Heubergorten alamannische Gräber und Friedhöfe gefunden, in Nusplingen sogar einen der wichtigsten des Landes mit 261 Gräbern. [#]_
 
-An die Bertholdsbar erinnert heute noch das Wort "Baar". [#]_
+An die Bertholdsbar erinnert heute noch das Wort "Baar".
+
+
+.. seealso::
+
+	* Karl Weller: "Besiedlungsgeschichte Württembergs", Stuttgart 1933;
+	* ferner eine Anzahl kleinerer Schriften und Aufsätze: z.B.
+	* August Dreher: "Rings um den Dreifaltigkeitsberg" (1938);
+	* "Schwarzwälder Sonntagspost" vom 11.3.1949: "Die Besiedlung des Heubergs durch die Schwaben";
+	* "Tuttlinger Heimatblätter", Neue Folge, Heft 8: Hermann Streng: "Tuttlinger Geschichtsquellen" u.s.w.
 
 
 .. _ref-mittelalterliche-geschichte:
@@ -49,23 +58,19 @@ Die **Grafschaft Hohenberg** umfasste zwei getrennte Teile:
 
 Sie kam 1551 samt den Herrschaften `Kallenberg <https://de.wikipedia.org/wiki/Burgruine_Kallenberg>`_ und `Werenwag <https://de.wikipedia.org/wiki/Herrschaft_Werenwag>`_ durch Kauf an :index:`Österreich`.
 
-Dieser Besitz bildete einen Teil von **"Vorder-Österreich"**, deren Regierung seit 1651 in Freiburg im Breisgau sass. Dem Oberamt in Rottenburg als oberster Behörde unterstanden die Obervogteiämter in :index:`Spaichingen`, :index:`Oberndorf` und :index:`Horb,` sowie andere Behörden. Die `Burg Oberhohenberg <https://de.wikipedia.org/wiki/Burg_Oberhohenberg>`_ wurde 1449 von den Rottweilern zerstört. Die mehrfach verpfändete Grafschaft kam 1895 an Württemberg. [#]_
+Dieser Besitz bildete einen Teil von **"Vorder-Österreich"**, deren Regierung seit 1651 in Freiburg im Breisgau sass. Dem Oberamt in Rottenburg als oberster Behörde unterstanden die Obervogteiämter in :index:`Spaichingen`, :index:`Oberndorf` und :index:`Horb`, sowie andere Behörden. Die `Burg Oberhohenberg <https://de.wikipedia.org/wiki/Burg_Oberhohenberg>`_ wurde 1449 von den Rottweilern zerstört. Die mehrfach verpfändete Grafschaft kam 1895 an Württemberg.
+
+
+..	seealso::
+
+	Eugen Stemmler: "Die Grafschaft Hohenberg und ihr Übergang an Württemberg 1806", Stuttgart 1950.
 
 
 .. rubric:: Fußnoten
 
 ..	[#] Vergleich hierzu die "Vorgeschichtliche Karte von Rottweil und Umgebung" 1:100000, vom Rottweiler Geschichts- und Altertumsverein 1938 herausgegeben
 
-..	[#] Literatur:
-
-	* Karl Weller: "Besiedlungsgeschichte Württembergs", Stuttgart 1933;
-	* ferner eine Anzahl kleinerer Schriften und Aufsätze: z.B.
-	* August Dreher: "Rings um den Dreifaltigkeitsberg" (1938);
-	* "Schwarzwälder Sonntagspost" vom 11.3.1949: "Die Besiedlung des Heubergs durch die Schwaben";
-	* "Tuttlinger Heimatblätter", Neue Folge, Heft 8: Hermann Streng: "Tuttlinger Geschichtsquellen" u.s.w.
-
 ..	[#] Vergleiche auch Dr. A. Aich: "Siedlungsgeschichte des Heubergs" (Tuttlinger Heimatblätter. 3)
 
 
-..	[#] Literatur: Eugen Stemmler: "Die Grafschaft Hohenberg und ihr Übergang an Württemberg 1806", Stuttgart 1950.
 

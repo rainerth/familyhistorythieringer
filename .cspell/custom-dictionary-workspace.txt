@@ -22,6 +22,7 @@ Bodelshausen
 Borromäus
 Bösingen
 Böttingen
+Bötzingen
 Brakteaten
 Brechenmacher
 Bubenhofen
@@ -56,6 +57,7 @@ Fronacker
 Fronbrot
 Fronwiese
 geästeter
+Gechingen
 Gemar
 Georgen
 Gerichtsverwandter
@@ -74,6 +76,7 @@ gültenpflichtige
 Gültlingen
 Gunningen
 Hechinger
+Herdstätten
 Herdstättensteuer
 Hewen
 Hilsbach
@@ -82,10 +85,12 @@ Hohenberg
 Hohenberger
 Hohenbergischen
 Hohenkarpfen
+Honberg
 Honburg
 Hossingen
 Hube
 Hundertschaftsleiter
+Hungersjahren
 Jerg
 Juchart
 Kauffmann
@@ -119,8 +124,11 @@ Mannsnamen
 Markungsgrenzen
 Mercy
 Meßstetten
+Mühlheim
 Muhme
+Musterungsliste
 Musterungslisten
+Musterungsregister
 Nachfahrenfolge
 Nachfahrenliste
 Nägele
@@ -167,6 +175,7 @@ Tippelbruder
 Tuningen
 Türing
 Türkensteuerliste
+Türkensteuerlisten
 Tyringer
 Uhlbach
 unbelaubten

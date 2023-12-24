@@ -82,17 +82,16 @@ Pfund, Batzen, Pfennig, Mark
 
 Rottweil, Konstanz, Reichenau und St.Gallen hatten zeitweise eine eigene Währung.
 
-Literatur
----------
 
-* K. Keller: "Besiedlungsgeschichte Württembergs Band 3, 1938
-* H. Streng: "Tuttlinger Geschichtsquellen" - in Tuttl.Heimatblätter, Neue Folge, Heft 8 (1956).
-* B. Leute: "Alte Sitten und Gebräuche vom oberen Heuberg" - (Tuttlinger Heimatblätter Nr. 20 u. 21, 1935)
-* Adam Kraus: "Ehemalige Maße und Gewichte im heutigen Hohenzollern und seiner Umgebung".
-* Aufsätze von Michel Buck in "Schwäbische Heimat".
-* Württembergische Geschichtsquellen, Bd. 23.
-* Viktor Ernst, Karl Bohnenberger, Karl Siegfried Bader, u.a., Geschichts- und Flurnamenforscher.
+.. seealso::
 
+	* K.\  Keller: "Besiedlungsgeschichte Württembergs Band 3, 1938
+	* H.\  Streng: "Tuttlinger Geschichtsquellen" - in Tuttlinger Heimatblätter, Neue Folge, Heft 8 (1956).
+	* B.\  Leute: "Alte Sitten und Gebräuche vom oberen Heuberg" - (Tuttlinger Heimatblätter Nr. 20 und 21, 1935)
+	* Adam Kraus: "Ehemalige Maße und Gewichte im heutigen Hohenzollern und seiner Umgebung".
+	* Aufsätze von Michel Buck in "Schwäbische Heimat".
+	* Württembergische Geschichtsquellen, Bd. 23.
+	* Viktor Ernst, Karl Bohnenberger, Karl Siegfried Bader, u.a., Geschichts- und Flurnamenforscher.
 
 
 Von den Burgen
@@ -113,7 +112,7 @@ Meist kennt man die Zeit des Burgenbaus nicht genau. Der :index:`Hohentwiel` tru
 
 Die Burgen dienten Wohn- und Wehrzwecken, ihre Bauart war vorwiegend durch äußere Einflüsse bedingt(natürliche Lage, Entwicklung der Angriffswaffen) und weniger dem Baustil unterworfen wie die Schlösser.
 
-In den Burgen spiegelt sich ein Stück Kulturgeschichte,ihre Geschichte ist gleichzeitig die Geschichte der Ritterschaft. Der Ritterstand in Schwaben erwuchs aus der Dorfherrschaft.
+In den Burgen spiegelt sich ein Stück Kulturgeschichte, ihre Geschichte ist gleichzeitig die Geschichte der Ritterschaft. Der Ritterstand in Schwaben erwuchs aus der Dorfherrschaft.
 
 .. epigraph::
 	Der Ritter ist aber in der Regel nicht nur Dorfherr, sondern auch der bedeutendste Grundherr. Sein Besitztum hat sich ursprünglich wohl kaum von dem Hof des reicheren Bauern unterschieden, es sei denn ... durch Wall, Graben oder Mauer oder durch von Natur aus feste Lage"
@@ -194,16 +193,15 @@ Um 1150 erstmalig genannt, steigen sie im Dienst Barbarossa's und Heinrich's IV.
 
 Die Raubritter hatten es vor allem auf die reichen Kaufleute von Ulm und Ravensburg abgesehen. So wurde viel: deutsches Blut unnütz vergossen, weil eine starke Reichsgewalt fehlte.
 
-Literatur:
-----------
+.. seealso::
 
-* Paul Revellio: "Aus der Geschichte der Baar im Mittelalter".
-* Richard Schmidt: "Burgen und Schlösser in Württemberg" (in württembergischen Studien, 1926)
-* K.\ Weller: "Besiedlungsgeschichte Württembergs", Band 3, S. 276-298.
-* Pfarrer Hilzinger: "Geschichte derer von Karpfen" (Tuttlinger Heimatblätter 4, 1925)
-* Zittrell: "Aus der Geschichte der Stadt Mühlheim an der Donau" (Tuttlinger Heimatblätter, Nr. 5, 1926)
-* Ludwig Finckh: "Der unbekannte Hegau" (1935)
-* Dr. Rauscher: "Geschichte des Honberg" (Tuttlinger Heimatblätter Nr. 20, 1955)
+  * Paul Revellio: "Aus der Geschichte der Baar im Mittelalter".
+  * Richard Schmidt: "Burgen und Schlösser in Württemberg" (in württembergischen Studien, 1926)
+  * K.\  Weller: "Besiedlungsgeschichte Württembergs", Band 3, S. 276-298.
+  * Pfarrer Hilzinger: "Geschichte derer von Karpfen" (Tuttlinger Heimatblätter 4, 1925)
+  * Zittrell: "Aus der Geschichte der Stadt Mühlheim an der Donau" (Tuttlinger Heimatblätter, Nr. 5, 1926)
+  * `Ludwig Finckh <https://de.wikipedia.org/wiki/Ludwig_Finckh>`_: "Der unbekannte Hegau" (1935)
+  * Dr. Rauscher: "Geschichte des Honberg" (Tuttlinger Heimatblätter Nr. 20, 1955)
 
 
 
@@ -226,7 +224,7 @@ Nach dem 16. Jahrhundert traten infolge geänderter Wirtschaftsverhältnisse und
 
 Während in der Reichsstadt Rottweil das wirtschaftliche Leben um 1450 dank dem Geschäftsgeist eingesessener führender Geschlechter und der Betriebsamkeit der in Zünfte gegliederten Handwerkerschaft schon in hoher Blüte stand (bedeutend waren vor allem die Zünfte der Sensen- und Sichelschmiede und der Tuchmacher, welche bis Nördlingen, Frankfurt und Zurzach / Schweiz lieferten) blieb Tuttlingen durch die ungünstigen Zeitverhältnisse bis ins 19. Jahrhundert hinein ein kleines Landstädtchen, wo noch viel Landwirtschaft getrieben wurde und das Handwerk nur schwer hochkam.
 
-Kriege, Zollschikanen und der Stadtbrand wirkten sehr hemmend. Alte Gewerbe waren: Müller und Bäcker, Metzger, Schuhmacher, Gerber und Nagelschmiede, Messerschmiede, Strumpf- und Leineweber, Stricker. Später kamen dazu Küfer,Wagner, Sattler, Bierbrauer, Schneider, Schlosser, Tischler, Zimmerer, Maurer, Glaser, Kammmacher u.s.w. Und als die Zollschranken um 1830 fielen, blühte das Handwerk auch in der Grenzstadt Tuttlingen rasch empor.
+Kriege, Zollschikanen und der Stadtbrand wirkten sehr hemmend. Alte Gewerbe waren: Müller und Bäcker, Metzger, Schuhmacher, Gerber und Nagelschmiede, Messerschmiede, Strumpf- und Leineweber, Stricker. Später kamen dazu Küfer, Wagner, Sattler, Bierbrauer, Schneider, Schlosser, Tischler, Zimmerer, Maurer, Glaser, Kammmacher u.s.w. Und als die Zollschranken um 1830 fielen, blühte das Handwerk auch in der Grenzstadt Tuttlingen rasch empor.
 
 In Balingen lebten bis 1850 die meisten Bewohner noch von der Landwirtschaft.Stark betrieben wurde die Viehzucht und Weidewirtschaft, auch Hanfbau. Zu den
 ersten Gewerben zählten auch hier die Zeugmacher, Strumpfweber und Schuhmacher.
@@ -246,14 +244,14 @@ Mit dem Aufkommen der Post durch die Fürsten von Thurn und Taxis im 16. Jahrhun
 
 Für die Entwicklung der Tuttlinger Gewerbezweige waren Unternehmungsgeist und Anregungen von draußen immer schon wichtige Antriebskräfte.
 
+.. seealso::
 
-Literatur
----------
+	* Dr. Reinert: "Von unseren Zünften" (Tuttlinger Heimatblätter Nr. 2, 1924)
+	* H.\  Streng: "Tuttlinger auf Wanderschaft" (Tuttlinger Heimatblätter Nr. 17, 1934)
+	* K.\  Hötzer: "Balingen vor 100 Jahren".
+	* A.\  Steinhauser: "Werkstätte der Rottweiler Geschichte", 1950.
 
-* Dr. Reinert: "Von unseren Zünften" (Tuttlinger Heimatblätter Nr. 2, 1924)
-* H.\  Streng: "Tuttlinger auf Wanderschaft" (Tuttlinger Heimatblätter Nr. 17,1934)
-* K.\  Hötzer: "Balingen vor 100 Jahren".
-* A.\  Steinhauser: "Werkstätte der Rottweiler Geschichte", 1950.
+	* Wikipedia `Burg Falkenstein <https://de.wikipedia.org/wiki/Ruine_Falkenstein_(Schramberg)>`_, `Burg Ramstein <https://de.wikipedia.org/wiki/Ruine_Ramstein_(Schramberg)>`_, `Burg Hohenkarpfen <https://de.wikipedia.org/wiki/Burg_Hohenkarpfen>`_, `Burg Hohenlupfen <https://de.wikipedia.org/wiki/Burg_Hohenlupfen>`_, `Burg Konzenberg <https://de.wikipedia.org/wiki/Burg_Konzenberg>`_, `Burg Waldau <https://de.wikipedia.org/wiki/Ruine_Waldau_(K%C3%B6nigsfeld)>`_, `Burg Irslingen <https://de.wikipedia.org/wiki/Burg_Irslingen>`_, u.v.a.
 
 
 .. rubric:: Fußnoten
@@ -266,17 +264,7 @@ Literatur
 
 .. [#] Vergleiche Tuttlinger Heimatblätter Nr. 1, 2, 7, 21, 38
 
-.. [#] `Burg Falkenstein <https://de.wikipedia.org/wiki/Ruine_Falkenstein_(Schramberg)>`_
 
-.. [#] `Burg Ramstein <https://de.wikipedia.org/wiki/Ruine_Ramstein_(Schramberg)>`_
-
-.. [#] `Burg Hohenkarpfen <https://de.wikipedia.org/wiki/Burg_Hohenkarpfen>`_
-
-.. [#] `Burg Hohenlupfen <https://de.wikipedia.org/wiki/Burg_Hohenlupfen>`_
-
-.. [#] `Burg Konzenberg <https://de.wikipedia.org/wiki/Burg_Konzenberg>`_
-
-.. [#] `Burg Waldau <https://de.wikipedia.org/wiki/Ruine_Waldau_(K%C3%B6nigsfeld)>`_
 
 
 
