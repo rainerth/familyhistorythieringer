@@ -38,7 +38,7 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 		- 	:index:`Heinrich von Thieringen`, Pfarr-Rektor in :index:`Thieringen`, :index:`Stetten am kalten Markt`, :index:`Engstlatt` und :index:`Mägerkingen`.
 
 	*	-	1280
-		- 	:index:`decanus de Dieringen`, Zeuge des Grafen Mangold von Nellenburg.
+		- 	:index:`Decanus de Dieringen`, Zeuge des Grafen Mangold von Nellenburg.
 
 	*	-	1281
 		- 	Zwei Gebrüder :index:`Wenher von Thieringen`, Zeugen der Grafen von Hohenberg.
@@ -52,8 +52,8 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 	*	-	1338
 		-	:index:`Friedrich von Thieringen`, Beschenker des St. Katharinen- und Nikolaus-Altars in :index:`Thieringen`.
 
-	*	-	1333
-		- 	:index:`Jakelin der Tyeringer`, Gräflich Hohenbergischer Diener; bis zum Jahr 1558 Besitzer einer Gült zu :index:`Rangendingen` Kreis Hec hingen, ("Maier Bertrams Hof").
+	*	-	1338
+		- 	:index:`Jakelin der Tyeringer`, Gräflich Hohenbergischer Diener; bis zum Jahr 1558 Besitzer einer Gült zu :index:`Rangendingen` Kreis Hechingen, ("Maier Bertrams Hof").
 
 	*	-	1344
 		- 	Seine Witwe, :index:`Gertrud von Bubenhofen`, verzichtet auf einen Hof in :index:`Owingen`.
@@ -61,8 +61,8 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 	*	-	1359
 		-	:index:`Dietrich der Thieringer`, Ritter, kauft Gülten in Thieringer.
 
-	*	-	1361
-		- 	(*??? lt Otto Dieringer 1351 ???*) Dietrich, Walther, Jakob und Hugo, Söhne Jakelin's selig von Thieringen, verzichten gegen Kloster Alpirsbach für eine Geldsumne auf Ansprüche an einen Hof in :index:`Owingen` Kr.Hechingen.
+	*	-	1351
+		- 	Dietrich, Walther, Jakob und Hugo, Söhne Jakelin's selig von Thieringen, verzichten gegen Kloster Alpirsbach für eine Geldsumne auf Ansprüche an einen Hof in :index:`Owingen` Kr.Hechingen.
 
 	*	-	1566
 		-	:index:`Dietrich Dieringer`, Edelknecht, Zeuge in Freiburg. Er kauft als :index:`Dietrich der Thieringer` 1565 das Vogtsrecht über die Güter des Klosters Alpirsbach zu Mühlheim O.A. Sulz. 1373 Bürge für den Grafen von Freiburg.
@@ -79,18 +79,19 @@ Nach dem Ort Tieringen Kr. Balingen benannte sich ein Adelsgeschlecht, das zum T
 	*	-	1405 und 1427
 		-	:index:`Diethelm der Tieringer`
 
+	*	-	1412
+		-	:index:`Bengo von Thieringen`, Bürger von :index:`Rottweil`, 50 Jahre alt. (Rottweiler Heimatblätter, 1928, 6. Jahrgang, Nr. 22)
+
 	*	-	1423
 		-	:index:`Wernher Tyringer`, im Dienste der :term:`Herren von Ow` in ihrem von :index:`Bernhard von Baden` belagerten Schloss :index:`Bodelshausen`. Er ist nach 3 Edelknechten (Adeligen) der erste von 11 Knechten (Soldaten) und hat kein eigenes Siegel.
 
-	*	-	1425
+	*	-	1423
 		-	:index:`Hans von Thieringen`, nebst anderen Helden, Überlebender der fast einjährigen Belagerung und des Sturms der schwäbischen Reichsstädte auf die :index:`Burg Hohenzollern` am 15.5.1423. (Siehe Gedenktafel in der St. Michaels-Kapelle der Burg Hohenzollern.)
 
 			1447 siegelt er eine Urkunde.
 
 			Am 31. Oktober 1459 wird sein Streit mit :index:`Lienhart Remen` aus Hechingen wegen des Erbes seines Bruders :index:`Wernher von Thieringen` (Vogt des Grafen :index:`Eitel Friedrich von Zollern` in Hechingen) durch den Grafen Sigmund von Hohenberg dahin entschieden, dass das meiste Gut Wernhers (besonders Güter zu Hechingen und im Elsass) an Graf Sigmund's Stiefsohn, den Grafen :index:`Jos Niklas von Zollern` fallen, die von dem Haus Osterreich zu Lehen rührenden Zehnten, Nutzen, Gülten und Güter zu Thieringen dem Dorf jedoch Hansen und seinen Erben eigentümlich zugehören sollen. (Siegel: geästeter Querbalken)
 
-	*	-	1412
-		-	:index:`Bengo von Thieringen`, Bürger von :index:`Rottweil`, 50 Jahre alt. (Rottweiler Heimatblätter, 1928, 6. Jahrgang, Nr. 22)
 
 	*	-	1440
 		-	:index:`Wernher von Thieringen`, einsichtsvoller Vogt des Grafen :index:`Eitel Friedrich von Zollern` zu Hechingen, im zweiten Viertel des 15. Jahrhunderts. Er führte im Schilde einen viermal sparrenweise gebrochenen Balken.

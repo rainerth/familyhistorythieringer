@@ -17,6 +17,29 @@ Eugen Thieringer, 26.5.1882, Sulgen
 	Fabrikarbeiter, Deutschlands größter Heiratsschwindler. https://www.digitale-sammlungen.de/de/view/bsb00001151_00451_u001?page=2,3&q=Thieringer
 
 
+`rottweil.net <https://www.rottweil.net/wiki/Hauptseite>`_
+==========================================================
+
+Eckhof bei Bühlingen
+	Quelle: https://www.rottweil.net/wiki/Ansichten/RegionRottweil/Eschachtal/Eckhof
+
+	.. figure:: ./images/1910_Eckhof_um_1910_01.jpg
+		:align: center
+
+		Eckhof um 1910 | Quelle: https://www.rottweil.net
+
+
+Lauffen ob Rottweil: Hochhalden ehemals Rössle
+	Johannes Thieringer, Buchhalter und Rösslewirt in Hochhalden, Pfarrei Lauffen ob Rottweil a.M. (heute: Hochhalden 29, 78628 Rottweil)
+
+	geboren 10.10.1842 in Weilheim unter Lochen, gestorben 23.10.1896 Lauffen ob Rottweil, verheiratet mit Pauline Schlaich.
+
+
+	.. figure:: ./images/Buehlingen_Lauffen_Hochhalden_29_20100629.*
+		:align: center
+
+		Gebäude Hochhalden 29, einstiges Rössle, am 29. Juni 2010 | Quelle: https://www.rottweil.net
+
 
 
 Herbert Ernst

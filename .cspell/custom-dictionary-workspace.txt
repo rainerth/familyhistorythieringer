@@ -72,6 +72,7 @@ Fronbrot
 Fronwiese
 geästeter
 Gechingen
+Geldsumne
 Gemar
 Georgen
 Gerichtsverwandter
@@ -103,6 +104,7 @@ Hohenberg
 Hohenberger
 Hohenbergica
 Hohenbergischen
+Hohenbergischer
 Hohenkarpfen
 Honberg
 Honburg
@@ -182,6 +184,8 @@ Ratshausen
 Remen
 Rödel
 Römerherrschaft
+Rössle
+Rösslewirt
 Rulfingen
 Saliter
 Salniter
@@ -209,6 +213,7 @@ Salpetersucher
 Schalksburg
 Schalksburger
 Schießpulverfabrikation
+Schlaich
 Schlichem
 Schupflehen
 Schwägerschaft
@@ -217,6 +222,7 @@ Siebmacher'schen
 Sippschaftstafel
 Soldlisten
 Spangenhelm
+sparrenweise
 Spuria
 Spurius
 Stalldünger
@@ -241,6 +247,7 @@ Tieringen
 Tieringer
 Tieringerin
 Tippelbruder
+Trockenried
 Tuningen
 Türing
 Türkensteuerliste
@@ -253,6 +260,7 @@ Unreinigkeiten
 Unterdigishein
 unvordenklichen
 vermarkt
+Vogtsrecht
 Wachter
 Waldstetten
 Wanderbursch

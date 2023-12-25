@@ -21,10 +21,10 @@ Vorwort von Rainer Thieringer
 
 Durch meinen Vater, Josef Thieringer (1934-2023), erhielt ich Zugang zu den über hundert maschinengeschriebenen Seiten von Otto Dieringer aus dem Jahr 1958. Neben meinem großen Respekt für die unglaubliche Rechercheleistung aller bisherigen Mitwirkenden und meiner Freude über die vielen Erkenntnisse, die ich aus der Arbeit ziehen konnte, war ich besorgt über eine mögliche Einstellung der Arbeit.
 
-Aus diesem Grund habe ich mich entschieden, die Arbeit von Otto Dieringer zu digitalisieren und damit die Basis für eine Fortführung zu schaffen. Die Arbeit von Otto Dieringer dient also nun hoffentlich Grundlage für weitere Berichte und Forschungen von Personen aller stammesgeschichtlichen Linien.
+Aus diesem Grund habe ich mich entschieden, die Arbeit von Otto Dieringer zu digitalisieren und damit die Basis für eine Fortführung zu schaffen. Die Arbeit von Otto Dieringer dient also nun hoffentlich als Grundlage für weitere Berichte und Forschungen von Personen aller stammesgeschichtlichen Linien.
 
 Das gesamte Dokument steht unter der `Creative Commons Lizenz (BY-NC-SA 4.0) <https://creativecommons.org/licenses/by-sa/4.0/>`_. Das bedeutet, dass die Arbeit von Otto Dieringer und meine Erweiterungen von jedem frei genutzt werden kann, solange die Nennung der Autoren erfolgt und die Arbeit unter der gleichen Lizenz weitergegeben wird. Ich gehe davon aus, dass dies so im Sinne von Otto Dieringer und seinen Nachfahren ist, die ich sehr gerne kennenlernen würde.
 
 Korrekturen, Ergänzungen oder Hinweise auf Fehler sind jederzeit willkommen.
 
-*--- Rainer Thieringer (rainerthi ät gmail dot com), Bösingen 2023*
+*--- Rainer Thieringer (rainerthi ät gmail punkt com), Bösingen 2023*
