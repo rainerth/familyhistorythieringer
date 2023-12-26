@@ -2,7 +2,6 @@
 Funde und weitere Quellen
 #########################
 
-
 Digitale Sammlungen der Bayerischen Staatsbibliothek
 	https://www.digitale-sammlungen.de/de/
 
@@ -13,8 +12,34 @@ Otto Dieringer
 	* Trennstelle Thieringer / Dieringer (wegen Hörfehler) https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=428823511-1-500897&action=showRecord
 
 
+Dr. Florian Thieringer, Dr. rer. nat. Hans-Martin Thieringer
+	Recherchen von Florian Thieringer auf `www.thieringer.net <https://www.thieringer.net>`_, Sommer 2005, Florian Thieringer
+
+
 Eugen Thieringer, 26.5.1882, Sulgen
 	Fabrikarbeiter, Deutschlands größter Heiratsschwindler. https://www.digitale-sammlungen.de/de/view/bsb00001151_00451_u001?page=2,3&q=Thieringer
+
+
+Züricher Wappenrolle - Wappen der Ritter von Tieringen
+	* https://de.wikipedia.org/wiki/Z%C3%BCrcher_Wappenrolle
+	* https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/8552495?query=Tieringen
+	* https://www.e-codices.unifr.ch/de/list/one/snm/AG002760
+	* https://www.e-codices.unifr.ch/de/snm/AG002760/2v/0/
+
+
+	.. figure:: ./images/zuericher_wappenrolle_tieringer.png
+
+		Züricher Wappenrolle, Wappen Nr. 328 | Quelle: https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/8552495?query=Tieringen
+
+
+	.. figure:: ./images/zuericher_wappenrolle_e-codices_snm-AG002760_002v_max.png
+
+		Zürich, Schweizerisches Nationalmuseum, AG 2760, f. 3v | Zürcher Wappenrolle | Quelle: http://www.e-codices.ch/de/snm/AG002760/3v/0 | Lizenz Public Domain
+
+
+	.. figure:: ./images/zuericher_wappenrolle_e-codices_snm-AG002760_002v_tieringer.png
+
+		Zürich, Schweizerisches Nationalmuseum, AG 2760, f. 3v | Zürcher Wappenrolle | Quelle: http://www.e-codices.ch/de/snm/AG002760/3v/0 | Lizenz Public Domain
 
 
 `rottweil.net <https://www.rottweil.net/wiki/Hauptseite>`_
