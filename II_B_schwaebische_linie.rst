@@ -134,13 +134,12 @@ Der genannte :index:`Josef Thieringer` (1749-1807) hatte zwei Söhne (VII.Genera
 
 Johann Martin hatte aus 2 Ehen 17 Kinder, darunter die folgenden vier Söhne:
 
-*	:index:`Jakob Thieringer` (1832-1909), Bauer auf dem Waldhof (sogenannter :index:`Wällehof`) bei :index:`Bösingen` Kreis Rottweil. Seine Ehefrau war katholisch. Deren Nachkommen leben heute noch als Bauern auf dem Wällehof bzw. als Handwerker in :index:`Bösingen`. Hierher gehört auch der evangelische Pfarrer :index:`Kurt Thieringer` in :index:`St.Georgen` im Schwarzwald.
+*	:index:`Jakob Thieringer` (1832-1909), Bauer auf dem Waldhof (sogenannter :index:`Wällehof`, in Bösingen eher als :index:'Burawälle' bekannt.) bei :index:`Bösingen` Kreis Rottweil. Seine Ehefrau war katholisch. Deren Nachkommen leben heute noch als Bauern auf dem Wällehof bzw. als Handwerker in :index:`Bösingen`. Hierher gehört auch der evangelische Pfarrer :index:`Kurt Thieringer` in :index:`St.Georgen` im Schwarzwald. Bis heute (2023) ist das *Burawälle* im Besitz der Familie Thieringer, die in den Ort gezogenen Thieringer, sind unter dem Hausnamen *s'Burawälles* bekannt, zum Beispiel *s'Burawälles Seppr* (Josef Thieringer 1934-2023)
 *	:index:`Kaspar Thieringer` (1840-1914), Bauer auf Vierhäuser bei :index:`Schramberg-Sulgen`, Kriegsteilnehmer 1870-1871; dessen Urenkel leben heute in :index:`Sulgen` und :index:`Mariazell`, Kreis Rottweil, ferner in :index:`Täbingen` (Gasthaus "Krone") und :index:`Leidringen` (sogenannte "hintere Mühle") im Kreis Balingen,
 *	:index:`Johannes Thieringer` (1842-1896), Wirt "zum Rössle" in Hochhalden (Weiler von :index:`Lauffen ob Rottweil`).
 
 	Die weit verzweigte, zum Teil katholische Nachkommenschaft von Johannes lebt in der X. und XI. Generation auf Hochhalden als Bäcker und Wirt, in :index:`Bühlingen` (Stadtteil von Rottweil) als Kaufmann, in Rottweil und Stuttgart als Bahnbeamte, in :index:`Denkingen` Kreis Tuttlingen als Bäcker und Wirt (Gasthaus "zur Sonne"), in :index:`Ohmenhausen` bei Reutlingen als Schlosser, Kaufmann und Bürgermeister in :index:`Zimmern ob Rottweil` als Kaufmann in `Lauffen ob Rottweil` als Fabrikarbeiter, endlich in Schramberg (Gasthaus "Zähringer Hof").
 
-.. todo:: es fehlt ein Sohn in der Auflistung.
 
 Dem oben genannten :index:`Konrad Thieringer` (1727-1778), Salpetersieder
 in Weilheim bzw. :index:`Denkingen`, wurden ausser einer Tochter drei Söhne geboren (VI. Generation), von denen wir nur von Konrad (1755-1817) Näheres wissen:

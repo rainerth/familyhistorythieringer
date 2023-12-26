@@ -25,6 +25,9 @@ Aus diesem Grund habe ich mich entschieden, die Arbeit von Otto Dieringer zu dig
 
 Das gesamte Dokument steht unter der `Creative Commons Lizenz (BY-NC-SA 4.0) <https://creativecommons.org/licenses/by-sa/4.0/>`_. Das bedeutet, dass die Arbeit von Otto Dieringer und meine Erweiterungen von jedem frei genutzt werden kann, solange die Nennung der Autoren erfolgt und die Arbeit unter der gleichen Lizenz weitergegeben wird. Ich gehe davon aus, dass dies so im Sinne von Otto Dieringer und seinen Nachfahren ist, die ich sehr gerne kennenlernen würde.
 
-Korrekturen, Ergänzungen oder Hinweise auf Fehler sind jederzeit willkommen.
+Korrekturen, Ergänzungen oder Hinweise auf Fehler sind jederzeit willkommen. Ich werde diese gerne einarbeiten und die Arbeit von Otto Dieringer weiterführen. Die Quelltexte des Chronik werden auf der Plattform `GitHub <https://de.wikipedia.org/wiki/GitHub>`_ verwaltet und laden zur Mitarbeit ein:
 
-*--- Rainer Thieringer (rainerthi ät gmail punkt com), Bösingen 2023*
+https://github.com/rainerth/familyhistorythieringer
+
+
+*--- Rainer Thieringer (rainerthi ät gmail punkt com), Bösingen, Weihnachten 2023*

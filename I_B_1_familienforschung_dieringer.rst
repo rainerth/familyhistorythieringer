@@ -1,6 +1,6 @@
-##############################################
-Überblick über die Familienforschung Dieringer
-##############################################
+###########################################################
+Überblick über die Familienforschung Thieringer / Dieringer
+###########################################################
 
 Zu Beginn des 20. Jahrhunderts hat sich erstmalig der katholische Vikar :index:`Andreas Dieringer` (später Dekan in :index:`Haigerloch`, heute Geistlicher Rat in :index:`Strassberg` / Hohenzollern) mit der Familienforschung beschäftigt. Er hat das Ergebnis seiner Forschung in der Abhandlung **"Das Geschlecht der Dieringer in Rangendingen"** in der Hechinger Zeitung "Der Zoller" vom 25.9.1906 niedergelegt.
 
