@@ -29,10 +29,7 @@ Die Arbeiten des Hochwürdigen Herrn Dekan :index:`Andreas Dieringer` wurden üb
 Dipl.-Ing. :index:`Otto Dieringer` in :index:`Tuttlingen` hat sich vor allem um die Erforschung der Dieringer in :index:`Dürrwangen / Gunningen` verdient gemacht. Auch er hat die Ergebnisse seiner Forschung in einem Buch zusammengefasst, das er 1957 unter dem Titel **"Die Dieringer in Dürrwangen"** veröffentlichte. Es ist in der :index:`Württembergischen Landesbibliothek` in :index:`Stuttgart` unter der Signatur :index:`WLB HB 1957 A 1` vorhanden.
 
 
-Unabhängig davon haben sich seit Jahren Rechtsanwalt :index:`Werner Dieringer` in :index:`Rottweil` sowie der evangelische Pfarrer :index:`Kurt Thieringer` in :index:`Offenburg` (später in :index:`St. Georgen / Schwarzwald`) ebenfalls eingehend mit Familienforschung beschäftigt und insbesondere den Abstammungsnachweis (Stammtafel)
-der :index:`Dürrwanger / Gunninger Linie` geliefert. Dabei fiel auch Herrn Werner
-Dieringer bei seinen verschiedenen Zusammentreffen mit Thieringern (z.B. 1927
-auf dem :index:`Dreifaltigkeitsberg` - und früher) immer der stark ausgeprägte Familiensinn auf, der sonst auf Landorten nicht üblich ist, und der wohl auf das Alter und die frühere Bedeutung und Stellung der Familie zurückzuführen ist. Nach mündlicher Überlieferung soll die Familie  schon sehr alt sein und von altem Adel abstammen.
+Unabhängig davon haben sich seit Jahren Rechtsanwalt :index:`Werner Dieringer` in :index:`Rottweil` sowie der evangelische Pfarrer :index:`Kurt Thieringer` in :index:`Offenburg` (später in :index:`St. Georgen / Schwarzwald`) ebenfalls eingehend mit Familienforschung beschäftigt und insbesondere den Abstammungsnachweis (Stammtafel) der :index:`Dürrwanger / Gunninger Linie` geliefert. Dabei fiel auch Herrn Werner Dieringer bei seinen verschiedenen Zusammentreffen mit Thieringern (z.B. 1927 auf dem :index:`Dreifaltigkeitsberg` - und früher) immer der stark ausgeprägte Familiensinn auf, der sonst auf Landorten nicht üblich ist, und der wohl auf das Alter und die frühere Bedeutung und Stellung der Familie zurückzuführen ist. Nach mündlicher Überlieferung soll die Familie  schon sehr alt sein und von altem Adel abstammen.
 
 Durch alte Familienbilder angeregt, begann der Verfasser vorliegender Arbeit im Jahr 1957 mit genealogischen Forschungen auf breiter Grundlage. Sein Ziel war zunächst eine Darstellung der ganzen Sippe, und zwar seit seinem Urgrossvater. Es wurden vor allem die Kirchenbücher von :index:`Frommern / Dürrwangen`, :index:`Weilheim unter Lochen`, :index:`Erzingen`, :index:`Endingen` u.s.w. nochmals systematisch durchgesehen. Das Ergebnis war im Jahr 1939 ein Sippenbuch mit 154 einzelnen Familien (das später auf 213 Familien erweitert werden konnte), eine Nachfahrenliste, sowie eine Mappe mit fotografischen Reproduktionen alter Familienbilder.Später kam noch ein Stammbaum hinzu. Die Ergebnisse wurden in der Folgezeit durch weitere Forschungen ergänzt.
 
@@ -50,6 +47,14 @@ Rundbriefe, die in regelmässigen Zeitabständen erscheinen könnten, und von ei
 Forschungen des Pfarrers Albert Steim
 -------------------------------------
 
-Pfarrer Albert :index:`Steim` war ein bedeutender Heimatforscher, der sich insbesondere mit der Geschichte des Schwarzwalds und der umliegenden Regionen befasste. Seine Forschungen umfassen oft detaillierte genealogische Aufzeichnungen und historische Analysen, die für die Erforschung süddeutscher Familiennamen wie Thieringer, Tieringer und Dieringer relevant sein können.
+.. index:: Steim, Streng
+
+Pfarrer :index:`Albert Steim` war ein bedeutender Heimatforscher, der sich insbesondere mit der Geschichte des Schwarzwalds und der umliegenden Regionen befasste. Seine Forschungen umfassen oft detaillierte genealogische Aufzeichnungen und historische Analysen, die für die Erforschung süddeutscher Familiennamen wie Thieringer, Tieringer und Dieringer relevant sein können.
 
 Steims Arbeiten sind vor allem für diejenigen von Interesse, die in der regionalen Geschichte und in der Genealogie der süddeutschen Familien vertieft sind. Er hat oft Kirchenbücher und andere historische Dokumente genutzt, um Familienstammbäume zu rekonstruieren und die Geschichte lokaler Gemeinschaften zu dokumentieren. Diese Quellen sind besonders wertvoll, da sie Einblicke in die Lebensweise, soziale Strukturen und Wanderungsbewegungen der Bevölkerung in früheren Jahrhunderten geben.
+
+
+Hermann Streng in Tuttlingen
+----------------------------
+
+Mittelschullehrer :index:`Hermann Streng` führt in den "Tuttlinger Heimatblättern" Nr. 17 von 1934 (S.11-18) in einem Aufsatz "Familiengeschichten aus Tuttlingen" die um 1700 vorkommenden Familiennamen auf, darunter auch :index:`Thiringer`.

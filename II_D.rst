@@ -83,6 +83,16 @@ Wappen des Ortsadels "von Thieringen"
 
 Dieses Wappen der Ritter von Thieringen findet sich seit Jahren in Haus des Rechtsanwalts :index:`Werner Dieringer` in :index:`Rottweil`, des evangelischen Pfarrers :index:`Kurt Thieringer` in :index:`St. Georgen` (hier auch als Siegel), und neuerdings auch in der evangelischen Dorfkirche in :index:`Tieringen` Kreis Balingen. Ihm kommt zweifellos die grösste Bedeutung zu.
 
+.. figure:: ./images/wappen-gemeinde-tieringen.*
+	:width: 150px
+	:align: right
+
+	Gemeinde Tieringen
+
+Das Wappen der Gemeinde Tieringen\ [#]_ übernimmt das Schild der Ritter von Thieringen, die im 13. und 14. Jahrhundert in Tieringen begütert waren. Der silberne Zickzackbalken auf blauem Grund ist das Wappen der Ritter von Thieringen. Der rote Kübelhelm mit dem schwarzen Hahnenbusch ist der Helm der Ritter von Thieringen. Die Farben des Wappens sind die Farben der Grafen von Hohenberg, denen die Ritter von Thieringen als Lehensleute dienten.
+
+
+
 Andere (angebliche) Thieringer-Wappen:
 ======================================
 
@@ -168,11 +178,11 @@ Andere (angebliche) Thieringer-Wappen:
 
 
 
-.. figure:: ./images/wappen-thieringen-zuericher-wappenrolle.*
+.. figure:: ./images/wappen-tieringer-zuericher-wappenrolle.*
 	:height: 400px
 	:align: left
 
-	Züricher Wappenrolle
+	Züricher Wappenrolle, Wappen Nr. 328 | Quelle: https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/8552495
 
 
 .. figure:: ./images/wappen-thieringen-werningeroder-wappenbuch.*
@@ -181,9 +191,18 @@ Andere (angebliche) Thieringer-Wappen:
 
 	Werningeroder Wappenbuch
 
+
 .. figure:: ./images/wappen-thieringer-heraldische-beratungsstelle.png
 	:width: 600px
 	:align: center
 
 	Skizze der "Heraldische Beratungsstelle", Stuttgart, 1958
 
+
+
+Quellen:
+
+* `Werningroder Wappenbuch <https://de.wikipedia.org/wiki/Wernigeroder_Wappenbuch>`_
+* `Züricher Wappenbuch der Uni Düsseldorf <https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/8552495>`_
+
+.. [#] Quelle: `Wikimedia <https://commons.wikimedia.org/w/index.php?curid=5300052>`_

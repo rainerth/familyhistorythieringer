@@ -3,8 +3,9 @@ Funde und weitere Quellen
 #########################
 
 Digitale Sammlungen der Bayerischen Staatsbibliothek
-	https://www.digitale-sammlungen.de/de/
-
+	* https://www.digitale-sammlungen.de/de/
+	* `Monumenta Hohenbergica : Urkundenbuch zur Geschichte der Grafen von Zollern-Hohenberg und ihrer Grafschaft <https://www.digitale-sammlungen.de/de/view/bsb10014140?page=4,5>`_ mit Suchmöglichkeiten zu Tieringen, Tieringer, Thieringen, Thieringer
+	* https://www.digitale-sammlungen.de/de/view/bsb10014140?q=tieringen&page=72,73
 
 Otto Dieringer
 	* https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=428823511-1-501477&action=showRecord&recordTitle=Otto+Dieringer

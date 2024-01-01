@@ -266,17 +266,52 @@ k) weitere Begriffe
 		Heute würde man für solche Zustände spezifischere medizinische Begriffe verwenden, basierend auf einer genauen Diagnose der Ursache der Symptome.
 
 	fl.
-		Florentiner oder Gulden. Der Florentiner (lateinisch Florenus, italienisch Fiorino d’oro, französisch Florin) war eine im Spätmittelalter in Europa weit verbreitete Währung. Er war eine von 1252 bis 1533 in Florenz geprägte Goldmünze.
+		Florentiner oder Gulden. Der Florentiner (lateinisch Florenus, italienisch Fiorino d'oro, französisch Florin) war eine im Spätmittelalter in Europa weit verbreitete Währung. Er war eine von 1252 bis 1533 in Florenz geprägte Goldmünze.
 		Quelle: `Wikipedia Florentiner <https://de.wikipedia.org/wiki/Florentiner_(Goldm%C3%BCnze)>`_
 
 
 	Salniter
 	Saliter
-		Der alte und nicht mehr gebräuchliche Name für Salpeterer ist entstanden aus sal und nitrum, zu finden im `Deutschen Wörterbuch von Jacob Grimm und Wilhelm Grimm, Erstbearbeitung (1854–1960), digitalisierte Version im Digitalen Wörterbuch der deutschen Sprache <https://www.dwds.de/wb/dwb/salniter>`_
+		Der alte und nicht mehr gebräuchliche Name für Salpeterer ist entstanden aus sal und nitrum, zu finden im `Deutschen Wörterbuch von Jacob Grimm und Wilhelm Grimm, Erstbearbeitung (1854 - 1960), digitalisierte Version im Digitalen Wörterbuch der deutschen Sprache <https://www.dwds.de/wb/dwb/salniter>`_
 
 	Butte
 		Die Butte (etymologisch verwandt mit dem Bottich) ist ein großes Gefäß von runder oder ovaler Form ohne Deckel. In der Regel sind diese Gefäße breiter als hoch. Butten werden aus Holz, Stein, Ton, Metall oder Kunststoff hergestellt. `Wikipedia: Butte <https://de.wikipedia.org/wiki/B%C3%BCtte>`_
 
+
+
+	Profess
+		"Profess" im Kontext des Werdegangs einer Ordensschwester bezieht sich auf das feierliche Gelübde oder die Profess, die sie ablegt, um formell Teil eines religiösen Ordens zu werden. Dies ist ein entscheidender Schritt im Leben einer Ordensperson, insbesondere in der katholischen Kirche.
+
+		Die Profess erfolgt nach einer Vorbereitungszeit, dem Noviziat, in der die angehende Ordensschwester das Ordensleben kennenlernt, spirituelle Bildung erhält und ihre Berufung prüft. Bei der Profess legt die Schwester Gelübde ab, die meist Armut, Keuschheit und Gehorsam umfassen, und verpflichtet sich damit zu einem Leben im Dienste Gottes und der Gemeinschaft gemäß den Regeln ihres Ordens.
+
+		Diese Tradition hat eine lange Geschichte, die bis in die frühen Tage des Christentums zurückreicht. In Süddeutschland, wo die katholische Kirche traditionell stark verwurzelt ist, spielten Klöster und Ordensgemeinschaften eine wichtige Rolle in der sozialen, kulturellen und spirituellen Entwicklung der Region. Sie waren oft Zentren der Bildung, der Krankenpflege und der Armenfürsorge. Die Entscheidung zur Profess und das Leben als Ordensschwester waren daher tief in der lokalen Kultur und Spiritualität verankert.
+
+	Bürger
+		Der Begriff "Bürger" bezieht sich auf eine Person, die bestimmte Rechte und Pflichten innerhalb einer Stadt oder eines Marktfleckens besitzt. Diese Rechte wurden durch den Erwerb des Bürgerrechts erlangt, welches meistens den Zugang zu städtischen Privilegien, Handwerkszünften und dem Recht auf Handel sowie politische Teilhabe umfasste.
+		Bürger waren oft Handwerker, Kaufleute oder Angehörige anderer freier Berufe. Sie hatten im Gegensatz zu Bauern oder Leibeigenen auf dem Land eine größere rechtliche Selbstständigkeit und waren Teil der städtischen Verwaltung und Selbstverwaltung.
+
+	Seldner
+	Selcher
+		"Seldner" (auch Söldner, Selcher, Seldner) waren Bewohner ländlicher Gebiete oder kleinerer Ortschaften, die ein Seldengut (eine Art Pacht- oder Leibrente) bewirtschafteten. Ein Seldengut war ein Grundstück mit Wohnhaus und landwirtschaftlicher Nutzfläche, das gegen Zahlung einer jährlichen Abgabe (Selden) genutzt wurde.
+		Seldner waren keine Eigentümer ihres Landes, sondern Pächter. Sie standen in einem Abhängigkeitsverhältnis zum Grundherrn, von dem sie das Land gepachtet hatten, waren aber freie Personen im Gegensatz zu Leibeigenen.
+		Seldner waren in der sozialen Hierarchie oft höher angesehen als Tagelöhner, aber niedriger als vollberechtigte Bauern mit eigenem Landbesitz.
+
+	Kommissionär
+		Um 1900 war ein Kommissionär eine Person, die im Handel tätig war und Geschäfte im Auftrag und auf Rechnung anderer Personen (seiner Auftraggeber oder Kommitenten) durchführte. Die Rolle und Funktion eines Kommissionärs in dieser Zeit lassen sich wie folgt zusammenfassen:
+
+		* Geschäftsvermittlung: Der Kommissionär agierte als Mittelsmann zwischen Verkäufern und Käufern. Er führte Kauf- oder Verkaufsorders aus, meist ohne dass die Endkunden oder Lieferanten direkten Kontakt miteinander hatten.
+
+		* Selbstständigkeit: Im Gegensatz zu einem Angestellten oder Beauftragten arbeitete der Kommissionär selbstständig. Er war kein Angestellter des Auftraggebers, sondern ein unabhängiger Unternehmer.
+
+		* Provision: Für seine Dienste erhielt der Kommissionär eine Provision, die sich meist nach dem Wert oder der Menge der gehandelten Waren richtete.
+
+		* Branchen: Kommissionäre waren in verschiedenen Branchen tätig, zum Beispiel im Handel mit Rohstoffen, Lebensmitteln, Textilien oder auch in der Finanzbranche.
+
+		* Risiko und Verantwortung: In der Regel trug der Kommissionär kein Risiko für die gehandelten Waren, da er im Auftrag und auf Rechnung des Auftraggebers handelte. Seine Verantwortung lag hauptsächlich in der ordnungsgemäßen Ausführung der ihm übertragenen Geschäfte.
+
+		* Rechtliche Grundlage: Die Tätigkeit und die Rechtsbeziehungen des Kommissionärs waren im Handelsgesetzbuch (HGB) geregelt. Dieses regelte unter anderem seine Pflichten, Rechte und die Abwicklung der Kommissionsgeschäfte.
+
+		In der Zeit um 1900 war der Beruf des Kommissionärs besonders wichtig, da er eine zentrale Rolle im Handelsverkehr spielte, der noch nicht durch moderne Kommunikationsmittel und Logistiknetzwerke unterstützt wurde. Kommissionäre erleichterten den Handel, insbesondere über größere Distanzen und bei komplexen Produkten.
 
 
 .. rubric:: Fußnoten
