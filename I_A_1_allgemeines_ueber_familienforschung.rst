@@ -7,6 +7,8 @@ Genealogische Grundbegriffe\ [#]_
 *********************************
 
 .. glossary::
+	:sorted:
+
 	Genealogie
 		Ahnenforschung, Familienforschung, Sippenforschung. Das Wort "Abstammung" deutet schon auf die Kette: der Ahnen hin. Jeder Mensch ist als Einzelgeschöpf etwas Einmaliges, noch nie Dagewesenes. Seine Art, zu denken, zu sein und zu wirken lässt sich nur verstehen unter Berücksichtigung seiner bestimmten Erbanlagen, Erziehung und Umwelteinflüsse.
 
@@ -205,6 +207,8 @@ k) weitere Begriffe
 ===================
 
 .. glossary::
+	:sorted:
+
 
 	Laienzehnten
 		Abgabe an den Pfarrer, die der Pfarrer von den Bauern erhielt, die nicht zum Adel gehörten.
