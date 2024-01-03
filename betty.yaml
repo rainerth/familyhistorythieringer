@@ -1,0 +1,42 @@
+base_url: https://chronik.thieringer.de
+debug: true
+root_path: /ancestry
+clean_urls: true
+title: Thieringer / Dieringer
+author: Rainer Thieringer
+lifetime_threshold: 110
+locales:
+  en-US:
+    alias: en
+  nl: {}
+entity_types:
+  Person:
+    generate_html_list: true
+  File:
+    generate_html_list: false
+extensions:
+  betty.extension.CottonCandy:
+    configuration:
+      primary_inactive_color: '#ffc0cb'
+      primary_active_color: '#ff69b4'
+      link_inactive_color: '#149988'
+      link_active_color: '#2a615a'
+      featured_entities:
+        - entity_type: Person
+          entity_id: P123
+        - entity_type: Place
+          entity_id: Amsterdam
+  betty.extension.Deriver: {}
+  betty.extension.Gramps:
+    configuration:
+      family_trees:
+        - file: /home/rainerth/prj/stammbaum/gramps/thieringer-dieringer.gpkg
+  betty.extension.HttpApiDoc: {}
+  betty.extension.Maps: {}
+  betty.extension.Nginx:
+    configuration:
+      https: true
+      www_directory_path: /var/www/betty
+  betty.extension.Privatizer: {}
+  betty.extension.Trees: {}
+  betty.extension.Wikipedia: {}

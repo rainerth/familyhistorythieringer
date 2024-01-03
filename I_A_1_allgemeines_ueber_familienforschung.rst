@@ -318,6 +318,73 @@ k) weitere Begriffe
 		In der Zeit um 1900 war der Beruf des Kommissionärs besonders wichtig, da er eine zentrale Rolle im Handelsverkehr spielte, der noch nicht durch moderne Kommunikationsmittel und Logistiknetzwerke unterstützt wurde. Kommissionäre erleichterten den Handel, insbesondere über größere Distanzen und bei komplexen Produkten.
 
 
+	Medizinalrat
+	Med.Rat.
+		Medizinalrat war ein Titel, der im 19. Jahrhundert in Deutschland und Österreich für Ärzte verwendet wurde. Er wurde von der Regierung verliehen und war mit bestimmten Rechten und Privilegien verbunden. Der Titel wurde in der Regel an Ärzte verliehen, die in der öffentlichen Verwaltung tätig waren, z.B. als Amtsarzt oder in der Militärmedizin.
+
+		Quelle: `Wikipedia: Medizinalrat <https://de.wikipedia.org/wiki/Medizinalrat>`_
+
+
+	Dörrsucht
+		"Dörrsucht" ist ein historischer Begriff, der in alten medizinischen Dokumenten und Totenscheinen als Todesursache aufgeführt wurde. Dieser Begriff ist heute nicht mehr gebräuchlich und kann in moderner medizinischer Terminologie nicht direkt übersetzt werden. Seine Bedeutung hängt vom Kontext und von den medizinischen Kenntnissen der jeweiligen Zeit ab. Allgemein bezeichnete "Dörrsucht" eine körperliche Verfassung, die durch extreme Abmagerung und Schwächung gekennzeichnet war.
+
+		Mögliche Interpretationen von "Dörrsucht" als Todesursache umfassen:
+
+		*	Tuberkulose (Schwindsucht): In vielen historischen Kontexten war "Dörrsucht" ein Synonym für Tuberkulose (auch als Schwindsucht bekannt). Diese Krankheit führte zu starker Abmagerung und chronischem Husten und war bis ins 20. Jahrhundert hinein eine häufige Todesursache.
+
+		*	Kachexie: Der Begriff könnte auch einen Zustand der Kachexie beschreiben, eine extreme Abmagerung und Schwächung des Körpers, die oft als Folge chronischer Krankheiten wie Krebs, schweren Infektionen oder unheilbaren Leiden auftritt.
+
+		*	Unterernährung und Auszehrung: In manchen Fällen könnte "Dörrsucht" auch einfach Unterernährung oder körperliche Auszehrung bedeuten, die durch unzureichende Nahrungszufuhr oder die Unfähigkeit des Körpers, Nahrung aufzunehmen und zu verarbeiten, verursacht wurde.
+
+		*	Altersschwäche: In einigen historischen Kontexten wurde "Dörrsucht" möglicherweise als eine Art Altersschwäche angesehen, bei der der Körper allmählich seine Funktionen einstellte.
+
+		Da die medizinische Diagnostik in der Vergangenheit nicht den heutigen Standards entsprach, waren die Beschreibungen von Krankheiten und Todesursachen oft ungenau oder basierten auf beobachtbaren Symptomen statt auf genauen medizinischen Ursachen. "Dörrsucht" als Todesursache reflektiert diese historischen Beschränkungen der medizinischen Wissenschaft.
+
+
+	abierunt clam cum familia
+
+		Der lateinische Eintrag "abierunt clam cum familia" in einem historischen Familienregister aus dem Jahr 1742 kann übersetzt werden als "sie gingen heimlich mit der Familie weg". Dieser Eintrag bietet interessante Einblicke in die damaligen sozialen und rechtlichen Umstände:
+
+		*	Heimliches Verlassen: Der Ausdruck "clam" bedeutet "heimlich" oder "versteckt". Dies deutet darauf hin, dass die betreffende Person oder Familie ihren Wohnort oder ihre Gemeinde verlassen hat, ohne die üblichen oder erforderlichen Benachrichtigungen oder formalen Prozesse zu durchlaufen.
+
+		*	Gesamte Familie involviert: Der Zusatz "cum familia" (mit der Familie) lässt darauf schließen, dass nicht nur eine Einzelperson, sondern die gesamte Familie betroffen war. Dies könnte bedeuten, dass der Familienhaushalt insgesamt den Ort verlassen hat.
+
+		*	Mögliche Gründe und Kontext: Die Gründe für ein solches heimliches Verlassen könnten vielfältig sein. Mögliche Ursachen könnten wirtschaftliche Schwierigkeiten, Schulden, Konflikte mit dem Gesetz oder der Gemeinde, religiöse oder politische Verfolgung oder der Wunsch nach einem Neuanfang an einem anderen Ort sein.
+
+		*	Soziale und rechtliche Bedeutung: Zu dieser Zeit waren die Bewegungsfreiheit und die Wohnortwahl oft eingeschränkt. Das Verlassen des Wohnorts ohne offizielle Genehmigung oder ohne die Einhaltung bestimmter Vorschriften konnte rechtliche Konsequenzen haben. Der Eintrag im Register könnte also auch eine administrative Notiz sein, die auf eine Unregelmäßigkeit oder einen Verstoß gegen lokale Vorschriften hinweist.
+
+		*	Historische Dokumentation: Solche Einträge in alten Registern sind wertvolle historische Dokumente. Sie bieten Einblicke in das Leben der Menschen in der Vergangenheit, ihre Beweggründe, ihre Herausforderungen und die sozialen sowie rechtlichen Strukturen ihrer Zeit.
+
+		Insgesamt spiegelt der Eintrag "abierunt clam cum familia" eine Situation wider, in der eine Familie aus unbekannten Gründen beschloss, ihren Wohnort heimlich zu verlassen, was zu dieser Zeit ungewöhnlich und möglicherweise mit Risiken verbunden war.
+
+		geschworenes Weib
+			Im 18. Jahrhundert bezeichnete der Ausdruck "geschworenes Weib" eine Frau, die offiziell eine Eidesleistung abgelegt hatte, um eine bestimmte berufliche oder gesellschaftliche Rolle oder Funktion auszuüben. Dieser Begriff wurde insbesondere im Kontext von Berufen oder Tätigkeiten verwendet, die eine formelle Anerkennung oder Legitimierung durch einen Eid erforderten. Einige Beispiele und Kontexte sind:
+
+			*	Hebammen: Eine häufige Anwendung fand der Begriff bei Hebammen. Geschworene Hebammen hatten einen Eid abgelegt, in dem sie sich verpflichteten, ihren Beruf nach bestem Wissen und Gewissen und gemäß den damaligen medizinischen Kenntnissen auszuüben. Dieser Eid konnte auch beinhalten, dass sie bestimmte ethische und professionelle Standards einhalten und gegebenenfalls in gerichtlichen Angelegenheiten als sachkundige Zeuginnen auftreten.
+
+			*	Gerichtliche Funktionen: In einigen Fällen wurden Frauen für spezifische Aufgaben im Gerichtswesen vereidigt. Zum Beispiel konnten geschworene Weiber in Prozessen mitwirken, in denen es um Anklagen gegen Frauen ging, insbesondere in Fällen, die eine körperliche Untersuchung erforderten.
+
+			*	Eid als Legitimation: Der Eid verlieh der Tätigkeit der Frau eine formelle Anerkennung und diente der Gemeinschaft als Garantie für ihre Zuverlässigkeit, ihr Fachwissen und ihre Integrität. Dies war besonders wichtig in einer Zeit, in der Frauen nur begrenzten Zugang zu formaler Bildung und beruflicher Anerkennung hatten.
+
+			*	Sozialer und rechtlicher Status: Die Tatsache, dass eine Frau als "geschworen" bezeichnet wurde, hebt ihren besonderen rechtlichen und sozialen Status hervor. Sie war nicht nur in ihrem Fachgebiet kompetent, sondern auch gesellschaftlich anerkannt und hatte eine gewisse Autorität.
+
+			*	Historischer Kontext: Die Bezeichnung "geschworenes Weib" reflektiert die Geschlechterrollen und die gesellschaftliche Ordnung des 18. Jahrhunderts. Während Männer in vielen Berufen tätig sein konnten, ohne einen speziellen Eid abzulegen, war für Frauen in einigen Fällen ein solcher Eid erforderlich, um ihre Tätigkeit zu legitimieren.
+
+			Insgesamt zeigt der Begriff "geschworenes Weib", wie im 18. Jahrhundert bestimmte Berufe oder Funktionen für Frauen durch den Akt des Schwörens eine offizielle Anerkennung erlangten, was sowohl ihre berufliche als auch ihre gesellschaftliche Stellung beeinflusste.
+
+
+		Kulturtechniker
+			Der Begriff "Kulturtechniker" bezieht sich historisch auf eine Berufsgruppe, die in verschiedenen Bereichen der Land- und Forstwirtschaft, des Wasserbaus, der Vermessung und ähnlichen Feldern tätig war. Dieser Beruf entstand im Kontext der fortschreitenden Industrialisierung und Modernisierung im 19. und frühen 20. Jahrhundert, besonders in Ländern wie Deutschland.
+
+			Kulturtechniker waren oft mit Aufgaben betraut, die die Verbesserung und Entwicklung landwirtschaftlicher Flächen betrafen. Dazu gehörten:
+
+			*	Landvermessung und Kartierung: Sie maßen Landflächen aus und erstellten Karten, um die Nutzung und Aufteilung des Bodens zu optimieren.
+			*	Wasserbau und -management: Die Planung und Umsetzung von Bewässerungssystemen, Entwässerungsarbeiten und Hochwasserschutz gehörten zu ihren Aufgaben.
+			*	Bodenkultur und -verbesserung: Dazu zählten Maßnahmen wie die Melioration, also die Verbesserung von Böden für die landwirtschaftliche Nutzung.
+			*	Forstwirtschaft: Auch in der Forstwirtschaft leisteten sie Beiträge, zum Beispiel durch Aufforstung oder die Planung von Forstwegen.
+
+			Die Ausbildung zum Kulturtechniker war oft technisch und landwirtschaftlich orientiert und konnte an spezialisierten Schulen oder Instituten erfolgen. Heute würde man ähnliche Berufsfelder unter Begriffen wie Agraringenieurwesen, Umwelttechnik oder Geoinformatik finden. Der historische Beruf des Kulturtechnikers spiegelt die enge Verbindung zwischen technologischem Fortschritt und landwirtschaftlicher Entwicklung wider, besonders in Regionen wie Süddeutschland, wo Landwirtschaft traditionell eine wichtige Rolle spielte.
+
 .. rubric:: Fußnoten
 
 .. [#] Quellen:
